@@ -1,0 +1,48 @@
+baseURL: 
+title: 𝕷𝖞𝖗𝖆 𝖆
+theme: ["hugo-book", "hugo-shortcode-gallery"]
+defaultContentLanguage: zh
+disableLanguages:
+- en
+disablePathToLower: false
+enableGitInfo: false
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+languages:
+  zh:
+    languageName: Chinese
+    contentDir: content.zh
+    weight: 1
+  en:
+    languageName: English
+    contentDir: content.en
+    weight: 2
+params:
+  BookTheme: "light"
+  BookToC: false
+  BookSection: docs
+  BookMenuBundle: /menu
+# BookRepo: https://github.com/alex-shpak/hugo-book
+# BookEditPath: edit/main/exampleSite
+  BookDateFormat: "January 2, 2006"
+  BookSearch: true
+# BookComments: true
+  BookPortableLinks: true
+  BookServiceWorker: true
+  BookTranslatedOnly: true
+# menu:
+#   after:
+#     - name: "Github"
+#       url: "https://github.com/alex-shpak/hugo-book"
+#       weight: 10
+#     - name: "Hugo Themes"
+#       url: "https://themes.gohugo.io/hugo-book/"
+#       weight: 20
+
+imaging:
+  exif:
+    includeFields: ".*"
