@@ -166,3 +166,5 @@ jQuery("#lg-video")
     );
   });
 </script>
+
+tool: losslesscut, kdenlive(rescale), ffmpeg-batch, subtitle-edit, neav1e, srt2vtt, calcutext

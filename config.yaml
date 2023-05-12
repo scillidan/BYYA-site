@@ -1,5 +1,7 @@
 baseURL: 
-title: 𝕷𝖞𝖗𝖆 𝖆
+title: 𝕭𝖄𝖄𝕬 𝖒𝖆𝖗𝖐𝖙
+subtitle: byya markt
+description: byya, 拜雅
 theme: ["hugo-book", "hugo-shortcode-gallery"]
 defaultContentLanguage: zh
 disableLanguages:

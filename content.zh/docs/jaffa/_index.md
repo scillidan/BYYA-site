@@ -502,4 +502,4 @@ title: jaffa
 <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.7.0/plugins/thumbnail/lg-thumbnail.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.7.1/plugins/zoom/lg-zoom.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/tooltipster@4.2.8/dist/js/tooltipster.bundle.min.js"></script>
-<script type="text/javascript" src="/script/main.js"></script>
+<script type="text/javascript" src="/script/lg-image.js"></script>

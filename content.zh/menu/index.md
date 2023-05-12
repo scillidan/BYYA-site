@@ -4,12 +4,14 @@ headless: true
 
 - [**demo**]({{< relref "/docs/demo" >}})
 - [lg-video]({{< relref "/docs/lg-video" >}})
+- [cumaean]({{< relref "/docs/cumaean" >}})
 <br />
 
 - [**nineveh**]({{< relref "/docs/nineveh" >}})
 - [amphissa]({{< relref "/docs/amphissa" >}})
 - [laguna]({{< relref "/docs/laguna" >}})
 - [jaffa]({{< relref "/docs/jaffa" >}})
+- [附录]({{< relref "/docs/nineveh-appendix" >}})
 <br />
 
 - [**tower**]({{< relref "/docs/tower" >}})
@@ -17,10 +19,10 @@ headless: true
 - [sword ii]({{< relref "/docs/sword-ii" >}})
 <br />
 
-- [**orion α**]({{< relref "/docs/orion-a" >}})
-- [lyra α]({{< relref "/docs/lyra-a" >}})
+- [**lyra α**]({{< relref "/docs/lyra-a" >}})
 - [lyra β]({{< relref "/docs/lyra-b" >}})
-- [附录]({{< relref "/docs/appendix" >}})
+- [orion α]({{< relref "/docs/orion-a" >}})
+- [附录]({{< relref "/docs/lyra-appendix" >}})
 - [食谱]({{< relref "/docs/recipt" >}})
 <br />
 
