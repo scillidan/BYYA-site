@@ -1,7 +1,6 @@
 ---
 title: jaffa
 ---
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.7.0/css/lightgallery.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.7.0/css/lg-thumbnail.css" />
@@ -10,6 +9,13 @@ title: jaffa
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tooltipster@4.2.8/dist/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-light.min.css" />
 
 <div id="lg-image">
+    <a href="jaffa/Mimosa tenuiflora.jpg"
+        data-sub-html="<div class='lightGallery-captions'>
+        <h4>Mimosa tenuiflora ⚪<span class='tooltip2' title=''>细花含羞草</span></h4>
+        <p>.img by <a href='https://www.flickr.com/photos/cerrados/' target='_blank' rel='nofollow noopener'>João Medeiros</a> on <a href='https://www.flickr.com/photos/cerrados/6945978738' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='nofollow noopener'>cc by 2.0</a></p>
+        </div>">
+        <img src="jaffa/Mimosa tenuiflora.jpg" />
+    </a>
     <a href="jaffa/Lynx.jpg"
         data-sub-html="<div class='lightGallery-captions'>
 		<h4>Lynx ⚪<span class='tooltip2' title=''>猞猁</span></h4>

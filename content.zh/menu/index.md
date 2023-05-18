@@ -2,6 +2,7 @@
 headless: true
 ---
 
+- [**repo**]({{< relref "/docs/repo" >}})
 - [**demo**]({{< relref "/docs/demo" >}})
 - [lg-video]({{< relref "/docs/lg-video" >}})
 - [cumaean]({{< relref "/docs/cumaean" >}})
