@@ -1,5 +1,6 @@
 ---
 title: lg-video
+date: 2023-05-10
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.7.0/css/lightgallery.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.7.0/css/lg-thumbnail.css" />
@@ -53,7 +54,25 @@ title: lg-video
   </a>
 </div>
 
-tool: losslesscut, kdenlive(rescale), ffmpeg-batch, subtitle-edit, neav1e, srt2vtt, calcutext
+## Reference
+
+https://www.lightgalleryjs.com/demos/video-gallery/  
+https://www.lightgalleryjs.com/demos/thumbnails/
+
+## Tools
+
+- [LosslessCut](https://github.com/mifi/lossless-cut)
+- [Kdenlive](https://kdenlive.org)
+- [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch)
+- [Subtitle Edit](https://nikse.dk/subtitleedit)
+- [NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes)
+- [SRT to VTT Command Line](https://github.com/nwoltman/srt-to-vtt-cl)
+- [Calcutext](https://github.com/jaredreich/calcutext)
+
+## Todo
+
+- [x] 更换视频CDN源为其他源
+- [ ] 手机端显示bug？
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.js"></script>

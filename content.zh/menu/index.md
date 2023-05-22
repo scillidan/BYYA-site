@@ -3,7 +3,6 @@ headless: true
 ---
 
 - [**repo**]({{< relref "/docs/repo" >}})
-- [**demo**]({{< relref "/docs/demo" >}})
 - [lg-video]({{< relref "/docs/lg-video" >}})
 - [cumaean]({{< relref "/docs/cumaean" >}})
 <br />
@@ -27,4 +26,6 @@ headless: true
 - [食谱]({{< relref "/docs/recipt" >}})
 <br />
 
+- [截图]({{< relref "/docs/screenshot" >}})
+- [blog]({{< relref "/posts" >}})
 - [草稿]({{< relref "/docs/draft" >}})
