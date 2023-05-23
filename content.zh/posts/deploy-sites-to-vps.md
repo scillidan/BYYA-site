@@ -15,6 +15,8 @@ BookToC: true
 5. 网站备案 > 我的备案 > 网站信息 > 新增网站 > ...
 6. 留意核验短信
 
+流程记于2021年。随着平台的更新，具体操作可能会有些变化，但旧笔记可以沿用。
+
 ## Rocky Linux ^ Ubuntu
 
 云服务器 > 实例 > … > 更多操作 > 重装系统 > 公共镜像 > ...
@@ -341,7 +343,14 @@ git push -u origin master
 
 ### 配置CORS (Expand Content)
 
-如果打算自建CDN字体加速。
+可用于CDN字体服务等。详情请参考[设置静态网站](https://cloud.tencent.com/document/product/436/14984)、[设置跨域访问](https://cloud.tencent.com/document/product/436/13318)。大致流程为：
+
+1. 新建储存桶，用于静态网站
+    - 储存桶 > 安全管理 > 跨域访问CORS设置 > 添加规则
+    - 上传网页字体文体到储存桶
+2. 给储存桶设置CDN加速
+    - 设置HTTP响应头配置
+3. 在`.css`文件中调用字体文件的网址，进行测试
 
 ## VNC server (Optional)
 
