@@ -210,7 +210,6 @@ sudo apt-get install python-certbot-nginx
 sudo certbot --authenticator webroot --installer nginx
 sudo certbot --nginx -d example.com
 sudo certbot renew --dry-run
-sudo certbot delete --cert-name example.com
 ```
 {{< /tab >}}
 {{< /tabs >}}
@@ -326,7 +325,6 @@ reference:
 git add .
 git commit -m "text"
 git push -u origin master
-git push
 ```
 
 ## CDN (Optional)
@@ -387,7 +385,7 @@ geometry=1280x800
 sudo systemctl start firewalld
 ```
 
-If you need to close the process.
+If you need to kill the process.
 
 ```bash
 pf -fu vncuser
