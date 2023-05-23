@@ -27,5 +27,6 @@ headless: true
 <br />
 
 - [截图]({{< relref "/docs/screenshot" >}})
+- [相片]({{< relref "/docs/camera" >}})
 - [blog]({{< relref "/posts" >}})
 - [草稿]({{< relref "/docs/draft" >}})
