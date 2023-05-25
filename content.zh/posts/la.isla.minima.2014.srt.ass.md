@@ -2,7 +2,9 @@
 title: la.isla.minima.2014.srt.ass
 author: scillidan
 date: 2021-12-01
-description: GoldenDict, 沙拉查词, Saladict, autosub, alass-cli
+description: "GoldenDict, 沙拉查词, Saladict, autosub, alass-cli"
+categories: ""
+tags: "srt"
 BookToC: true
 ---
 

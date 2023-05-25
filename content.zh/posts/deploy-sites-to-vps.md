@@ -2,11 +2,13 @@
 title: Deploy Sites to VPS
 author: scillidan
 date: 2023-05-01
-description: Deploy Site, Rocky Linux, Apache , Ubuntu, Negix, VPS
+description: "Deploy Site, Rocky Linux, Apache , Ubuntu, Nginx, VPS"
+categories: ""
+tags: ["html"]
 BookToC: true
 ---
 
-## 腾讯云VPS (不是广告)
+## 腾讯云VPS
 
 1. 注册腾讯云帐号 > 实名认证
 2. 云服务器 > 立即选购
@@ -17,13 +19,12 @@ BookToC: true
 
 流程记于2021年。随着平台的更新，具体操作可能会有些变化，但旧笔记可以沿用。
 
-## Rocky Linux ^ Ubuntu
+## Rocky Linux[^1] ^ Ubuntu
 
 云服务器 > 实例 > … > 更多操作 > 重装系统 > 公共镜像 > ...
 
 {{< tabs "tab1" >}}
 {{< tab "Rocky Linux" >}}
-
 ```bash
 hostnamectl
 dnf update -y
@@ -39,11 +40,7 @@ chmod u+x migrate2rocky.sh
 ./migrate2rocky.sh -r
 sudo reboot
 ```
-
-reference:  
-1. https://docs.rockylinux.org/guides/migrate2rocky
 {{< /tab >}}
-
 {{< tab "Ubuntu" >}}
 ```bash
 sudo apt-get update
@@ -52,18 +49,16 @@ sudo apt-get upgrade -y
 {{< /tab >}}
 {{< /tabs >}}
 
-## Apache ^ Nginx
+## Apache[^2] ^ Nginx[^3]
 
 {{< tabs "tab2" >}}
 {{< tab "Rocky Linux" >}}
-
 ```bash
 dnf install httpd php -y
 systemctl enable httpd
 ```
 
-reference:  
-1. https://docs.rockylinux.org/guides/web/apache-sites-enabled
+![](../media/rocky-linux-&-apache.png)
 {{< /tab >}}
 {{< tab "Ubuntu" >}}
 ```bash
@@ -71,15 +66,10 @@ sudo apt-get install nginx -y
 sudo service nginx restart
 systemctl daemon-reload
 ```
-
-reference:  
-1. https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-centos-8
 {{< /tab >}}
 {{< /tabs >}}
 
-![](../media/rocky-linux-&-apache.png)
-
-## create sites.conf
+## create sites.conf[^4] [^5]
 
 {{< tabs "tab3" >}}
 {{< tab "Rocky Linux" >}}
@@ -105,10 +95,6 @@ vi /etc/httpd/conf.d/example.com.conf
 sudo systemctl restart httpd
 sudo systemctl status httpd
 ```
-
-reference:  
-1. https://docs.rockylinux.org/guides/web/apache-sites-enabled
-2. https://linuxapt.com/blog/706-encrypt-apache-webserver-with-lets-encrypt-ssl-certificate-on-rocky-linux-8
 
 {{< /tab >}}
 {{< tab "Ubuntu" >}}
@@ -173,7 +159,7 @@ sudo systemctl restart httpd
 {{< /tab >}}
 {{< /tabs >}}
 
-## enable SSL
+## SSL[^6] [^7]
 
 {{< tabs "tab4" >}}
 {{< tab "Rocky Linux" >}}
@@ -200,8 +186,6 @@ sudo certbot renew --dry-run
 sudo certbot --apache delete -d example1.com
 ```
 
-Reference:  
-1. https://www.tecmint.com/secure-apache-with-ssl-in-rocky-linux
 {{< /tab >}}
 {{< tab "Ubuntu" >}}
 ```bash
@@ -215,9 +199,6 @@ sudo certbot renew --dry-run
 ```
 {{< /tab >}}
 {{< /tabs >}}
-
-Reference:  
-1. https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-centos-8
 
 ## git init (on PC)
 
@@ -275,9 +256,7 @@ deploy:
 {{< /tab >}}
 {{< /tabs >}}
 
-## create post-receive
-
-### adduser
+## adduser[^8]
 
 ```bash
 sudo adduser git
@@ -291,7 +270,7 @@ vim .ssh/authorized_keys, paste in
 ssh git@.ip
 ```
 
-### post-receive
+## create post-receive[^8]
 
 ```bash
 sudo yum install git -y
@@ -318,10 +297,7 @@ cp -rf ${TMP_GIT_CLONE}/.public/* ${PUBLIC_WWW}
 # cp -rf ${TMP_GIT_CLONE}/* ${PUBLIC_WWW}
 ```
 
-reference:  
-1. https://github.com/scillidan/gh-cos/blob/main/deploy-hexo-sites-to-vps.html
-
-## git push
+## git push (on PC)
 
 ```
 git add .
@@ -329,118 +305,13 @@ git commit -m "text"
 git push -u origin master
 ```
 
-## CDN (Optional)
+## Reference
 
-1. 云产品 > 对象存储 > 存储桶列表 > 创建存储桶 > ... > 公有读私有写
-2. 内容分发网络 > 域名管理 > 添加域名 > ... > 静态加速/流媒体点播加速 > COS源
-    - 高级配置 > 宽带封顶配置 > 访问闸值
-3. DNS解析 > 添加记录 > 记录类型CNAME...
-
-### 配置HTTPS (Optional)
-
-1. 云产品 > SSL证书 > 我的证书 > 申请
-2. 内容分发网络 > 域名管理 > 管理 > HTTPS配置 > 配置证书
-
-### 配置CORS (Expand Content)
-
-可用于CDN字体服务等。详情请参考[设置静态网站](https://cloud.tencent.com/document/product/436/14984)、[设置跨域访问](https://cloud.tencent.com/document/product/436/13318)。大致流程为：
-
-1. 新建储存桶，用于静态网站
-    - 储存桶 > 安全管理 > 跨域访问CORS设置 > 添加规则
-    - 上传网页字体文体到储存桶
-2. 给储存桶设置CDN加速
-    - 设置HTTP响应头配置
-3. 在`.css`文件中调用字体文件的网址，进行测试
-
-## VNC server (Optional)
-
-```bash
-sudo dnf update -y
-sudo dnf install -y epel-release
-sudo dnf groupinstall -y "Xfce" "base-x"
-sudo systemctl set-default graphical
-sudo reboot
-```
-
-```bash
-sudo dnf install tigervnc-server
-sudo adduser vncuser
-sudo passwd vncuser
-sudo su - vncuser
-```
-
-```bash
-sudo dnf install firewalld -y
-sudo systemctl enable firewalld
-sudo systemctl start firewalld
-sudo firewall-cmd --state
-firewall-cmd --zone=public --permanent --add-service=vnc-server
-firewall-cmd --reload
-```
-
-```bash
-su vncuser
-vim ~/.vnc/config
-```
-
-```
-session=xfce
-geometry=1280x800
-# localhost
-# alwaysshared
-```
-
-```bash
-sudo systemctl start firewalld
-```
-
-If you need to kill the process.
-
-```bash
-pf -fu vncuser
-kill -9 vncuser
-```
-
-reference:  
-1. https://techviewleo.com/install-and-configure-vnc-server-on-rocky-linux/
-2. https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-rocky-linux-8
-
-### VNC viewer (on PC)
-
-```cmd
-scoop install tightvnc
-tvnviewer vpsip::5901 -password=yourpwd
-```
-
-reference:  
-1. https://www.howtoforge.com/how-to-install-vnc-server-on-rocky-linux/
-
-## PM2 (Expand Content)
-
-```bash
-dnf install nodejs -y
-npm install --global yarn
-yarn global add pm2
-```
-
-```
-<VirtualHost *:80>
-  ServerName www.home.example.com
-  ServerAlias home.example.com
-
-  ErrorLog /var/log/httpd/home.example.com-error.log
-  CustomLog /var/log/httpd/home.example.com-access.log combined
-  ProxyPreserveHost On
-  ProxyPass / http://localhost:3000/
-  ProxyPassReverse / http://localhost:3000/
-</VirtualHost>
-```
-
-reference:  
-1. https://stackoverflow.com/questions/74681648
-
-## rsync (Expand Content)
-
-```bash
-dnf install rsync
-```
+[^1]: https://docs.rockylinux.org/guides/migrate2rocky
+[^2]: https://docs.rockylinux.org/guides/web/apache-sites-enabled
+[^3]: https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-centos-8
+[^4]: https://docs.rockylinux.org/guides/web/apache-sites-enabled
+[^5]: https://linuxapt.com/blog/706-encrypt-apache-webserver-with-lets-encrypt-ssl-certificate-on-rocky-linux-8
+[^6]: https://www.tecmint.com/secure-apache-with-ssl-in-rocky-linux
+[^7]: https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-centos-8
+[^8]: https://github.com/scillidan/gh-cos/blob/main/deploy-hexo-sites-to-vps.md

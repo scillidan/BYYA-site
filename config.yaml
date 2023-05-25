@@ -28,9 +28,9 @@ params:
   BookToC: false
   BookSection: docs
   BookMenuBundle: /menu
-# BookRepo: https://github.com/alex-shpak/hugo-book
+  BookRepo: https://github.com/scillidan/byya-site
 # BookEditPath: edit/main/exampleSite
-  BookDateFormat: "January 2, 2006"
+  BookDateFormat: "2006-01-02"
   BookSearch: true
 # BookComments: true
   BookPortableLinks: true
