@@ -262,7 +262,7 @@ NVIDIA显卡上的参数，应该也可以参考这个。
 1. `scoop install mtn`
 2. `mtn -c 4 -r 4 -g 3 -k 000000 -w 1920 -i -t -D 4 -P -o _mtn.png 媒体文件`
 
-## 其他路标
+## 其他道具
 
 1. 翻译记忆工具[Omegat](https://omegat.org)：并没有使用到。据介绍，它建立记忆库来辅助人工翻译，适合于「大型文档、专业术语、衍生案、修订、更新、多语言、共同作业」等。其记忆库文件应该还可兼容其他的软件，比如本地化工具[Poedit](https://poeditor.com)等。
 2. 截图工具[Snipaste PRO](https://docs.snipaste.com/zh-cn/pro)：截取软件应用的窗口。部分截图在写文字步骤时作参考，选一张图用于展示工具的主界面。
@@ -276,8 +276,9 @@ NVIDIA显卡上的参数，应该也可以参考这个。
 
 ## 其他事件
 
-|date|tools|staff|source|
+|date|translation tools|staff|source|
 |:-:|:-:|:-:|:-:|
+|2023.05|Tern|机翻、后期|千禧年三部曲：[1](https://assrt.net/xml/sub/662/662664.xml)、[2](https://assrt.net/xml/sub/662/662663.xml)、[3](https://assrt.net/xml/sub/662/662662.xml)|
 |2022.01||后期|[平家物语](https://assrt.net/xml/sub/648/648399.xml)|
 |2021.09|DeepL|机翻、粗校|[Rosy](https://assrt.net/xml/sub/648/648393.xml)|
 |2021.09|沙拉查词、GoldenDict|校对|[The Green Knight](https://assrt.net/xml/sub/644/644477.xml)|
@@ -285,3 +286,18 @@ NVIDIA显卡上的参数，应该也可以参考这个。
 |2019.12||校对、后期|[Lolita（1997）](https://assrt.net/xml/sub/641/641712.xml)|
 |2019.01|谷歌翻译|翻译|词条[Sibyl](https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%AF%94%E6%8B%89)|
 |2018.03|谷歌翻译|翻译|[Das Herz ist ein dunkler Wald](https://assrt.net/xml/sub/644/644933.xml)|
+
+### 双语机翻字幕获得流程
+
+1. 获得字幕源：
+    - 用[Subtitle Edit](https://nikse.dk/subtitleedit)进行OCR扫描，保存字幕，选择`ass`格式
+    - 用[FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch)的流多路复用功能，保存字幕轨道。使用`Subtitle Edit`打开后，另存为`ass`字幕
+    - 搜索和下载字幕
+2. 预处理：
+    - 用[Sublime Text](https://www.sublimetext.com)打开`ass`字幕，批量选择和替换换行符`\N`为空格
+3. 机翻：
+    - 用[Tern](https://github.com/1c7/Translate-Subtitle-File)翻译字幕文件为双语字幕
+4. 编辑：
+    1. 用Sublime Text打开双语字幕，批量选择和剪切中文文本
+    2. 在新窗口中，编辑中文字幕样式。编辑完之后，批量选择每行，剪切，粘贴回双语字幕文件
+    3. 将所有注释行后移到最下面
