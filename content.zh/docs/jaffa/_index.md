@@ -9,6 +9,13 @@ title: jaffa
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tooltipster@4.2.8/dist/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-light.min.css" />
 
 <div id="lg-image">
+    <a href="jaffa/Artemia salina.jpg"
+        data-sub-html="<div class='lightGallery-captions'>
+        <h4>Artemia salina ⚪<span class='tooltip2' title='会经历脱水𒑰休眠阶段'>卤虾</span></h4>
+        <p>.img by <a href='https://www.flickr.com/photos/zpyder/' target='_blank' rel='nofollow noopener'>Artemia salina</a> on <a href='https://www.flickr.com/photos/zpyder/7041755631' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc 2.0</a></p>
+        </div>">
+        <img src="jaffa/Artemia salina.jpg" />
+    </a>
     <a href="jaffa/Mimosa tenuiflora.jpg"
         data-sub-html="<div class='lightGallery-captions'>
         <h4>Mimosa tenuiflora ⚪<span class='tooltip2' title=''>细花含羞草</span></h4>
