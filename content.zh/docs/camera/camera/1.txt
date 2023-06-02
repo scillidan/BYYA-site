@@ -1,0 +1,71 @@
+ExifTool Version Number         : 12.40
+File Name                       : 20220502_14_26_12.jpg
+Directory                       : .
+File Size                       : 4.4 MiB
+File Modification Date/Time     : 2022:05:04 09:39:54+08:00
+File Access Date/Time           : 2023:05:31 16:56:09+08:00
+File Creation Date/Time         : 2023:03:31 09:43:39+08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : samsung
+Camera Model Name               : SM-G9810
+Orientation                     : Rotate 90 CW
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : G9810ZCS3DUL3
+Modify Date                     : 2022:05:02 14:26:13
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/1398
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 40
+Exif Version                    : 0220
+Date/Time Original              : 2022:05:02 14:26:13
+Create Date                     : 2022:05:02 14:26:13
+Offset Time                     : +08:00
+Offset Time Original            : +08:00
+Shutter Speed Value             : 1
+Aperture Value                  : 1.8
+Brightness Value                : 21.45
+Exposure Compensation           : 0
+Max Aperture Value              : 1.8
+Metering Mode                   : Center-weighted average
+Flash                           : No Flash
+Focal Length                    : 5.4 mm
+Color Space                     : sRGB
+Exif Image Width                : 3024
+Exif Image Height               : 3024
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Image Unique ID                 : R12QSMF00SM
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 814
+Thumbnail Length                : 60099
+Image Width                     : 3024
+Image Height                    : 3024
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Time Stamp                      : 2022:05:02 14:26:13+08:00
+MCC Data                        : 460
+Aperture                        : 1.8
+Image Size                      : 3024x3024
+Megapixels                      : 9.1
+Scale Factor To 35 mm Equivalent: 4.8
+Shutter Speed                   : 1/1398
+Date/Time Original              : 2022:05:02 14:26:13+08:00
+Modify Date                     : 2022:05:02 14:26:13+08:00
+Thumbnail Image                 : (Binary data 60099 bytes, use -b option to extract)
+Circle Of Confusion             : 0.006 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 5.4 mm (35 mm equivalent: 26.0 mm)
+Hyperfocal Distance             : 2.60 m
+Light Value                     : 13.5

@@ -120,8 +120,13 @@ yarn global add pm2
 dnf install rsync
 ```
 
+## gopher[^4]
+
+...
+
 ## Reference
 
-[^1]: https://techviewleo.com/install-and-configure-vnc-server-on-rocky-linux/
+[^1]: https://techviewleo.com/install-and-configure-vnc-server-on-rocky-linux
 [^2]: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-rocky-linux-8
 [^3]: https://stackoverflow.com/questions/74681648
+[^4]: https://lantian.pub/article/modify-website/serve-gopher-with-nginx.lantian
