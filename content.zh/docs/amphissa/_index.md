@@ -144,7 +144,7 @@ title: amphissa
     </a>
     <a href="amphissa/The Death of King Arthur.jpg"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4><span class='tooltip2' title='⚫伪地方纪事不列颠史记载 将领亚瑟陷于卡姆兰战场 同莫德雷德决斗 双双丧生 在后来对其添枝加叶的不列颠诸王史里 他作为亚瑟王 被女巫们带到阿瓦隆(Avalon)岛疗养 由姐姐摩根(Morgan)医治 画幅中她头戴黑头巾 ⚫另外 王都凯尔利昂(Caerleon)会举办竞技赛 亚瑟王则遵循封建道德 赠与骑士们城市𒑰城堡𒑰教会职位等财产 而纹章同时是是身份地位的符号𒑰控制或拥有的标记𒑰装饰 ⚪最早的拼写Morgen可能源自古威尔士或古不列吞词 意思是海生的 在古爱尔兰语里的同源词是Muirgen 据说是携带着一条水獭的人鱼被一艘信使的兽皮小圆舟发现 在约定的一年后 她上岸并受洗了这个基督化的名字 有相对较新的说法是 某个亚瑟王原型候选人的姊妹叫作Maithgen 也与另一个圣徒故事中的某个德鲁伊先知同名 ⚫诸多派生散文和诗歌中 据说乘舟同行的还有她的导师梅林的冤家 湖妖公主尼姆(Nimue)和女猎人薇薇安(Niviane) 据说她还是数学家 教授另外八姊妹天文知识 治理着自给自足的阿瓦隆岛 ⚫在十四世纪末的中古英语诗歌骑士小说高文(Gawain)与绿骑士里 摩根勒菲(Morgan le Fay)设下圈套 在卡美洛(Camelot)宫廷的圣诞夜 令大姐安娜·摩高斯(Anna Morgause)之子高文接受绿骑士挑战 将其斩首 次年冬天 高文前往绿教堂赴受斧之约 途中接受了绿腰带 折返时将其带回'>亚瑟王之死</span></h4>
+            <h4><span class='tooltip2' title='⚫伪地方纪事不列颠史记载 将领亚瑟陷于卡姆兰战场 同莫德雷德决斗 双双丧生 在后来对其添枝加叶的不列颠诸王史里 他作为亚瑟王 被女巫们带到阿瓦隆(Avalon)岛疗养 由姐姐摩根(Morgan)医治 画幅中她头戴黑头巾 ⚫另外 王都凯尔利昂(Caerleon)会举办竞技赛 亚瑟王则遵循封建道德 赠与骑士们城市𒑰城堡𒑰教会职位等财产 而纹章同时是是身份地位的符号𒑰控制或拥有的标记𒑰装饰 ⚪最早的拼写Morgen可能源自古威尔士或古不列吞词 意思是海生的 在古爱尔兰语里的同源词是Muirgen 据说是携带着一条水獭的人鱼被一艘信使的兽皮小圆舟发现 在约定的一年后 她上岸并受洗了这个基督化的名字 有相对较新的说法是 某个亚瑟王原型候选人的姊妹叫作Maithgen 也与另一个圣徒故事中的某个德鲁伊先知同名 ⚫诸多派生散文和诗歌中 据说乘舟同行的还有她的导师梅林的冤家 湖妖公主尼姆(Nimue)和女猎人薇薇安(Niviane) 据说她还是数学家 教授另外八姊妹天文知识 治理着自给自足的阿瓦隆岛 ⚪即威尔士语中 苹果之岛 ⚫在十四世纪末的中古英语诗歌骑士小说高文(Gawain)与绿骑士里 摩根勒菲(Morgan le Fay)设下圈套 在卡美洛(Camelot)宫廷的圣诞夜 令大姐安娜·摩高斯(Anna Morgause)之子高文接受绿骑士挑战 将其斩首 次年冬天 高文前往绿教堂赴受斧之约 途中接受了绿腰带 折返时将其带回'>亚瑟王之死</span></h4>
             <p>The Death of King Arthur(1860) - James Archer</p>
         </div>">
         <img src="amphissa/The Death of King Arthur.jpg" />
@@ -186,7 +186,7 @@ title: amphissa
     </a>
     <a href="amphissa/Market Gate of Miletus.jpg"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>market gate of Miletus ⚪<span class='tooltip2' title='⚫据说在圣艾琳(Irene)岛硫冬后 入侵了克里特岛(Caphtor)的迈锡尼人被多利安人赶到海岸和丘陵地带阿提卡 阿提卡人在海上贸易和归乡途间 习得了西亚技艺 重拾了故乡漫山遍野的物产 ⚫在这座伊甸 葡萄酒𒑰橄榄油盛满了陶土罐 花岗岩落成庙宇和雕像 银矿浇铸为雅典钱币广为流通 于是色雷斯(Thrace)神祇狄俄尼索斯飘洋过海 ⚪雅典哲学和历史学家色诺芬挪用了古伊朗语par-dēz 围绕𒑰墙或砖块 意为围墙内的花园或场所 作为旧约中伊甸园的译文 特别是在干旱气候 通常用高墙封闭 以提供阴影和保护 相比帐篷 提供了更固久的庇护所 ⚫据说某东海岸城市欲引进酒神崇拜 受到了德尔菲女先知的邀请 去返圣城底比斯(Thebes) 卡德莫斯(Cadmus)之女伊诺(Ino)的亲族将随行而归 组建舞蹈团 ⚫她们也被认为是梅纳德(maenad) 与萨梯(satyr)同为侍从 前者常被绘在用来给葡萄酒兑水的双柄广口陶罐上 ⚫故事的诸多版本的相似场景之一是 妇女逃向山上 在某一版本中 她们被持剑的牧师追赶 ⚫沃尔特·弗里德里希·奥托在狄俄尼索斯 神话和崇拜(Dionysus: Myth and Cult)中写到 她们所执的酒神杖滴下蜂蜜'>市场大门</span></h4>
+            <h4>market gate of Miletus ⚪<span class='tooltip2' title='⚫据说在圣艾琳(Irene)岛硫冬后 入侵了克里特岛(Caphtor)的迈锡尼人被多利安人赶到海岸和丘陵地带阿提卡 阿提卡人在海上贸易和归乡途间 习得了西亚技艺 重掘了故乡漫山遍野的物产 ⚫在这座伊甸 葡萄酒𒑰橄榄油盛满了陶土罐 花岗岩落成庙宇和雕像 银矿浇铸为雅典钱币广为流通 于是色雷斯(Thrace)神祇狄俄尼索斯飘洋过海 ⚪雅典哲学和历史学家色诺芬挪用了古伊朗语par-dēz 围绕𒑰墙或砖块 意为围墙内的花园或场所 作为旧约中伊甸园的译文 通常用高墙封闭 以提供阴影和保护 相比帐篷 提供了更固久的庇护所 特别是在干旱气候 早期希伯来人用这个词表示果园 ⚫据说某东海岸城市欲引进酒神崇拜 受到了德尔菲女先知的邀请 去返圣城底比斯(Thebes) 卡德莫斯(Cadmus)之女伊诺(Ino)的亲族将随行而归 组建舞蹈团 ⚫她们也被认为是梅纳德(maenad) 与萨梯(satyr)同为侍从 前者常被绘在用来给葡萄酒兑水的双柄广口陶罐上 ⚫故事的诸多版本的相似场景之一是 妇女逃向山上 在某一版本中 她们被持剑的牧师追赶 ⚫沃尔特·弗里德里希·奥托在狄俄尼索斯 神话和崇拜(Dionysus: Myth and Cult)中写到 她们所执的酒神杖滴下蜂蜜'>市场大门</span></h4>
             <p>.img by <a href='https://www.flickr.com/photos/183298784@N08/' target='_blank' rel='noopener'>Joachim Beens</a> on <a href='https://www.flickr.com/photos/183298784@N08/49392218337' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
         </div>">
         <img src="amphissa/Market Gate of Miletus.jpg" />

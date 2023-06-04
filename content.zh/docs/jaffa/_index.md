@@ -9,6 +9,13 @@ title: jaffa
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tooltipster@4.2.8/dist/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-light.min.css" />
 
 <div id="lg-image">
+    <a href="jaffa/Citrullus ecirrhosus.jpg"
+        data-sub-html="<div class='lightGallery-captions'>
+        <h4>Citrullus ecirrhosus ⚪<span class='tooltip2' title='多年生藤本植物'>荒漠西瓜</span></h4>
+        <p>.img by <a href='https://www.flickr.com/photos/jeppestown/'>Jeppestown</a> on <a href='https://www.flickr.com/photos/jeppestown/3050326335' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='nofollow noopener'>cc by-sa 2.0</a></p>
+        </div>">
+        <img src="jaffa/Citrullus ecirrhosus.jpg" />
+    </a>
     <a href="jaffa/Artemia salina.jpg"
         data-sub-html="<div class='lightGallery-captions'>
         <h4>Artemia salina ⚪<span class='tooltip2' title='会经历脱水𒑰休眠阶段'>卤虾</span></h4>
