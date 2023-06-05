@@ -34,7 +34,7 @@ If you need migrating To Rocky Linux.
 
 ```bash
 dnf update -y
-wget https://raw.githubusercontent.com/rocky-linux/rocky-tools/main/migrate2rocky/
+wget https://raw.githubusercontent.com/rocky-linux/rocky-tools/main/migrate2rocky/migrate2rocky.sh
 chmod u+x migrate2rocky.sh
 ./migrate2rocky.sh -V
 ./migrate2rocky.sh -r
