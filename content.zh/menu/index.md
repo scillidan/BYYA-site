@@ -11,7 +11,7 @@ headless: true
 - [amphissa]({{< relref "/docs/amphissa" >}})
 - [laguna]({{< relref "/docs/laguna" >}})
 - [jaffa]({{< relref "/docs/jaffa" >}})
-- [附录]({{< relref "/docs/nineveh-appendix" >}})
+- [附录]({{< relref "/docs/nineveh-annex" >}})
 <br />
 
 - [**tower**]({{< relref "/docs/tower" >}})
@@ -22,7 +22,7 @@ headless: true
 - [**lyra α**]({{< relref "/docs/lyra-a" >}})
 - [lyra β]({{< relref "/docs/lyra-b" >}})
 - [orion α]({{< relref "/docs/orion-a" >}})
-- [附录]({{< relref "/docs/lyra-appendix" >}})
+- [附录]({{< relref "/docs/lyra-annex" >}})
 - [食谱]({{< relref "/docs/recipt" >}})
 <br />
 
