@@ -68,7 +68,7 @@ title: nineveh
     <a href="nineveh/Venus tablet of Ammisaduqa.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>Venus tablet of Ammisaduqa ⚪<span class='tooltip2' title='⚫也是埃努马·阿努·伊利尔第63碑(Enuma Anu Enlil Tablet 63) 由划分了黄道宫的旧巴比伦人所著 是最古老的天文学著作 但可能存在同期或更古老的口头占星传统 ⚫泥板由湿润粘土书写后再烧制 记录或转抄卖地𒑰转让果园等的合同泥板可能有4x6厘米大小 ⚫大多的原始黏土需要经提纯𒑰风干𒑰过滤 去除杂质𒑰气泡 与其他黏土𒑰矿物混合 形成坯体𒑰湿黏土 以获得特殊的颜色𒑰可塑性'>阿米萨杜卡金星泥板</span></h4>
-            <p>.img by <a href='https://research.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?partid=1&assetid=651644001&objectid=314745' target='_blank' rel='noopener'>the British Museum</a> / <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/' target='_blank' rel='noopener'>cc by-nc-sa 4.0</a></p>
+            <p>.img by <a href='https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_13/f3c6c404_8593_40a1_afe0_a3c100ddddd4/mid_00651644_001.jpg' target='_blank' rel='noopener'>the British Museum</a> / <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/' target='_blank' rel='noopener'>cc by-nc-sa 4.0</a></p>
         </div>">
         <img src="nineveh/Venus tablet of Ammisaduqa.jpg" />
     </a>
