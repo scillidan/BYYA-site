@@ -26,6 +26,7 @@ headless: true
 - [食谱]({{< relref "/docs/recipt" >}})
 <br />
 
+- [montage]({{< relref "/docs/montage" >}})
 - [截图]({{< relref "/docs/screenshot" >}})
 - [相片]({{< relref "/docs/camera" >}})
 - [blog]({{< relref "/posts" >}})
