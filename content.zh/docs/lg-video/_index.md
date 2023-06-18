@@ -58,6 +58,7 @@ date: 2023-05-10
 
 https://www.lightgalleryjs.com/demos/video-gallery/  
 https://www.lightgalleryjs.com/demos/thumbnails/
+<!-- https://codepen.io/sachinchoolur/pen/OJzOgae -->
 
 ## Tools
 
@@ -72,7 +73,6 @@ https://www.lightgalleryjs.com/demos/thumbnails/
 ## Todo
 
 - [x] 更换视频CDN源为其他源
-- [ ] 手机端显示bug？
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.js"></script>

@@ -1,0 +1,22 @@
+.lg-sub-html {
+  position: fixed;
+  right: 0;
+  width: 25vw;
+  background-color: rgba(255, 255, 255, 0);
+  bottom: 0;
+  top: 0;
+  margin-bottom: 25%;
+  margin-top: 25%;
+  opacity: 1 !important;
+}
+
+.lg-outer {
+  width: 75vw;
+}
+
+.lg-toolbar-next:before {
+  content: "\e094";
+}
+.lg-toolbar-prev:before {
+  content: "\e095";
+}

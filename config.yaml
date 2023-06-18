@@ -45,9 +45,9 @@ params:
 #       url: "https://themes.gohugo.io/hugo-book/"
 #       weight: 20
 
+ignoreFiles:
+  - /posts/.obsidian
+
 imaging:
   exif:
     includeFields: ".*"
-
-ignoreFiles:
-  - /posts/.obsidian

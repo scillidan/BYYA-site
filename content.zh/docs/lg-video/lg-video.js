@@ -9,24 +9,18 @@ jQuery("#lg-video")
       document.getElementById("lg-video"),
       {
         autoplayFirstVideo: false,
-        pager: false,
-        mousewheel: true,
         plugins: [lgThumbnail, lgVideo],
         addClass: 'lg-custom-thumbnails',
         download: false,
         allowMediaOverlap: false,
-        animateThumb: false,
-        closeOnTap: false,
-        enableDrag: false,
-        enableSwipe: false,
+        // animateThumb: false,
+        // closeOnTap: false,
+        // enableDrag: false,
+        // enableSwipe: false,
+        pager: false,
+        mousewheel: true,
         swipeToClose: false,
         videojs: true,
-        mobileSettings: {
-          controls: false,
-          showCloseIcon: false,
-          download: false,
-          rotate: true
-        }
       }
     );
   });

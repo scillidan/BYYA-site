@@ -7,13 +7,14 @@ jQuery("#lg-image")
     window.lightGallery(
       document.getElementById("lg-image"),
       {
-        appendSubHtmlTo: '.lg-item',
+        appendSubHtmlTo: ".lg-outer",
         plugins: [lgThumbnail, lgZoom],
-        addClass: 'lg-custom-thumbnails',
-        allowMediaOverlap: false,
+        controls: false,
         download: true,
-        animateThumb: false,
-        zoomFromOrigin: false,
+        // animateThumb: false,
+        // zoomFromOrigin: false,
+        // allowMediaOverlap: true,
+        // toggleThumb: true,
         mousewheel: true,
         closeOnTap: false,
         enableDrag: false,
@@ -26,3 +27,19 @@ jQuery("#lg-image")
       }
     );
   });
+
+const customButtons = `<button type="button" id="lg-toolbar-prev" aria-label="Previous slide" class="lg-toolbar-prev lg-icon">  </button><button type="button" id="lg-toolbar-next" aria-label="Next slide" class="lg-toolbar-next lg-icon">  </button>`;
+
+const $galleryContainer = document.getElementById("lg-image");
+
+$galleryContainer.addEventListener("lgInit", event => {
+  const pluginInstance = event.detail.instance;
+  const $toolbar = pluginInstance.outer.find(".lg-toolbar");
+  $toolbar.prepend(customButtons);
+  document.getElementById("lg-toolbar-prev").addEventListener("click", () => {
+    pluginInstance.goToPrevSlide();
+  });
+  document.getElementById("lg-toolbar-next").addEventListener("click", () => {
+    pluginInstance.goToNextSlide();
+  });
+});
