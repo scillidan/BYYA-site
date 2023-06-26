@@ -59,7 +59,7 @@ title: jaffa
     </a>
     <a href="jaffa/Gulo gulo.jpg"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Gulo gulo ⚪狼獾 ⚫大型鼬科</h4>
+		<h4>Gulo gulo ⚪狼獾 ⚫大型鼬科 臀周有淡黄色宽腰带</h4>
 		<p>img by <a href='https://www.flickr.com/photos/karljonsson/' target='_blank' rel='noopener'>jonsson</a> on <a href='https://www.flickr.com/photos/karljonsson/6070776950/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
         <img src="jaffa/Gulo gulo.jpg" />
@@ -143,7 +143,7 @@ title: jaffa
     </a>
     <a href="jaffa/Elysia ornata.jpg"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Elysia ornata ⚪丽叶海天牛 ⚫热带物种 可以长到5厘米 呈半透明黄绿色 带白黑斑点 具有宽阔的伪足或伪翼 ⚫一些海天牛以季节性食物为生 由于无法穿透这种绿藻钙化时的细胞壁 它们畜牧未消化的叶绿体 直到斋戒过去 ⚪细胞这个词最早用来指软木的微小蜂房状空腔 ⚫在赤道热带的森林地区 白天只有少量阳光穿过浓密树荫 晨昏的露水和浓雾也作为一种水源</h4>
+		<h4>Elysia ornata ⚪丽叶海天牛 ⚫热带物种 可以长到5厘米 呈半透明黄绿色 带白黑斑点 具有宽阔的伪足或伪翼 ⚫一些海天牛以季节性食物为生 由于无法穿透这种绿藻钙化时的细胞壁 它们畜牧未消化的叶绿体 直到斋戒过去 ⚪细胞这个词最早用来指软木的微小蜂房状空腔 ⚫在赤道热带的森林地区 白天只有少量阳光穿过浓密树荫 晨昏的露水和浓雾是重要水源</h4>
 		<p>img by <a href='https://www.flickr.com/photos/pacificklaus/' target='_blank' rel='noopener'>Klaus Stiefel</a> on <a href='https://www.flickr.com/photos/pacificklaus/6336091966/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='noopener'>cc by-nc 2.0</a></p>
         </div>">
         <img src="jaffa/Elysia ornata.jpg" />
