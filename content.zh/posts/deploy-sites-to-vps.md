@@ -58,7 +58,7 @@ dnf install httpd php -y
 systemctl enable httpd
 ```
 
-![](media/rocky-linux-&-apache.png)
+![](/images/rocky-linux-&-apache.png)
 {{< /tab >}}
 {{< tab "Ubuntu" >}}
 ```bash
