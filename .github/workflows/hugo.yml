@@ -64,9 +64,6 @@ jobs:
       - name: Make executeable
         run: sudo chmod +x ./hugo_optimized.sh
       - name: hugo_optimized
-        env:
-          MAXIMUM_JPG_SIZE: 250
-          PNG_OPTIMIZATION_LEVEL: 2
         run: ./hugo_optimized.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
