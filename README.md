@@ -1,6 +1,6 @@
 # BYYA-site
 
-[![Check Links](https://github.com/org/repo/actions/workflows/links.yml/badge.svg)](https://github.com/org/repo/actions/workflows/links.yml)
+[![Links (Fail Fast)](https://github.com/scillidan/BYYA-site/actions/workflows/links.yml/badge.svg)](https://github.com/scillidan/BYYA-site/actions/workflows/links.yml)
 
 [![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)](https://byya-markt.vercel.app)
 [![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)](https://byya-markt.netlify.app)
@@ -18,3 +18,7 @@ git init
 git submodule add https://github.com/username/hugo-book themes/hugo-book
 hugo server --minify --theme hugo-book
 ```
+
+## todo
+
+- [ ] Reduce the volume of .git

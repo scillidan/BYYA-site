@@ -23,7 +23,9 @@ BookToC: false
 |✖|[renpygame](https://github.com/DRincs-Productions/Renpygame)|fmk|||
 |✖|[renpy_rhythmbeats](https://github.com/CharlieFuu69/RenPy_RhythmBeats)|fmk|||
 |✖|[nqtr-system](https://github.com/DRincs-Productions/NQTR-System)|fmk|||
+||[news](https://patreon.renpy.org/news.html)|tool|||
 ||[renpy-graphviz](https://github.com/EwenQuim/renpy-graphviz)|tool, flow|||
+||[label-log](https://patreon.renpy.org/dev-2020-02.html#label-log)|tool, log|||
 ||[renpy-actioneditor3](https://github.com/kyouryuukunn/renpy-ActionEditor3)|tool, sn|||
 |✖|[renpy-build-action](https://github.com/ProjectAliceDev/renpy-build-action)|tool, act|||
 |✖|[renpy-lint-action](https://github.com/ProjectAliceDev/renpy-lint-action)|tool, act|||
@@ -50,24 +52,48 @@ BookToC: false
 |✖|[ScriptEditor](https://github.com/FiendChain/ScriptEditor)|act|||
 |✖|[autofocus](https://github.com/Elckarow/Autofocus)|script|||
 ||[replacement-blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844)|script|||
+||[multi-key](https://patreon.renpy.org/dev-2022-04.html#multi-key)|sys|||
+|✖|[timed-choice-menus](https://patreon.renpy.org/timed-choice-menus.html)|sys|||
+|✖|[save-on-quit](https://patreon.renpy.org/save-on-quit.html)|sys|||
+||[save-metadata](https://patreon.renpy.org/save-metadata.html)|sys|||
 ||[bobcachievements](https://bobcgames.itch.io/bobcachievements)|sys|||
 ||[bobcgallery](https://bobcgames.itch.io/bobcgallery)|sys|||
 |✖|[renpydialogtoaudio](https://github.com/lugia19/renpyDialogToAudio)|aud|||
+||[title-screens](https://patreon.renpy.org/title-screens.html)|aud|||
+|✖|[layeredimage-conversion](https://patreon.renpy.org/layeredimage-conversion.html)|sn|||
+|✖|[pausing-movies](https://patreon.renpy.org/dev-2021-07.html#pausing-movies)|sn|||
 |✖|[expreviewer](https://github.com/Elckarow/Expreviewer)|sn|||
 |✖|[better-emr-phone](https://github.com/Elckarow/Better-EMR-Phone)|sn|||
 |✖|[renpy_phone](https://github.com/albireo-games/renpy_phone)|sn|||
+|✖|[menu-sets](https://patreon.renpy.org/very-old-features.html#menu-sets)|sys, ui|1||
+||[condition-and-sensitive](https://patreon.renpy.org/menu-arguments.html#condition-and-sensitive)|sys, ui|||
+||[check-for-changes](https://patreon.renpy.org/check-for-changes.html)|menu, msg|||
+|✖|[drop-down-menus](https://patreon.renpy.org/dev-2022-05.html#drop-down-menus)|menu|||
+||[menu-blurring](https://patreon.renpy.org/dev-2020-09.html#menu-blurring)|menu|||
+|✖|[speech-bubbles](https://patreon.renpy.org/speech-bubbles.html)|menu|||
+||[image-badges](https://patreon.renpy.org/menu-arguments.html#image-badges)|menu|||
+||[choice-screen-selection](https://patreon.renpy.org/menu-arguments.html#choice-screen-selection)|menu|||
+||[positioning-menu-choices](https://patreon.renpy.org/menu-arguments.html#positioning-menu-choices)|menu|||
+||[grid-menus](https://patreon.renpy.org/menu-arguments.html#grid-menus)|menu|||
+||[bgqueue](https://patreon.renpy.org/python-tricks-2.html#bgqueue)|menu, bg|||
+||[background](https://patreon.renpy.org/menu-arguments.html#background)|menu, bg|||
 |✖|[renpy-rainbowtext](https://github.com/Lezalith/renpy-rainbowtext)|txt|0.5||
 ||[ren-py-fancytext](https://github.com/yukinogatari/Ren-Py-FancyText)|txt|0.5||
+||[marquee](https://patreon.renpy.org/dev-2021-11.html#marquee)|txt|||
 |✔|[chatlogging](https://github.com/JimTheCactus/chatlogging)|txt, sn|1|文字框样式|
 |✔|[multiple-dialogue](https://patreon.renpy.org/multiple-dialogue.html)|txt, sn|0.5|文字框样式|
 |✔|[character-customization](https://patreon.renpy.org/character-customization.html)|txt, sn|0.5|文字样式|
+|✖|[wiki](https://patreon.renpy.org/wiki.html)|txt, sn|||
 |✔|[renpy-encyclopaedia](https://github.com/jsfehler/renpy-encyclopaedia)|txt, sn|1|词条|
 |✔|[renpy-word-description](https://github.com/valery-iwanofu/renpy-word-description)|txt, frame|1|注释|
-|⤴|[renpy-tutorial-conditional-main-menu-background](https://github.com/jbondguy007/Renpy-tutorial-conditional-main-menu-background)|sn||菜单背景|
+||[custom-preferences](https://patreon.renpy.org/custom-preferences.html)|ui|||
+|⤴|[visual-conference](https://patreon.renpy.org/dev-2020-01.html#visual-conference)|ui|||
+|⤴|[renpy-tutorial-conditional-main-menu-background](https://github.com/jbondguy007/Renpy-tutorial-conditional-main-menu-background)|ui||菜单背景|
+||[hardware-accelerated-custom-mouse-cursor](https://patreon.renpy.org/dev-2020-11.html#hardware-accelerated-custom-mouse-cursor)|ui|||
+||[mouse](https://patreon.renpy.org/dev-2021-04.html)|ui|||
 |⤴|[renpy-position-tester](https://bobcjunk.itch.io/renpy-position-tester)|ui|||
 |✖|[caption-tool-for-renpy](https://npckc.itch.io/caption-tool-for-renpy)|ui|||
 |✔|[renpygui](https://github.com/shawna-p/EasyRenPyGui)|ui|1||
-|⤴|[sensitive](https://feniksdev.com/glossary/sensitive)|ui|||
 |⤴|[renpy-stuff-and-cool-things-i-put-in-the-demo](https://albireogames.tumblr.com/post/684623598192902144/renpy-stuff-and-cool-things-i-put-in-the-demo)|log||文字速率(图片速率?)、图层|
 |✔|[feniksdev.com](https://feniksdev.com)|doc|1||
 
