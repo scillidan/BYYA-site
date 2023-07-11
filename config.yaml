@@ -51,3 +51,5 @@ ignoreFiles:
 imaging:
   exif:
     includeFields: ".*"
+
+timeout: 600000
