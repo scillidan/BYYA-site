@@ -1,9 +1,3 @@
-#!/bin/bash
-
-MAXIMUM_JPG_SIZE=250
-PNG_OPTIMIZATION_LEVEL=2
-hugo
-
 if hash exiftool 2>/dev/null; then
 	# remove exif data on all images in new_images
 	exiftool -all= public/images*
