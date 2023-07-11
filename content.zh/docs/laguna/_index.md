@@ -8,12 +8,12 @@ title: laguna
 <link rel="stylesheet" href="../../style/lg-image.css">
 
 <div id="lg-image">
-	<a href="/images/laguna/telecommunications tower.jpg"
+	<a href="/images/laguna/telecommunications_tower.jpg"
         data-sub-html="<div class='lightGallery-captions'>
 			<h4>telecommunications tower ⚪电讯塔</h4>
 			<p>img by <a href='https://www.flickr.com/photos/stratman2/'>Stratman²</a> on <a href='https://www.flickr.com/photos/stratman2/51913142847' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
         </div>">
-        <img src="/images/laguna/telecommunications tower.jpg" />
+        <img src="/images/laguna/telecommunications_tower.jpg" />
     </a>
     <a href="/images/laguna/buoy.jpg"
         data-sub-html="<div class='lightGallery-captions'>
@@ -22,26 +22,26 @@ title: laguna
         </div>">
         <img src="/images/laguna/buoy.jpg" />
     </a>
-    <a href="/images/laguna/navigational light.jpg"
+    <a href="/images/laguna/navigational_light.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>navigational light ⚪航行灯 ⚫用于表示夜间的船体的航行方向和大小 ⚫其中舷灯通常位于最高层甲板和驾驶室两侧 左舷红色 右舷绿色 ⚫尾灯白色 ⚫锚灯白色 位于桅顶 在锚泊时开启 ⚫桅灯位于雷达桅或信号桅 在水平内以每分钟50~70闪次环照 ⚫有潜水员水下作业时 或者工程船固定时在其三角区的顶端和不通航一侧显示红灯 可通航一侧显示白灯 船只失控时挂2盏红灯 搁浅时加1盏锚灯 拖带时开启2~3盏白灯 ⚫另外 快船配有黄色桅灯 海巡船配有红色警示灯</h4>
 			<p>img by <a href='https://www.royan.com.ar/' target='_blank' rel='noopener'>Jorge Royan</a> on <a href='https://commons.wikimedia.org/wiki/File:Detail_of_a_1800%27s_small_sailboat_deck,_Auckland_-_1059.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'></a></p>
         </div>">
-        <img src="/images/laguna/navigational light.jpg" />
+        <img src="/images/laguna/navigational_light.jpg" />
     </a>
-    <a href="/images/laguna/carrot cake and tea.jpg"
+    <a href="/images/laguna/carrot_cake_and_tea.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>carrot cake and tea ⚪胡萝卜蛋糕和茶 ⚫一款秋季肥皂 含橄榄油𒑰椰子油𒑰雪亚树油𒑰鳄梨油𒑰葡萄籽油 ⚪鳄梨 ⚫亚热带果实 需𒑰无霜𒑰无风气候 具跃熟期(climacteric) 表皮绿色𒑰棕色𒑰紫色𒑰黑色 果肉呈奶油状</h4>
 			<p>img by <a href='https://www.flickr.com/photos/necrocake/' target='_blank' rel='noopener'>Marilyn Sherman</a> on <a href='https://www.flickr.com/photos/necrocake/3629376983/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
-        <img src="/images/laguna/carrot cake and tea.jpg" />
+        <img src="/images/laguna/carrot_cake_and_tea.jpg" />
     </a>
-    <a href="/images/laguna/mail rail.jpg"
+    <a href="/images/laguna/mail_rail.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>mail rail ⚪邮政铁路 ⚪To 给收件人 ⚪Cc 抄送给次要收件人 通常无需回应 ⚪Bcc 密送给其他收件人 通常是次要收件人不应获得密送收件人的身份 ⚫但取决于邮箱客户端 收件人有几率被暗示自己是密送收件人</h4>
 			<p>img by <a href='https://www.flickr.com/photos/nigelmenzies/' target='_blank' rel='noopener'>nigelmenzies</a> on <a href='https://www.flickr.com/photos/nigelmenzies/48670892946/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>by-nc-nd 2.0</a></p>
         </div>">
-        <img src="/images/laguna/mail rail.jpg" />
+        <img src="/images/laguna/mail_rail.jpg" />
     </a>
     <a href="/images/laguna/Migingo.png"
         data-sub-html="<div class='lightGallery-captions'>
@@ -50,11 +50,11 @@ title: laguna
         </div>">
         <img src="/images/laguna/Migingo.png" />
     </a>
-    <a href="/images/laguna/ceylon tea.jpg"
+    <a href="/images/laguna/ceylon_tea.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>锡兰红茶 鸦片战争后 某苏格兰籍植物学家随军来到清国 受洋行协助 伪装成清廷官员行走在长江流域和武夷山区 许多红茶的母本之一的武夷山大红袍树苗 被装进沃德箱这种大玻璃箱子 途经上海 海运至印度加尔各答港 辗转到阿萨姆邦的种植园 数代之后 培育出英式大吉岭红茶 ⚫英式茶分为茶园茶𒑰产地茶𒑰混合茶𒑰调味茶 ⚫一些茶汤配方有洋甘菊(据说可用于胃痛𒑰肠躁症 也是温和的催眠剂) 甜叶菊(具有抗炎𒑰杀菌作用 可作甜味剂 也是温和的泻药) 百里香(可缓解呼吸道炎症 助睡眠𒑰消化 可作漱口水) 咖啡豆茶(由咖啡植物的种子制成的汤药) 原产亚洲的枸杞 在东亚流行的人参(通常用作兴奋剂和咖啡因替代品) 苦荞(可作粮食茶𒑰麦片𒑰饼干𒑰面条𒑰面饼等) ⚫一次一杯添2克茶 用95度热水泡2分钟</h4>
         </div>">
-        <img src="/images/laguna/ceylon tea.jpg" />
+        <img src="/images/laguna/ceylon_tea.jpg" />
     </a>
     <a href="/images/laguna/pachamanca.jpg"
         data-sub-html="<div class='lightGallery-captions'>
@@ -63,12 +63,12 @@ title: laguna
         </div>">
         <img src="/images/laguna/pachamanca.jpg" />
     </a>
-    <a href="/images/laguna/Temple of Janus.jpg"
+    <a href="/images/laguna/Temple_of_Janus.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>temple of Janus ⚪双面神战争门 ⚫古罗马农历中一月的神灵 通常被描绘成有两张面孔 以其命名的建筑是两端设置大门的四方围墙 在和平年代 它的拱门保持关闭 ⚪janus起源于拉丁词根去 也跟janua(通道 门)有关 ⚫在新年𒑰军事季节的起止等时候祭祀 不献祭动物时 会呈上小麦盐蛋糕 在夏至前一天 则是加牛奶和蜂蜜的车轮蛋糕 ⚫铭辞集(Epigrammata)第11卷第6章提到农神节有十四天</h4>
 			<p>img by <a href='https://www.flickr.com/photos/peterjr1961/2301792094/' target='_blank' rel='noopener'>Peter Roan</a> on <a href='https://www.flickr.com/photos/peterjr1961/2301792094/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='noopener'>cc by-nc 2.0</a></p>
         </div>">
-        <img src="/images/laguna/Temple of Janus.jpg" />
+        <img src="/images/laguna/Temple_of_Janus.jpg" />
     </a>
     <a href="/images/laguna/laudanum.jpg"
         data-sub-html="<div class='lightGallery-captions'>
@@ -77,40 +77,40 @@ title: laguna
         </div>">
         <img src="/images/laguna/laudanum.jpg" />
     </a>
-    <a href="/images/laguna/diethylstilbestrol 1 mg in oil.jpg"
+    <a href="/images/laguna/diethylstilbestrol_1_mg_in_oil.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>diethylstilbestrol ⚪橄榄藻茴香 ⚫一些明火内脏烧烤会使用本地辣椒𒑰蒜𒑰盐𒑰小茴香制酱 ⚪ampoule(安瓿) ⚫盛装药液的小型玻璃容器 ⚫最早多见于殉道者墓窟的陪葬品 盛放死者的血液样本 ⚫与提托诺斯(Tithonus)神话相仿 在变形(Metamorphoses)14章中 古玛叶安(Cumaean)萎缩到仅剩声线 保存于瓶罐中 据说她曾向卢修斯·塔奎尼乌斯·苏佩巴斯以300金的价格推销9本神谕书 在神秘主义中 其第8卷284-330的片段上帝之子耶稣基督 救世主 可应用古典密码学取出鱼这个词 意思是他可在深水域生存 存在于无罪的死亡深渊 另外 子在闪族语中是一个模糊𒑰开放的概念 ⚫陶罐材质的安瓶可用蜡封口 这类粗蜡可混合各种比例的虫胶𒑰松节油𒑰树脂𒑰白垩𒑰灰泥𒑰蜂蜡 用来封住厚海绵状的橡木树皮作的木栓瓶塞 质地较细的蜡则多用于封住文件 ⚫这种封装方式容易使蜡和所盛液体混合 因此应该可以使用高比例的树脂 如末药 来增添风味 ⚫在奥赛德第十卷中 女巫师瑟西(Circe)用混合了啤酒𒑰葡萄酒𒑰蜂蜜酒的奇怪饮料居刻翁(kykeon)迷倒了奥德修斯的船员 然后把他们全变成了猪 一说是混合了除蚤薄荷的大麦饮料 或者混入了有致幻作用的麦角菌 这种饮品在西阿提卡的埃琉西斯(Eleusis)秘仪 一种纪念德米特尔和普西芬妮的公共仪式的禁食环节饮用 ⚫秘仪的字面意思是狂欢 该词不曾出现在伊利亚特𒑰奥德赛中 ⚫德泰佩勋爵描写她 雀斑脸颊 污迹蜿蜒</h4>
 			<p>img by <a href='https://www.flickr.com/photos/diethylstilbestrol/' target='_blank' rel='noopener'>DES Daughter</a> on <a href='https://www.flickr.com/photos/diethylstilbestrol/26934675991' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank' rel='noopener'>cc by-nc-sa 2.0</a></p>
         </div>">
-        <img src="/images/laguna/diethylstilbestrol 1 mg in oil.jpg" />
+        <img src="/images/laguna/diethylstilbestrol_1_mg_in_oil.jpg" />
     </a>
-    <a href="/images/laguna/aircraft plywood.jpg"
+    <a href="/images/laguna/aircraft_plywood.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>aircraft plywood ⚪航空胶合板 ⚫由桃花心木𒑰云杉𒑰桦木粘合制成 具有提升的耐热性𒑰耐湿性 ⚫在第二次世界大战期间应用于多用途的蚊式 它们无声地穿透了第三帝国夜空的雷达网 ⚫活树的年轮往往只能往前追溯100多年</h4>
 			<p>img by <a href='https://www.flickr.com/photos/cheesyfeet/' target='_blank' rel='noopener'>-Cheesyfeet-</a> on <a href='https://www.flickr.com/photos/cheesyfeet/13926883713/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
         </div>">
-        <img src="/images/laguna/aircraft plywood.jpg" />
+        <img src="/images/laguna/aircraft_plywood.jpg" />
     </a>
-    <a href="/images/laguna/plastic agriculture.jpg"
+    <a href="/images/laguna/plastic_agriculture.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>plastic agriculture ⚪塑料农业 ⚫古代聚落的土地大致可分为三类 聚落边界内的精耕的园圃𒑰与河道平行的生产主要作物的可灌溉土地𒑰距水源较远的土地 ⚫后者通常用于放牧𒑰收集燃料𒑰狩猎 在条件适宜时 偶尔也用于间作</h4>
 			<p>img by <a href='https://www.flickr.com/photos/addictive_picasso/' target='_blank' rel='noopener'>David Barrie</a> on <a href='https://www.flickr.com/photos/addictive_picasso/329358916/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
-        <img src="/images/laguna/plastic agriculture.jpg" />
+        <img src="/images/laguna/plastic_agriculture.jpg" />
     </a>
-    <a href="/images/laguna/fractional currency.jpg"
+    <a href="/images/laguna/fractional_currency.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>fractional currency ⚪小额货币 ⚪次级类贷款 ⚫借款人的还款能力出现明显问题 完全依靠其正常营业收入无法足额偿还贷款本息 即使执行担保 也可能会造成一定损失 ⚪信贷资产证券化 ⚫银行向借款人发放贷款 再将这部分贷款转化为资产支持证券出售给投资者 ⚪资产负债表 ⚫反映借款人在某一特定日期财务状况的财务报表 ⚪期货 ⚫提前约定货物𒑰价格𒑰交易时间的协议</h4>
 			<p>img by <a href='https://www.flickr.com/photos/nationalmuseumofamericanhistory/' target='_blank' rel='noopener'>National Museum of American History Smithsonian Institution</a> on <a href='https://www.flickr.com/photos/nationalmuseumofamericanhistory/10480074673/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='noopener'>cc by-nc 2.0</a></p>
         </div>">
-        <img src="/images/laguna/fractional currency.jpg" />
+        <img src="/images/laguna/fractional_currency.jpg" />
     </a>
-    <a href="/images/laguna/sea salt.jpg"
+    <a href="/images/laguna/sea_salt.jpg"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>海盐 ⚫参考1897年智利共和国地理词典(Diccionario Geográfico de la República de Chile de 1897)第88页 ⚪智利小村庄卡维尔(Cahuil) 名字来自当地的一种海鸥 同名的小海湾 长而曲折的泻湖在河流的尾端 此处湿地环绕 适合垂钓𒑰划船𒑰游泳 抓牡蛎𒑰贻贝 这里有很少的居民 一所免费学校𒑰邮政厅 一处社区教堂 ⚫到1978年时 卡维尔60%以上的人口定居在盐滩附近 ⚫到2008年 国家森林公司在该镇所辖的盐沼岛上新建了一个鸟类保护区 这里被认为是野鸭重要的觅食和筑巢地 ⚫在市政的乡村旅游案中 实习游客会去参观海盐的手工作业 或者玻璃𒑰瓷器制作 也会到几处农民牧场用餐 ⚫该产业毗邻后根瘤蚜代酿酒葡萄的大产区 不同山谷的结果通常区别 有红浆果味𒑰果酱味𒑰桉树味𒑰薄荷𒑰胡椒等 ⚫湖盐可能有鱼虾的碎块 岩盐常混有粘土 ⚫粗糖的糖粒通常较大 带蜜糖风味</h4>
 			<p>img by <a href='https://www.flickr.com/photos/ronaldc5/' target='_blank' rel='noopener'>Ronald van der Graaf</a> on <a href='https://www.flickr.com/photos/ronaldc5/14825339124/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
-        <img src="/images/laguna/sea salt.jpg" />
+        <img src="/images/laguna/sea_salt.jpg" />
     </a>
     <a href="/images/laguna/soap.jpg"
         data-sub-html="<div class='lightGallery-captions'>

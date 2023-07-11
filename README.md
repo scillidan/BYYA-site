@@ -1,5 +1,6 @@
 # BYYA-site
 
+[![Deploy Hugo site to Pages](https://github.com/scillidan/BYYA-site/actions/workflows/hugo.yml/badge.svg)](https://github.com/scillidan/BYYA-site/actions/workflows/hugo.yml)
 [![Links (Fail Fast)](https://github.com/scillidan/BYYA-site/actions/workflows/links.yml/badge.svg)](https://github.com/scillidan/BYYA-site/actions/workflows/links.yml)
 
 [![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)](https://byya-markt.vercel.app)
