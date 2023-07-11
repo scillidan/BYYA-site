@@ -51,7 +51,7 @@ jobs:
       - name: Install pkgs for hugo-picture-optimization
         run: sudo apt install -y libimage-exiftool-perl jpegoptim optipng imagemagick coreutils
       - name: Get hugo-picture-optimization
-        run: wget https://raw.githubusercontent.com/b-m-f/hugo-picture-optimization/master/hugo_optimized.sh
+        run: wget https://raw.githubusercontent.com/b-m-f/hugo-picture-optimization/master/hugo_optimized.sh -o ./hugo_optimized.sh
       #- name: Make executeable
       #  run: sudo chmod+x ./hugo_optimized.sh
       - name: Build with Hugo
@@ -59,8 +59,7 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-        run: |
-          sudo hugo_optimized.sh
+        run: ./hugo_optimized.sh
           #hugo \
           #  --minify \
           #  --baseURL "${{ steps.pages.outputs.base_url }}/"
