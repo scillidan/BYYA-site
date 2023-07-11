@@ -53,7 +53,7 @@ jobs:
       - name: Get hugo-picture-optimization
         run: wget https://raw.githubusercontent.com/b-m-f/hugo-picture-optimization/master/hugo_optimized.sh -o ./hugo_optimized.sh
       - name: Make executeable
-        run: sudo chmod+x ./hugo_optimized.sh
+        run: sudo chmod +x ./hugo_optimized.sh
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
