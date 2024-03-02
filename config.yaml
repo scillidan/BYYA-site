@@ -1,0 +1,61 @@
+baseURL: 
+title: 𝕭𝖄𝖄𝕬 𝖒𝖆𝖗𝖐𝖙
+subtitle: byya markt
+description: byya, 拜雅
+theme: ["hugo-book", "hugo-shortcode-gallery"]
+defaultContentLanguage: zh
+hasCJKLanguage: true
+languageCode: zh
+disableLanguages:
+  - en
+disablePathToLower: false
+enableGitInfo: false
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+languages:
+  zh:
+    languageName: Chinese
+    contentDir: content.zh
+    weight: 1
+  en:
+    languageName: English
+    contentDir: content.en
+    weight: 2
+params:
+  BookTheme: "light"
+  BookToC: false
+  BookSection: docs
+  BookMenuBundle: /menu
+  BookRepo: https://github.com/scillidan/BYYA-site
+# BookEditPath: edit/main/exampleSite
+  BookDateFormat: "2006-01-02"
+  BookSearch: true
+# BookComments: true
+  BookPortableLinks: true
+  BookServiceWorker: true
+  BookTranslatedOnly: true
+# menu:
+#   after:
+#     - name: "Github"
+#       url: "https://github.com/alex-shpak/hugo-book"
+#       weight: 10
+#     - name: "Hugo Themes"
+#       url: "https://themes.gohugo.io/hugo-book/"
+#       weight: 20
+
+# custom_css:
+#   - "css/custom.css"
+#   - "css/custom.scss"
+
+# ignoreFiles:
+#   - ./content.zh/docs/camera
+
+imaging:
+  exif:
+    includeFields: ".*"
+
+timeout: 600000

@@ -1,0 +1,34 @@
+:root {
+  --md-text-font-family: "Sarasa Mono SC";
+  --md-code-font-family: "Sarasa Mono SC";
+}
+
+body {
+  font-family: 'Sarasa Mono SC', sans-serif;
+}
+
+.lightGallery-captions {
+  font-family: 'Sarasa Mono SC', Arial;
+}
+
+div.lightGallery-captions h4 {
+  font-weight: normal;
+  line-height: 1.25;
+}
+
+div.lightGallery-captions p {
+  font-style: oblique;
+}
+
+code, {
+  font-family: 'Sarasa Mono SC', monospace;
+}
+
+a {
+  color: #6E75A4;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: #5E3D50;
+  }
+}

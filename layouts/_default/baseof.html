@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="{{ default .Site.Language.Lang .Site.LanguageCode  }}" dir="{{ default "ltr" .Site.Language.LanguageDirection }}">
+<head>
+  {{ partial "docs/html-head" . }}
+  <link rel="apple-touch-icon" sizes="57x57" href="./../../favicon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="./../../favicon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="./../../favicon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="./../../favicon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="./../../favicon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="./../../favicon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="./../../favicon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="./../../favicon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="./../../favicon-180x180.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./../../favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./../../favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="./../../favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="./../../favicon-192x192.png">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="./../../favicon-144x144.png">
+  <meta name="msapplication-config" content="browserconfig.xml">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#ffffff">
+  {{ partial "docs/inject/head" . }}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/scillidan/fonts@master/serve/sarasa-mono-sc.css">
+  <link rel="stylesheet" href="./../../style/custom.css">
+  <link rel="stylesheet" href="./../../style/custom.scss">
+</head>
+<body dir="{{ default "ltr" .Site.Language.LanguageDirection }}">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        {{ template "menu" . }} <!-- Left menu Content -->
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        {{ template "header" . }} <!-- Mobile layout header -->
+      </header>
+
+      {{ partial "docs/inject/content-before" . }}
+      {{ template "main" . }} <!-- Page Content -->
+      {{ partial "docs/inject/content-after" . }}
+
+      <footer class="book-footer">
+        {{ template "footer" . }} <!-- Footer under page content -->
+        {{ partial "docs/inject/footer" . }}
+      </footer>
+
+      {{ template "comments" . }} <!-- Comments block -->
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        {{ template "toc" . }} <!-- Table of Contents -->
+      </div>
+    </aside>
+    {{ end }}
+  </main>
+
+  {{ partial "docs/inject/body" . }}
+</body>
+</html>
+
+{{ define "menu" }}
+  {{ partial "docs/menu" . }}
+{{ end }}
+
+{{ define "header" }}
+  {{ partial "docs/header" . }}
+
+  {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
+  <aside class="hidden clearfix">
+    {{ template "toc" . }}
+  </aside>
+  {{ end }}
+{{ end }}
+
+{{ define "footer" }}
+  {{ partial "docs/footer" . }}
+{{ end }}
+
+{{ define "comments" }}
+  {{ if and .Content (default true (default .Site.Params.BookComments .Params.BookComments)) }}
+  <div class="book-comments">
+    {{- partial "docs/comments" . -}}
+  </div>
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="markdown book-article">
+    {{- .Content -}}
+  </article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
