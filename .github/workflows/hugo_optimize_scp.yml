@@ -56,9 +56,22 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
+
+  # Deployment job
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
       - name: Rename public to html
         run: mv public html
       # Refer to https://github.com/appleboy/scp-action
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+        with:
+          since_last_remote_commit: true
+          separator: ","
       - name: copy file to server
         uses: appleboy/scp-action@v0.1.7
         with:
