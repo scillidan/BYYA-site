@@ -1,0 +1,29 @@
+name: page speed insights
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Page Speed Insights
+        uses: JakePartusch/psi-action@v1.3
+        id: psi
+        with:
+          url: "https://scillidan.github.io/BYYA-site"
+          threshold: 70
+          strategy: desktop
+          key: ${{ secrets.PAGE_SPEED_INSIGHTS_APIKEY }}
+
+      - name: Page Speed Insights
+        uses: JakePartusch/psi-action@v1.3
+        id: psi
+        with:
+          url: "https://byya.eightqueen.com"
+          threshold: 70
+          strategy: desktop
+          key: ${{ secrets.PAGE_SPEED_INSIGHTS_APIKEY }}
