@@ -5,7 +5,8 @@ on:
   pull_request:
 
 jobs:
-  linkChecker:
+  # Github Pages
+  linkChecker_01:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -18,7 +19,10 @@ jobs:
           threshold: 70
           strategy: desktop
           key: ${{ secrets.PAGE_SPEED_INSIGHTS_APIKEY }}
-
+  # VPS
+  linkChecker_02:
+    runs-on: ubuntu-latest
+    steps:
       - name: Page Speed Insights
         uses: JakePartusch/psi-action@v1.3
         id: psi
