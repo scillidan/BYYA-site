@@ -21,18 +21,18 @@
     position: fixed;
     right:0;
     width: 100vw;
-    top: -7.5vh;
+    top: 4vh;
     bottom: 0;
     margin-bottom: 0;
     margin-top: 0;
-    background-color: ;
   }
   .lg-outer {
     width: 100vw;
   }
   .lg-outer .lg-object {
     vertical-align: bottom;
-    bottom: 15vh;
+    bottom: 13vh;
+    position: unset;
   }
 }
 
