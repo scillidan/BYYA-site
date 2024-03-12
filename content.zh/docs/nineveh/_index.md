@@ -9,13 +9,13 @@ title: nineveh
 
 
 <div id="lg-image">
-    <a href="nineveh/47_animal_sounds_over_and_over.png"
+    <a href="nineveh/47_animal_sounds_over_and_over.jpg"
         data-slide-name="47_Animal_Sounds_Over_and_Over"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>47 Animal Sounds Over and Over</h4>
             <p>img on <a href='http://imagequilts.com/' target='_blank' rel='noopener'>imagequilts</a></p>
         </div>">
-        <img src="nineveh/47_animal_sounds_over_and_over.png" />
+        <img src="nineveh/47_animal_sounds_over_and_over.jpg" />
     </a>
     <a href="nineveh/Eclogues.jpg"
         data-slide-name="Eclogues"
@@ -49,13 +49,13 @@ title: nineveh
         </div>">
         <img src="nineveh/First_Delphic_Hymn,_1st_and_2nd_verse.jpg" />
     </a>
-    <a href="nineveh/Souvenirs_Entomologiques.webp"
+    <a href="nineveh/Souvenirs_Entomologiques.jpg"
         data-slide-name="Souvenirs_Entomologiques"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>Souvenirs Entomologiques ⚪昆虫纪念品 ⚫1923年 周作人在报章上发表法布尔昆虫记并从英,日文转译了数章 ⚫晚年 翻译了小约翰的周树人有意转译全本 但不果</h4>
             <p>img on <a href='https://gallica.bnf.fr/ark:/12148/bpt6k1522441v' target='_blank' rel='noopener'>bnf</a> / <a href='https://creativecommons.org/licenses/publicdomain/' target='_blank' rel='noopener'>pdm</a></p>
         </div>">
-        <img src="nineveh/Souvenirs_Entomologiques.webp" />
+        <img src="nineveh/Souvenirs_Entomologiques.jpg" />
     </a>
     <a href="nineveh/Nineveh,_Colesville_TP.jpg"
         data-slide-name="Nineveh,_Colesville_TP"

@@ -9,7 +9,7 @@ ascii ⚪american standard code for information interchange ⚪美利坚信息�
 
 lua ⚪1993年诞生在巴西 葡萄牙语中是月亮的意思 ⚫一种动态脚本语言 常用于配置(config),运行时(runtime) 适合嵌入更大的脚本,库 进行交互 ⚫除基础变量外 大部分都在引用表上数据 ⚫表类似Python的字典(dictionary)或JavaScript中的实体(object) 
 
-python ⚫有时同一个符号会用于多种用途 ⚪\[\] 在Python中 通常是列表,值的序列(sequence) 或者用于可选内容,元素(element) 索引时从0开始 可与字典嵌套 ⚫解释命令时在程序文件自身后以序号0开始 ⚪\{\} 通常是字典,键值的无序序列 当索引键时 返回值 当进行赋值时 使用\[\] ⚪\(\) 用于可填入参数的函数(function)名,传入变量(variable) 作前者时被称为方法(method) 有时具有默认参数 一般能从官方文档检阅 而后者存在在范围(scope)内 ⚫嵌套,组织顺序时 从内到外读 ⚫可作为布尔表达式在条件句子中 ⚪f"{}" 格式化字符串 ⚪: 将处理以下缩进的每行 ⚫部分函数需作为modules更仔细地装载入内存
+python ⚫有时同一个符号会用于多种用途 ⚪\[\] 在Python中 通常是列表,值的序列(sequence) 或者用于可选内容,元素(element) 索引时从0开始 可与字典嵌套 ⚫解释命令时在程序文件自身后以序号0开始 ⚪\{\} 通常是字典,键值的无序序列 当索引键时 返回值 当进行赋值时 使用\[\] ⚪\(\) 用于可填入参数的函数(function)名,传入变量(variable) 作前者时被称为方法(method) 有时具有默认参数 一般能从官方文档检阅 而后者存在在范围(scope)内 ⚫嵌套,组织顺序时 从内到外读 ⚫可作为布尔表达式在条件句子中 ⚪f"{}" 格式化字符串 ⚪: 将处理以下缩进的每行 ⚫部分函数需作为modules更仔细地装载入内存 ⚪\. 用来间隔模块
 
 数据类型 ⚪str(string) 一种数据类型 字符,单词,段落 ⚪int(integers) 整数 一个函数 ⚪float 带小数点的数 ⚪bool(boolean) 逻辑陈述或运算 ⚪list 列表 ⚪dics(dictionaries) 字典 ⚪sep(separator) 分隔符 ⚪def(define) 定义函数
 

@@ -249,13 +249,13 @@ title: amphissa
         </div>">
         <img src="amphissa/Ophelia.jpg" />
     </a>
-    <a href="amphissa/Judgement_of_Paris.png"
+    <a href="amphissa/Judgement_of_Paris.jpg"
         data-slide-name="Judgement_of_Paris"
         data-sub-html="<div class='lightGallery-captions'>
             <h4>画中的乐者吹奏着奥罗斯管(aulos) ⚪Paris(帕里斯)的词源与法国城市巴黎无关 后者源于一个高卢人部落 ⚫在特洛伊战争的神话基础里 没有受到邀请的埃里斯(Eris)往宴会里扔了一个刻有献予最美丽者的金苹果 宙斯不想得罪赫拉,雅典娜,阿芙罗狄蒂(Afrodite)中的任意二人 于是委任帕里斯 在春季的伊达(Ida)山上 沐浴后的女神们接近放牧的帕里斯 并试图贿赂他 他最终选择了阿芙罗狄蒂 也就选择了海伦</h4>
             <p>Judgement of Paris(1892) - Henryk Hektor Siemiradzki</p>
         </div>">
-        <img src="amphissa/Judgement_of_Paris.png" />
+        <img src="amphissa/Judgement_of_Paris.jpg" />
     </a>
     <a href="amphissa/Inanna_and_Dumuzi.jpg"
         data-slide-name="Inanna_and_Dumuzi"

@@ -273,13 +273,13 @@ title: jaffa
         </div>">
         <img src="jaffa/Diospyros_lotus.jpg" />
     </a>
-    <a href="jaffa/Mesochordaeus_erythrocephalus.png"
+    <a href="jaffa/Mesochordaeus_erythrocephalus.jpg"
         data-slide-name="Mesochordaeus_erythrocephalus"
         data-sub-html="<div class='lightGallery-captions'>
 		<h4>Mesochordaeus erythrocephalus ⚪红脑囊虫 ⚫躯干长7毫米 分叉的尾巴长50毫米 新月形的外粘液室宽约30厘米 消化系统含鲜红色素 ⚪所属尾海鞘纲(Appendicularia) 异名幼态纲(Larvacea) 在整个生命过程中都保留着幼虫形态 ⚫分布于中深海 在室内周期地拍打尾巴 产生水流 聚集食物 房屋在被废弃后沉降到深海</h4>
 		<p>on <a href='https://www.mbari.org/midwater_expedition_2018/?platform=hootsuite' target='_blank' rel='noopener'>mbari</a> / <a href='https://www.mbari.org/monterey-bay-aquarium-research-institute/terms-of-use/' target='_blank' rel='noopener'>terms of use</a></p>
         </div>">
-        <img src="jaffa/Mesochordaeus_erythrocephalus.png" />
+        <img src="jaffa/Mesochordaeus_erythrocephalus.jpg" />
     </a>
     <a href="jaffa/Saxifraga_aizoides.jpg"
         data-slide-name="Saxifraga_aizoides"
@@ -298,13 +298,13 @@ title: jaffa
         <img src="jaffa/Myrrha_octodecimguttata.jpg" />
     </a>
 啤酒纯净法颁布前的酒方: 水23l 酿造麦芽1l 蜂蜜900g 碎天仙子干草(代替蛇麻)40g 杨梅5g 红糖5g 干酵母5g
-    <a href="jaffa/Hyoscyamus_niger.jfif"
+    <a href="jaffa/Hyoscyamus_niger.jpg"
         data-slide-name="Hyoscyamus_niger."
         data-sub-html="<div class='lightGallery-captions'>
 		<h4>Hyoscyamus niger ⚪天仙子 ⚪外消旋体左天仙子碱(hyoscine)也称scopolamine 名字分别来自天仙子属(Hyoscyamus) 和以斯科波利命名的茄科斯科波利亚属(Scopolia) 俗名henbane来源不明 hen可能指死亡 可能与表示疯植物的印欧词干bhelena以及表示幻觉,幻象,魔力,奇迹等的古德语元素bil相关 ⚫钱币的一面印着卡吕冬(Kalydon)的野猪的大都会安菲莎(Amphissa) 所属的德尔菲辖区内 阿波罗的皮提亚(Pythia)服用白花天仙子 或者吸食夹竹桃烟来制作神谕 这些坐在三角凳上的女祭司们也可能是处女妆扮的老妇 ⚫在哥林多(Corinth) 祭司可能也是庙妓 后者在腓尼基城邦阿法卡(Aphaca)延续到了古典时代晚期 博学晚宴(Deipnosophistae)中记载 陶器街上的妓女画着铅白,莓黑 旧约伪经巴录书的耶利米书提到 <span class='und1'>妇女戴着细绳环</span> <span class='und1'>坐在路中</span> ⚫约翰·杰拉德在草本(Herball)记载 内服它的叶,种,果汁会引起宿醉般的长时间的不安宁的睡眠 对于病人这是致命的 以天仙子煎汤洗脚 再闻到它的花香而催人入眠 ⚫一份宗教法庭的审讯文件记载 女巫承认曾在一对恋人间撒满天仙子种子 她说出公式 <span class='und1'>在这里播下野生种</span> <span class='und1'>魔鬼怂恿彼此憎恨和回避</span> <span class='und1'>直至将种子分开</span></h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Sten' target='_blank' rel='noopener'>Sten Porse</a> on <a href='https://commons.wikimedia.org/wiki/File:Hyoscyamus-niger-habitat.JPG' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
         </div>">
-        <img src="jaffa/Hyoscyamus_niger.jfif" />
+        <img src="jaffa/Hyoscyamus_niger.jpg" />
     </a>
     <a href="jaffa/Lycium_barbarum.jpg"
         data-slide-name="Lycium_barbarum"
@@ -506,13 +506,13 @@ title: jaffa
         </div>">
         <img src="jaffa/panda.jpg" />
     </a>
-    <a href="jaffa/Henna_decorated_camel.jfif"
+    <a href="jaffa/Henna_decorated_camel.jpg"
         data-slide-name="Henna_decorated_camel."
         data-sub-html="<div class='lightGallery-captions'>
 		<h4>Lawsonia inermis ⚪指甲花 ⚫可做染发,护发剂 ⚫可做织物,皮件的染色剂 ⚫用于皮肤染色时 成色会在1到3周内剥落</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Rangbaz' target='_blank' rel='noopener'>Rangbaz</a> on <a href='https://commons.wikimedia.org/wiki/File:Henna_decorated_camel_at_khanpur_lake.JPG' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
         </div>">
-        <img src="jaffa/Henna_decorated_camel.jfif" />
+        <img src="jaffa/Henna_decorated_camel.jpg" />
     </a>
     <a href="jaffa/Cocos_zeylanica.jpg"
         data-slide-name="Cocos_zeylanica"

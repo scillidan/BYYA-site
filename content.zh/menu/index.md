@@ -22,3 +22,4 @@ headless: true
 <br />
 
 - [camera]({{< relref "/docs/camera" >}})
+- [screenshot]({{< relref "/docs/screenshot" >}})
