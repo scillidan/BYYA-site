@@ -201,13 +201,13 @@ title: jaffa
         </div>">
         <img src="jaffa/Lathyrus_aphaca.jpg" />
     </a>
-    <a href="jaffa/Microvoluta_amphissa.jpeg"
+    <a href="jaffa/Microvoluta_amphissa.jpg"
         data-slide-name="Microvoluta_amphissa."
         data-sub-html="<div class='lightGallery-captions'>
 		<h4>Microvoluta amphissa ⚪安菲莎小海螺 ⚫一种很小的海蜗牛</h4>
 		<p>img by Manuel CABALLER on <a href='https://science.mnhn.fr/institution/mnhn/collection/im/item/2000-30155' target='_blank' rel='noopener'>MNHN</a> / <a href='https://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'>cc by 4.0</a></p>
         </div>">
-        <img src="jaffa/Microvoluta_amphissa.jpeg" />
+        <img src="jaffa/Microvoluta_amphissa.jpg" />
     </a>
     <a href="jaffa/Diogenes_pugilator.jpg"
         data-slide-name="Diogenes_pugilator"
