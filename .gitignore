@@ -1,6 +1,7 @@
 .vercel
 .github/workflows/cache_vercel-deploy.yml
 .github/workflows/cache_cdn.yml
+.github/workflows/cache_hugo_optimize_scp.yml
 public/
 resources/
 hugo_optimized.sh.bak
