@@ -83,4 +83,7 @@ jobs:
           password: ${{ secrets.VPS_PASSWORD }}
           port: ${{ secrets.VPS_PORT }}
           source: "./html/*"
-          target: /var/www/sub-domains/byya/
+          target: "/var/www/sub-domains/byya/"
+          rm: true
+          overwrite: true
+          strip_components: 2
