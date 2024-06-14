@@ -73,9 +73,9 @@ jobs:
         run: mv public html
       # Refer to https://github.com/appleboy/scp-action
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
       - name: copy file to server
-        uses: appleboy/scp-action@v3
+        uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ secrets.VPS_HOST }}
           username: ${{ secrets.VPS_USERNAME }}
