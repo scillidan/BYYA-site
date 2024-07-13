@@ -9,6 +9,13 @@ title: jaffa
 
 
 <div id="lg-image">
+    <a href="/Commiphora.jpg"
+        data-sub-html="<div class='lightGallery-captions'>
+        <h4>Commiphora ⚪没药 ⚫与玫瑰,龙涎香 构成了阿拉伯-伊斯兰世界三大基础精油 ⚫古埃及,非洲之角，阿拉伯半岛间的海上贸易 曾有象牙,黄金,猫科动物的皮毛,没药,乳香</h4>
+        <p>.img by <a href='https://www.flickr.com/photos/cifor-icraf/'>CIFOR-ICRAF</a> on <a href='https://www.flickr.com/photos/cifor-icraf/53707347175' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc-nd 2.0</a></p>
+        </div>">
+        <img src="/Commiphora.jpg" />
+    </a>
     <a href="jaffa/Sepioloidea_lineolata.jpg"
         data-slide-name="Sepioloidea lineolata"
         data-sub-html="<div class='lightGallery-captions'>
@@ -156,7 +163,7 @@ title: jaffa
     <a href="jaffa/Eobania_vermiculata.jpg"
         data-slide-name="Eobania_vermiculata"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Eobania vermiculata ⚪棕带陆蜗牛 ⚫壳宽22~32毫米 高14~24毫米 颜色可变 通常壳体具较深的色带或斑点 侧腹有两条棕带 第二条色带到肚脐间发白 背部通常有4到5条螺纹 末端的螺纹斜下到壳的周边 壳唇白色 成年后外翻 且脐孔封闭在螺壳内 ⚫通常栖息在近海的干燥植被中 在湿润雨天或晚上活跃 冬眠或夏眠 ⚫成年蜗牛会掘土 并在壳口建造临时的栅栏(epiphragm) 一种似于螺壳的永久性的解剖特征 由其幔层(斗篷)分泌的干粘液制成 透气,刚性,抗干燥,抗腐蚀 ⚫部分的种类会借此黏在岩表,墙壁,树枝,茎等固体基质上 ⚪该结构可能是出埃及记中提到的香火成分 希腊语的onycha 意思是指甲或爪子 ⚫该属物种在发情期时 会烧制一种钙质飞镖 用于求偶仪式中 以液压力穿透受体的皮肤 ⚫可作为季节性食物 ⚫该相片摄于塞浦路斯(Zypern)的法玛古斯塔(Famagusta)</h4>
+		<h4>Eobania vermiculata ⚪棕带陆蜗牛 ⚫壳宽22~32毫米 高14~24毫米 颜色可变 通常壳体具较深的色带或斑点 侧腹有两条棕带 第二条色带到肚脐间发白 背部通常有4到5条螺纹 末端的螺纹斜下到壳的周边 壳唇白色 成年后外翻 且脐孔封闭在螺壳内 ⚫通常栖息在近海的干燥植被中 在湿润雨天或晚上活跃 冬眠或夏眠 ⚫成年蜗牛会掘土 并在壳口建造临时的栅栏(epiphragm) 一种似于螺壳的永久性的解剖特征 由其幔层(斗篷)分泌的干粘液制成 透气,刚性,抗干燥,抗腐蚀 ⚫部分的种类会借此黏在岩表,墙壁,树枝,茎等固体基质上 ⚪该结构可能是出埃及记中提到的香火成分 希腊语的onycha 意思是指甲或爪子 ⚫该属物种在发情期时 会烧制一种钙质飞镖 用于求偶仪式中 以液压力穿透受体的皮肤 ⚫可作为季节性食物 ⚫该相片摄于塞浦路斯(Zypern) 法语名西浦(Chypre) 的法玛古斯塔(Famagusta)</h4>
 		<p>img by <a href='https://www.flickr.com/photos/wiseguy71' target='_blank' rel='noopener'>wiseguy71</a> on <a href='https://www.flickr.com/photos/wiseguy71/5128383104' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Eobania_vermiculata.jpg" />
@@ -244,7 +251,7 @@ title: jaffa
     <a href="jaffa/Nicolas_Francois_Regnault_Le_Labdanum,_ou_Ladanum..jpg"
         data-slide-name="Nicolas_Francois_Regnault_Le_Labdanum,_ou_Ladanum."
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Cistus ladanifer ⚪拉丹姆岩蔷薇 ⚫浓密直立灌木 高1~2.5米 略宽 披针形常绿长3~10厘米 宽1~2厘米 正面深绿 背面浅绿或灰色 花直径5~8厘米 有5片白色花瓣 基部通常有红色到栗色的斑点 夏季炎热时整株植物散发芬芳 适于干旱花园或海滨花园 ⚫叶子覆盖一层类树脂 称为拉丹姆(labdanum) 主要从该种和克里特岩蔷薇(Cistus creticus)获得 远古时通过梳理山羊和绵阳的胡须和大腿来收集 呈棕色 气味浓郁,复杂,牢固 被形容为琥珀气味,动物气味,甜味,水果香,木质香,龙涎香,干麝香,皮革味 据说是出埃及记30:34-36中的圣香 医学上用于感冒,咳嗽,月经失调,风湿等 在香水和苦艾酒中使用 可作固色剂 ⚪属名来自古希腊植物名 该属对鹿的啃食有一定抵抗力 ladanifer的字面意思就是 拉丹姆的承载物</h4>
+		<h4>Cistus ladanifer ⚪劳丹姆岩蔷薇 ⚫浓密直立灌木 高1~2.5米 略宽 披针形常绿长3~10厘米 宽1~2厘米 正面深绿 背面浅绿或灰色 花直径5~8厘米 有5片白色花瓣 基部通常有红色到栗色的斑点 夏季炎热时整株植物当年新芽受树脂覆盖 散发芬芳 适于干旱花园或海滨花园 ⚫叶表的一层类树脂 称为劳丹姆(labdanum) 主要从该种和克里特岩蔷薇(Cistus creticus)获得 远古时通过梳理山羊和绵阳的胡须和大腿来收集 呈棕色 气味浓郁,复杂,牢固 被形容为琥珀气味,动物气味,甜味,水果香,木质香,龙涎香,干麝香,皮革味 据说是出埃及记30:34-36中的<span class='und1'>圣香</span> 医学上用于感冒,咳嗽,月经失调,风湿等 在香水和苦艾酒中使用 可作固色剂 ⚪属名来自古希腊植物名 该属对鹿的啃食有一定抵抗力 ladanifer的字面意思就是 劳丹姆的承载物</h4>
 		<p>Le Labdanum, ou Ladanum. (1774) - Nicolas Francois Regnault, <p>img on <a href='https://digitalcollections.nypl.org/items/510d47dc-7dbe-a3d9-e040-e00a18064a99' target='_blank' rel='noopener'>NYPL</a> / <a href='https://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'>pdm</a></p>
         </div>">
         <img src="jaffa/Nicolas_Francois_Regnault_Le_Labdanum,_ou_Ladanum..jpg" />
