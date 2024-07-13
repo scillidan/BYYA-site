@@ -9,12 +9,12 @@ title: jaffa
 
 
 <div id="lg-image">
-    <a href="/Commiphora.jpg"
+    <a href="jaffa/Commiphora.jpg"
         data-sub-html="<div class='lightGallery-captions'>
         <h4>Commiphora ⚪没药 ⚫与玫瑰,龙涎香 构成了阿拉伯-伊斯兰世界三大基础精油 ⚫古埃及,非洲之角，阿拉伯半岛间的海上贸易 曾有象牙,黄金,猫科动物的皮毛,没药,乳香</h4>
         <p>.img by <a href='https://www.flickr.com/photos/cifor-icraf/'>CIFOR-ICRAF</a> on <a href='https://www.flickr.com/photos/cifor-icraf/53707347175' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc-nd 2.0</a></p>
         </div>">
-        <img src="/Commiphora.jpg" />
+        <img src="jaffa/Commiphora.jpg" />
     </a>
     <a href="jaffa/Sepioloidea_lineolata.jpg"
         data-slide-name="Sepioloidea lineolata"
