@@ -16,6 +16,19 @@ Caitmyy Ruunn Lizta,卡特梅耶·如尼·利兹塔
 Uchiha Byronwerth Yeager宇智波·拜伦维斯·耶格尔
 Songonqili Tresdin Pendragon,宋宫姬莉·特雷斯汀·潘多拉贡
 Sigmund Lecter Seligman,西格蒙德·莱克特·塞利格曼
+```
 
-Magda迈达Mescalin梅斯卡灵Carbamazepine卡马西平Faltonia Betitia法尔托尼亚·贝提提亚Cerling赛林Sve斯维Felicity费利西帝Mmel梅尔Yoachim约阿希姆Caen卡昂Cany卡那Yohan约哈
+```
+Magda迈达
+Mescalin梅斯卡灵
+Carbamazepine卡马西平
+Faltonia Betitia法尔托尼亚·贝提提亚
+Cerling赛林
+Sve斯维
+Felicity费利西帝
+Mmel梅尔
+Yoachim约阿希姆
+Caen卡昂
+Cany卡那
+Yohan约哈
 ```

@@ -1,9 +1,14 @@
 ---
 weight: 4
 ---
+<style>
+	th {
+		display: none;
+	}
+</style>
 
-:-          | :- | -:       | -:
-:-          | :- | -:       | -:
+\-          | \- | \-       | \-
+:-          | :- | :-       | :-
 bael        | 1  | 猫蟾蜍   |
 samigina    | 4  | 马驴     |
 marbas      | 5  | 狮       | 王冠
@@ -20,8 +25,8 @@ orobas      | 55 | 马       |
 andrealphus | 65 | 孔雀     |
 amdusias    | 67 | 独角兽   | 器乐声或弯曲树木
 
-:-            | :-:                                                   | -:         | :-
-:-            | :-:                                                   | -:         | :-
+\-            | \-                                                    | \-         | \-
+:-            | :-:                                                   | :-         | :-
 Samiel - 3    | <img src="../amduscia/seal_Amriel.svg" width="100">   | 流浪的     | Hidriel(希德)
 Lusiel - 3    | <img src="../amduscia/seal_Betasiel.svg" width="100"> | 流浪的     | Hidriel(希德)
 Amriel - 7    | <img src="../amduscia/seal_Chamor.svg" width="100">   | 迷失空中的 | Soteriel(索特)

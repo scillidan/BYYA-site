@@ -52,7 +52,7 @@ title: amphissa
   <a href="amphissa/Melon_and_Fruit_Bowl_with_Figs.jpg"
     data-slide-name="Melon_and_Fruit_Bowl_with_Figs"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>无花果 ⚫申命纪(Deuteronomy)8:8提及的七种果实之一 其余的是小麦,大麦,葡萄,无花果,橄榄,椰枣或蜂蜜 ⚫虚构作品阿达拉里称其是眼泪和长眠之树</h4>
+      <h4>无花果 ⚫原产于安纳托利亚 果实熟甜略带酸涩 ⚫申命纪(Deuteronomy)8:8提及的七种果实之一 其余的是小麦,大麦,葡萄,无花果,橄榄,椰枣或蜂蜜 ⚫虚构作品阿达拉里称其是眼泪和长眠之树</h4>
       <p>Melon and Fruit Bowl with Figs(1880-1882) - Gustave Caillebotte</p>
     </div>">
     <img src="amphissa/Melon_and_Fruit_Bowl_with_Figs.jpg" />

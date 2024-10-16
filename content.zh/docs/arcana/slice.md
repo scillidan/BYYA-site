@@ -1,8 +1,13 @@
 ---
 weight: 5
 ---
+<style>
+	th {
+		display: none;
+	}
+</style>
 
-:-                                             | :-     | :-:
+\-                                             | \-     | \-
 :-                                             | :-     | :-:
 heart                                          | amulet | <img src="../slice/amulet_heart.png" width="100">
 medusa                                         | amulet | <img src="../slice/amulet_medusa.png" width="100">
