@@ -21,6 +21,5 @@ headless: true
 - [_recipt]({{< relref "/docs/recipt" >}})
 <br />
 
-- [sheet]({{< relref "/docs/sheet" >}})
 - [camera]({{< relref "/docs/camera" >}})
 - [screenshot]({{< relref "/docs/screenshot" >}})
