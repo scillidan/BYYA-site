@@ -28,7 +28,7 @@ title: amphissa
   <a href="amphissa/Egyptian_Shabtis_&_Amulets.jpg"
     data-slide-name="Egyptian_Shabtis_&_Amulets"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>shabtis & amulets ⚪沙布提 ⚫一种丧葬雕像 用以充当死者的仆从或佣人 代答命令 代劳在下界的农事等 ⚫可以是木雕,石雕,彩陶等 铭文通常含亡灵书第六章的内容 ⚫阿诺德·范·杰内普将与死亡有关的过渡仪式分为三个时段 包括抬尸一类的分离仪式,守灵一类的边缘仪式,吃斋一类的聚集仪式 ⚫按教会说法 死去圣徒的精神渗透了其衣物,骸骨,头发等遗物 而圣物具有治病,授产,赐福等能力</h4>
+      <h4>shabtis & amulets ⚪沙布提 ⚫一种丧葬雕像 用以充当死者的仆从或佣人 代答命令 代劳在下界的农事等 ⚫可以是木雕,石雕,彩陶等 铭文通常含<span class='und1'>亡灵书</span>第六章的内容 ⚫阿诺德·范·杰内普将与死亡有关的过渡仪式分为三个时段 包括抬尸一类的分离仪式,守灵一类的边缘仪式,吃斋一类的聚集仪式 ⚫按教会说法 死去圣徒的精神渗透了其衣物,骸骨,头发等遗物 而圣物具有治病,授产,赐福等能力</h4>
       <p>.img by <a href='https://www.flickr.com/photos/101561334@N08/' target='_blank' rel='noopener'>Gary Todd</a> on <a href='https://www.flickr.com/photos/101561334@N08/36608253515/' target='_blank' rel='noopener'>Flickr</a> / <a href='https://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'>cc 0</a></p>
     </div>">
     <img src="amphissa/Egyptian_Shabtis_&_Amulets.jpg" />
@@ -52,7 +52,7 @@ title: amphissa
   <a href="amphissa/Melon_and_Fruit_Bowl_with_Figs.jpg"
     data-slide-name="Melon_and_Fruit_Bowl_with_Figs"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>无花果 ⚫原产于安纳托利亚 果实熟甜略带酸涩 ⚫申命纪(Deuteronomy)8:8提及的七种果实之一 其余的是小麦,大麦,葡萄,无花果,橄榄,椰枣或蜂蜜 ⚫虚构作品阿达拉里称其是眼泪和长眠之树</h4>
+      <h4>无花果 ⚫原产于安纳托利亚 果实熟甜略带酸涩 ⚫<span class='und1'>申命纪</span>(Deuteronomy)8:8提及的七种果实之一 其余的是小麦,大麦,葡萄,无花果,橄榄,椰枣或蜂蜜 ⚫虚构作品<span class='und1'>阿达拉</span>里称其是<span class='und1'>眼泪和长眠之树</span></h4>
       <p>Melon and Fruit Bowl with Figs(1880-1882) - Gustave Caillebotte</p>
     </div>">
     <img src="amphissa/Melon_and_Fruit_Bowl_with_Figs.jpg" />
@@ -76,7 +76,7 @@ title: amphissa
   <a href="amphissa/the_Piacenza_Liver.jpg"
     data-slide-name="the_Piacenza_Liver"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>the Piacenza Liver ⚪青铜羊肝 ⚫肝脏被古巴比伦人认为是血液的来源 在尼尼微的巴尼拔图书馆里记载有十多个与其相关的术语 ⚪狩猎或牺牲动物 取出其肠,肝进行占卜 也称为脏卜 ⚫在北方国家 鹅卵石迷宫被认为是结肠的模型 这类旋径既是朝向下界的 代表了回归大地母胎的受庇护的渴望 也朝向天空 也就是向着神的深渊坠落 ⚫在第三本先知书以西结书21:26里 尼布甲尼撒(Nebuchadnezzar II)在岔路前摇箭,求问舞偶(teraphim),察看肝卜 ⚪teraphim(特拉芬) ⚪希伯来语单词 仅以复数形式出现在旧约圣经(Tanakh) 但可以指称单数对象 ⚫是占卜器物,戏剧木偶,小型家神像 ⚫作占卜时通常32个一组 类似于西洋棋来布置 不能单独使用 需查看移动中的棋像的相对关系 其三十二轨也是祭司的舞步步径</h4>
+      <h4>the Piacenza Liver ⚪青铜羊肝 ⚫肝脏被古巴比伦人认为是血液的来源 在尼尼微的巴尼拔图书馆里记载有十多个与其相关的术语 ⚪狩猎或牺牲动物 取出其肠,肝进行占卜 也称为脏卜 ⚫在北方国家 鹅卵石迷宫被认为是结肠的模型 这类旋径既是朝向下界的 代表了回归大地母胎的受庇护的渴望 也朝向天空 也就是向着<span class='und1'>神的深渊</span>坠落 ⚫在第三本先知书<span class='und1'>以西结书</span>21:26里 尼布甲尼撒(Nebuchadnezzar II)在岔路前<span class='und1'>摇箭</span>,求问舞偶(teraphim),<span class='und1'>察看肝卜</span> ⚪teraphim(特拉芬) ⚪希伯来语单词 仅以复数形式出现在旧约圣经(Tanakh) 但可以指称单数对象 ⚫是占卜器物,戏剧木偶,小型家神像 ⚫作占卜时通常32个一组 类似于西洋棋来布置 不能单独使用 需查看移动中的棋像的相对关系 其三十二轨也是祭司的舞步步径</h4>
       <p>.img by <a href='https://www.flickr.com/photos/bramhall/' target='_blank' rel='noopener'>David Bramhall</a> on <a href='https://www.flickr.com/photos/bramhall/18906923560' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
     </div>">
     <img src="amphissa/the_Piacenza_Liver.jpg" />
@@ -84,7 +84,7 @@ title: amphissa
   <a href="amphissa/the_Siren_of_Canosa.jpg"
     data-slide-name="the_Siren_of_Canosa"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>the Siren of Canosa ⚪塞壬 ⚫卡诺萨的塞壬小雕像具有一些渡神(psychopomp)的特征 可用于葬礼 ⚪siren的词源存在争议 一个古希腊底语的起源里 被认为和seira(绳子)和eiro(系)有关 英语中可指一种制造噪音的装置 ⚫拜占庭的史蒂芬努斯记述到 克里特西北海岸的阿普特拉(Aptera)城的歌赛上 塞壬在输给了缪斯(Muse)们后 白化并掉入无羽海 形成了卢凯(Leukai)岛 在今天是苏达(Souda)岛和利昂(Leon)岛 ⚪aptera和leukai意思就是没有羽毛和白色的事物 ⚫它们会演奏各种乐器 通常是竖琴,里拉琴(lyre) ⚫亚撒纳修斯·基彻(Athanasius Kircher)认为在诺亚方舟上一定要为它们建造隔间</h4>
+      <h4>the Siren of Canosa ⚪塞壬 ⚫卡诺萨的塞壬小雕像具有一些渡神(psychopomp)的特征 可用于葬礼 ⚪siren的词源存在争议 一个古希腊底语的起源里 被认为和seira(绳子)和eiro(系)有关 英语中可指一种制造噪音的装置 ⚫拜占庭的史蒂芬努斯记述到 克里特西北海岸的阿普特拉(Aptera)城的歌赛上 塞壬在输给了缪斯(Muse)们后 白化并掉入<span class='und2'>无羽</span>海 形成了卢凯(Leukai)岛 在今天是苏达(Souda)岛和利昂(Leon)岛 ⚪aptera和leukai意思就是没有羽毛和白色的事物 ⚫它们会演奏各种乐器 通常是竖琴,里拉琴(lyre) ⚫亚撒纳修斯·基彻(Athanasius Kircher)认为在诺亚方舟上一定要为它们建造隔间</h4>
       <p>.img by <a href='https://www.flickr.com/photos/zaqarbal/' target='_blank' rel='noopener'>Luis García</a> on <a href='https://www.flickr.com/photos/zaqarbal/2388945210' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
     </div>">
     <img src="amphissa/the_Siren_of_Canosa.jpg" />
@@ -100,7 +100,7 @@ title: amphissa
   <a href="amphissa/Way_of_Salvation,_Church_Militant_and_Triumphant.jpg"
     data-slide-name="Way_of_Salvation,_Church_Militant_and_Triumphant"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>nominalism ⚪唯名论 ⚪源于拉丁语nomen(name) 约翰·斯图尔特·米尔在某篇论文里总结其含义 除非具名 否则一般事物并不存在 ⚫一般否认存在共相(以实例化事物) 它仅是文学概念 或者否认存在抽象事物(从时空上) ⚫代表人物有奥卡姆(Ockham) 画中他戴着一顶黄色的小瓜帽 ⚫与之分歧的 最早可追溯到柏拉图式的实在论(realismus) ⚪这个词词源自晚期拉丁语realis(真实) ⚫其中一些重要概念可能是 人是从不可接触的完全中抽象出不全的副本 来制作实例</h4>
+      <h4>nominalism ⚪唯名论 ⚪源于拉丁语nomen(name) 约翰·斯图尔特·米尔在某篇论文里总结其含义 <span class='und1'>除非具名</span> 否则一般事物并不存在 ⚫一般否认存在共相(以实例化事物) 它仅是文学概念 或者否认存在抽象事物(从时空上) ⚫代表人物有奥卡姆(Ockham) 画中他戴着一顶黄色的小瓜帽 ⚫与之分歧的 最早可追溯到柏拉图式的实在论(realismus) ⚪这个词词源自晚期拉丁语realis(真实) ⚫其中一些重要概念可能是 <span class='und2'>人是从不可接触的完全中抽象出不全的副本</span> <span class='und2'>来制作实例</span></h4>
       <p>Way of Salvation, Church Militant and Triumphant(1365-1367) - Andrea di Bonaiuto</p>
     </div>">
     <img src="amphissa/Way_of_Salvation,_Church_Militant_and_Triumphant.jpg" />
@@ -108,7 +108,7 @@ title: amphissa
   <a href="amphissa/Portrait_of_a_Young_Girl.jpg"
     data-slide-name="Portrait_of_a_Young_Girl"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>portrait ⚪肖像 ⚫4:3是标准的肖像比例 ⚪landscape ⚫指一块空地 古英语中的同源术语是landscaef,landskipe 但在17世纪初由荷兰语landschap英语化而来 属绘画,艺术品相关的术语 ⚫伊曼纽尔·列维纳斯(Emmanuel Levinas)的伦理概念的重要部分之一是关于另一方的接近 他在存在对于他人里写到 <span class='und1'>并没有普遍的道德法则</span> <span class='und1'>只是在他人处于脆弱状态</span> <span class='und1'>一种责任感被唤起了</span> <span class='und1'>而这种回应受面孔胁迫</span> <span class='und1'>并作为道德基础</span> ⚫他使用本体论(ontology)指代<span class='und2'>元自然论</span>(metaphysics) ⚪这个词词源是拉丁语meta(自 根源)和physics(自然讲) 后者原指一个归因于亚里士多德的语料库 由罗马时代的校成员保存 在西罗马覆灭后 这些著作幸存于东罗马 并被纳入早期伊斯兰哲学 西欧在中世纪时由两者恢复了亚里士多德学派 一直到文艺复兴时期 这些追随者也被称为回廊学派 得名于原址上的建筑和讲授风格 ⚪构成本体论 ⚫捆束理论认为一个对象不过是它构成的属性 如一个普通的苹果可以被描述成一捆红,圆,甜等 ⚪关系本体论 ⚫注点理论认为 对象是无结构的点 作为该理论的一种 类别唯名论认为 属性是事物的类别 实例化一个属性仅是成为相应类的成员 因此属性不是拥有该属性的事物的构成</h4>
+      <h4>portrait ⚪肖像 ⚫4:3是标准的肖像比例 ⚪landscape ⚫指一块空地 古英语中的同源术语是landscaef,landskipe 但在17世纪初由荷兰语landschap英语化而来 属绘画,艺术品相关的术语 ⚫伊曼纽尔·列维纳斯(Emmanuel Levinas)的伦理概念的重要部分之一是关于另一方的接近 他在<span class='und1'>存在对于他人</span>里写到 <span class='und1'>并没有<span class='und1'>普遍的道德法则</span></span> <span class='und1'>只是在他人处于脆弱状态</span> <span class='und1'>一种责任感被唤起了</span> <span class='und1'>而这种回应受面孔胁迫</span> <span class='und1'>并作为道德基础</span> ⚫他使用本体论(ontology)指代<span class='und2'>元自然论</span>(metaphysics) ⚪这个词词源是拉丁语meta(自 根源)和physics(<span class='und2'>自然讲</span>) 后者原指一个归因于亚里士多德的语料库 由罗马时代的校成员保存 在西罗马覆灭后 这些著作幸存于东罗马 并被纳入早期伊斯兰哲学 西欧在中世纪时由两者恢复了亚里士多德学派 一直到文艺复兴时期 这些追随者也被称为<span class='und2'>回廊学派</span> 得名于原址上的建筑和讲授风格 ⚪构成本体论 ⚫<span class='und2'>捆束理论</span>认为一个对象不过是它构成的属性 如一个普通的苹果可以被描述成一捆红,圆,甜等 ⚪关系本体论 ⚫<span class='und2'>注点理论</span>认为 对象是无结构的点 作为该理论的一种 类别唯名论认为 属性是事物的类别 实例化一个属性仅是成为相应类的成员 因此属性不是拥有该属性的事物的构成</h4>
       <p>Portrait of a Young Girl - Konstantin Yegorovich Makovsky</p>
     </div>">
     <img src="amphissa/Portrait_of_a_Young_Girl.jpg" />
@@ -124,7 +124,7 @@ title: amphissa
   <a href="amphissa/Sinop.jpg"
     data-slide-name="Sinop"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>Sinop ⚪锡诺普 ⚫在古代 是安纳托利亚西海岸的移民城市米利都(Miletus)的一个殖民地 可能出产一款宝石蓝或橙黄的丝质长罩衫 铸币上起初是海龟 后被陆龟取代 ⚪名字来源于一种叫做sinopia的暗红棕色的天然岩土颜料 这种颜料在卡帕多西亚(Cappadocia)开采 供应古代世界 其红色来自赤铁矿 据说宗主城市也产一种玫瑰色的赭石 ⚫意大利画家和作家塞尼诺·塞尼尼(Cennino Cennini)在他的绘画手册写到 这种颜料 <span class='und1'>具有轻薄和干燥的特点 碾磨越细 粉化效果越好 非常适合用于镶板,镶隔板,墙面</span> 用于湿壁画,壁画</h4>
+      <h4>Sinop ⚪锡诺普 ⚫在古代 是安纳托利亚西海岸的移民城市米利都(Miletus)的一个殖民地 可能出产一款宝石蓝或橙黄的丝质长罩衫 铸币上起初是海龟 后被陆龟取代 ⚪名字来源于一种叫做sinopia的暗红棕色的天然岩土颜料 这种颜料在卡帕多西亚(Cappadocia)开采 供应古代世界 其红色来自赤铁矿 据说宗主城市也产一种玫瑰色的赭石 ⚫意大利画家和作家塞尼诺·塞尼尼(Cennino Cennini)在他的绘画手册写到 <span class='und1'>这种颜料</span> <span class='und1'>具有轻薄和干燥的特点 碾磨越细</span> <span class='und1'>粉化效果越好</span> <span class='und1'>非常适合用于镶板,镶隔板,墙面</span> <span class='und1'>用于湿壁画,壁画</h4>
       <p>.img <a href='https://www.flickr.com/photos/donbrr/' target='_blank' rel='noopener'>Don Barrett</a> on <a href='https://www.flickr.com/photos/donbrr/3553112683/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
     </div>">
     <img src="amphissa/Sinop.jpg" />
@@ -132,7 +132,7 @@ title: amphissa
   <a href="amphissa/Diogenes.jpg"
     data-slide-name="Diogenes"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>犬儒学派的创始人之一 ⚫考古学上发现了许多污损的硬币 被认为是第欧根尼父子俩故意使其贬值 直到无法作法定货币使用 在他的银行家父亲希切西奥(Hicesias)担任铸币官员的这段时间 市面上还有很多假币流通 这出金融丑闻最终以他被逐出出生地锡诺普(Sinope)收场 连带失去了公民身份和所有财产 ⚫据说他是去德尔菲寻求建议 被告知他应破坏货币 事后 第欧根尼认为先知的意思其实是 他应抹黑政治的货币 而不是实际的硬币 ⚫遭驱逐后 他移居雅典 以挑战既定习俗和价值观作为自己的人生目标 他因居住在属于泰坦神塞贝莱(Cybele)神庙的陶坛里,在白天提灯,在市场上吃东西,在阿卡德米(Academy)学园上课时吃食等行为而著名 ⚫有一些记载是关于他生活在哥林多的克兰姆(Craneum)竞技场附近时 菲利普(Philip II)要来视察的报道使全城一片混乱 一个人在擦亮他的手臂 另一个在抡石块 第三个在补墙 第四个在加固墙垛 每个人都在以某种方式使自己有用 第欧根尼无所事事 当然也没人想过要给他一份差事 但被眼前的景象触动 第欧根尼收起了他的哲学家斗篷 开始大力地把他住的大桶滚上滚下 一位熟人问询并得到了这番解释 <span class='und1'>我不想被认为是如此繁忙的人群中唯一的闲人</span> <span class='und1'>我像其他人一样</span> <span class='und1'>我滚着我的大桶</span> ⚫据说他因生吃章鱼而病死</h4>
+      <h4>犬儒学派的创始人之一 ⚫考古学上发现了许多污损的硬币 被认为是第欧根尼父子俩故意使其贬值 直到无法作法定货币使用 在他的银行家父亲希切西奥(Hicesias)担任铸币官员的这段时间 市面上还有很多假币流通 这出金融丑闻最终以他被逐出出生地锡诺普(Sinope)收场 连带失去了公民身份和所有财产 ⚫据说他是去德尔菲寻求建议 被告知他应<span class='und1'>破坏货币</span> 事后 第欧根尼认为先知的意思其实是 他应抹黑政治的货币 而不是实际的硬币 ⚫遭驱逐后 他移居雅典 以挑战既定习俗和价值观作为自己的人生目标 他因居住在属于泰坦神塞贝莱(Cybele)神庙的陶坛里,在白天提灯,在市场上吃东西,在阿卡德米(Academy)学园上课时吃食等行为而著名 ⚫有一些记载是关于他生活在哥林多的克兰姆(Craneum)竞技场附近时 菲利普(Philip II)要来视察的报道使全城一片混乱 一个人在擦亮他的手臂 另一个在抡石块 <span class='und1'>第三个在补墙</span> <span class='und1'>第四个在加固墙垛</span> <span class='und1'>每个人都在以某种方式使自己有用</span> <span class='und1'>第欧根尼无所事事</span> 当然也没人想过要给他一份差事 <span class='und1'>但被眼前的景象触动</span> <span class='und1'>第欧根尼收起了他的哲学家斗篷</span> <span class='und1'>开始大力地把他住的大桶滚上滚下</span> 一位熟人问询并得到了这番解释 <span class='und1'>我不想被认为是如此繁忙的人群中唯一的闲人</span> <span class='und1'>我像其他人一样</span> <span class='und1'>我滚着我的大桶</span> ⚫据说他因生吃章鱼而病死</h4>
       <p>Diogenes(1882) - John William Waterhouse</p>
     </div>">
     <img src="amphissa/Diogenes.jpg" />
@@ -140,7 +140,7 @@ title: amphissa
   <a href="amphissa/byzantine_clothing.jpg"
     data-slide-name="byzantine_clothing"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>Byzantine clothing ⚪道袍 ⚫在君士坦丁(Constantinus I)主持下 首届普世公会在拜占庭(Byzantine)小镇召开 全体主教签署了具有强制性的尼西亚(Nicae)教条 拒绝签署或者谴责阿里乌的人员被认为受皇帝驱逐 他下令焚毁该教派文献宴席(Thalia)及其副本 其中的规则 有时被称为异构教条 指文件不包含相同实体或相似实体的词的事实 ⚪BIBLE本指许多小书集成的书 现大写来区别于一切世俗书卷 其正典包含旧约39卷 希波(Hippo)公会及后续纳入的新约27卷</h4>
+      <h4>Byzantine clothing ⚪道袍 ⚫在君士坦丁(Constantinus I)主持下 首届普世公会在拜占庭(Byzantine)小镇召开 全体主教签署了具有强制性的尼西亚(Nicae)教条 拒绝签署或者谴责阿里乌的人员被认为受皇帝驱逐 他下令焚毁该教派文献<span class='und1'>宴席</span>(Thalia)及其副本 其中的规则 有时被称为<span class='und2'>异构</span>教条 指文件不包含<span class='und2'>相同实体</span>或<span class='und2'>相似实体</span>的词的事实 ⚪BIBLE本指许多小书集成的书 现大写来区别于一切世俗书卷 其正典包含旧约39卷 希波(Hippo)公会及后续纳入的新约27卷</h4>
       <p>.img by <a href='https://www.flickr.com/photos/127226743@N02/' target='_blank' rel='noopener'>Dimitris Kamaras</a> on <a href='https://www.flickr.com/photos/127226743@N02/46197866412/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
     </div>">
     <img src="amphissa/byzantine_clothing.jpg" />
@@ -148,7 +148,7 @@ title: amphissa
   <a href="amphissa/mosaic_niche_from_Baiae_with_a_garden_scene_04.jpg"
     data-slide-name="mosaic_niche_from_Baiae_with_a_garden_scene_04"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>mosaic niche from Baiae ⚪马赛克壁槽 ⚫古玛(Cumae)城属下的海滨古镇和疗养地拜雅 起初也许是作为半岛的港口开发 ⚫地理志5.4.6中描述了<span class='und1'>从古玛到拜雅</span> <span class='und1'>难闻的气味</span> <span class='und1'>因其到处是硫磺,火和热水</span> ⚫有着最古老的温泉建筑群 如今位于水下 在阿芙罗狄蒂的索桑德拉(Sosandra)浴场的地窖里发现了许多希腊雕塑的石膏模型 说明该地区有着量产艺术仿制品的作坊 ⚫罗马名流克洛迪亚·梅泰利(Clodia Metelli)在一场道德审判中被谴责 <span class='und1'>在拥挤的度假村拜雅</span> <span class='und1'>沉迷于海滩派对和长饮</span></h4>
+      <h4>mosaic niche from Baiae ⚪马赛克壁槽 ⚫古玛(Cumae)城属下的海滨古镇和疗养地拜雅 起初也许是作为半岛的港口开发 ⚫<span class='und1'>地理志</span>5.4.6中描述了<span class='und1'>从古玛到拜雅</span> <span class='und1'>难闻的气味</span> <span class='und1'>因其到处是硫磺</span>,<span class='und1'>火和热水</span> ⚫有着最古老的温泉建筑群 如今位于水下 在阿芙罗狄蒂的索桑德拉(Sosandra)浴场的地窖里发现了许多希腊雕塑的石膏模型 说明该地区有着量产艺术仿制品的作坊 ⚫罗马名流克洛迪亚·梅泰利(Clodia Metelli)在一场道德审判中被谴责 在<span class='und2'>拥挤的度假村拜雅</span> <span class='und2'>沉迷于海滩派对和长饮</span></h4>
       <p>.img by <a href='https://www.flickr.com/photos/carolemage/' target='_blank' rel='noopener'>Carole Raddato</a> on <a href='https://www.flickr.com/photos/carolemage/16635488033/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
     </div>">
     <img src="amphissa/mosaic_niche_from_Baiae_with_a_garden_scene_04.jpg" />
@@ -164,7 +164,7 @@ title: amphissa
   <a href="amphissa/folio_from_a_Shahnama.jpg"
     data-slide-name="folio_from_a_Shahnama"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>folio from a Shahnama ⚪开页 ⚫费多西书写的波斯长史诗沙南(Shahnameh)的抄本 其中有对琐罗亚斯德教起止的追溯 开本现散布在私人和公共收藏中 ⚫希尔万沙(Shirvanshah)宫的诗人卡加尼对此写到<span class='und2'>烛火撑起夜的帷幔</span> <span class='und2'>小径婆娑</span> <span class='und2'>映照灰色花园</span> ⚫其他的朝臣,宫廷艺人可能有火技魔术师,驯犬小丑 ⚫传闻伪典翡翠碑记载的 <span class='und1'>上即下</span><span class='und1'>下即上</span> 首次出现在六至八世纪间的阿拉伯文献中 十二世纪时被西班牙神职译成拉丁语 之后由艾萨克·牛顿私下研究炼金术时转译为英语 这些手稿仅存几张残页 据说在一场火灾事故中连带其他的资料付之一炬 因为他养的小狐狸犬代门(Diamond)打翻了蜡烛</h4>
+      <h4>folio from a Shahnama ⚪开页 ⚫费多西书写的波斯长史诗<span class='und1'>沙南</span>(Shahnameh)的抄本 其中有对琐罗亚斯德教起止的追溯 开本现散布在私人和公共收藏中 ⚫希尔万沙(Shirvanshah)宫的诗人卡加尼对此写到<span class='und2'>烛火撑起夜的帷幔</span> <span class='und2'>小径婆娑</span> <span class='und2'>映照灰色花园</span> ⚫其他的朝臣,宫廷艺人可能有火技魔术师,驯犬小丑 ⚫传闻伪典<span class='und1'>翡翠碑</span>记载的 <span class='und1'>上即下</span>,<span class='und1'>下即上</span> 首次出现在六至八世纪间的阿拉伯文献中 十二世纪时被西班牙神职译成拉丁语 之后由艾萨克·牛顿私下研究炼金术时转译为英语 这些手稿仅存几张残页 据说在一场火灾事故中连带其他的资料付之一炬 因为他养的小狐狸犬代门(Diamond)打翻了蜡烛</h4>
       <p>.img on <a href='https://www.metmuseum.org/art/collection/search/447300' target='_blank' rel='noopener'>metmuseum</a> / <a href='https://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'>cc 0</a></p>
     </div>">
     <img src="amphissa/folio_from_a_Shahnama.jpg" />
@@ -172,7 +172,7 @@ title: amphissa
   <a href="amphissa/The_Death_of_King_Arthur.jpg"
     data-slide-name="The_Death_of_King_Arthur"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>亚瑟王之死 ⚫伪地方纪事不列颠史记载 将领亚瑟陷于卡姆兰战场 同莫德雷德决斗 双双丧生 在后来对其添枝加叶的不列颠诸王史里 他作为亚瑟王 被女巫们带到阿瓦隆(Avalon)岛疗养 由姐姐摩根(Morgan)医治 画幅中她头戴黑头巾 ⚫另外 王都凯尔利昂(Caerleon)会举办竞技赛 亚瑟王则遵循封建道德 赠与骑士们城市,城堡,教会职位等财产 而纹章同时是是身份地位的符号,控制或拥有的标记,装饰 ⚪最早的拼写Morgen可能源自古威尔士或古不列吞词 意思是海生的 在古爱尔兰语里的同源词是Muirgen 据说是携带着一条水獭的人鱼被一艘信使的兽皮小圆舟发现 在约定的一年后 她上岸并受洗了这个基督化的名字 有相对较新的说法是 某个亚瑟王原型候选人的姊妹叫作Maithgen 也与另一个圣徒故事中的某个德鲁伊先知同名 ⚫诸多派生散文和诗歌中 据说乘舟同行的还有她的导师梅林的冤家 湖妖公主尼姆(Nimue)和女猎人薇薇安(Niviane) 据说她还是数学家 教授另外八姊妹天文知识 治理着自给自足的阿瓦隆岛 ⚪即威尔士语中 苹果之岛 ⚫在十四世纪末的中古英语诗歌骑士小说高文(Gawain)与绿骑士里 摩根勒菲(Morgan le Fay)设下圈套 在卡美洛(Camelot)宫廷的圣诞夜 令大姐安娜·摩高斯(Anna Morgause)之子高文接受绿骑士挑战 将其斩首 次年冬天 高文前往绿教堂赴受斧之约 途中接受了绿腰带 折返时将其带回</h4>
+      <h4>亚瑟王之死 ⚫伪地方纪事<span class='und1'>不列颠史</span>记载 将领亚瑟陷于卡姆兰战场 同莫德雷德决斗 双双丧生 在后来对其添枝加叶的<span class='und1'>不列颠诸王史</span>里 他作为亚瑟王 被女巫们带到阿瓦隆(Avalon)岛疗养 由姐姐摩根(Morgan)医治 画幅中她头戴黑头巾 ⚫另外 王都凯尔利昂(Caerleon)会举办竞技赛 亚瑟王则遵循封建道德 赠与骑士们城市,城堡,教会职位等财产 而纹章同时是是身份地位的符号,控制或拥有的标记,装饰 ⚪最早的拼写Morgen可能源自古威尔士或古不列吞词 意思是海生的 在古爱尔兰语里的同源词是Muirgen 据说是携带着一条水獭的人鱼被一艘信使的兽皮小圆舟发现 在约定的一年后 她上岸并受洗了这个基督化的名字 有相对较新的说法是 某个亚瑟王原型候选人的姊妹叫作Maithgen 也与另一个圣徒故事中的某个德鲁伊先知同名 ⚫诸多派生散文和诗歌中 据说乘舟同行的还有她的导师梅林的冤家 湖妖公主<span class='und2'>尼姆</span>(Nimue)和女猎人薇薇安(Niviane) 据说她还是数学家 教授另外八姊妹天文知识 治理着自给自足的阿瓦隆岛 ⚪即威尔士语中 苹果之岛 ⚫在十四世纪末的中古英语诗歌骑士小说<span class='und1'>高文</span>(Gawain)<span class='und1'>与绿骑士</span> 摩根勒菲(Morgan le Fay)设下圈套 在卡美洛(Camelot)宫廷的圣诞夜 令大姐安娜·摩高斯(Anna Morgause)之子高文接受绿骑士挑战 将其斩首 次年冬天 高文前往绿教堂赴受斧之约 途中接受了绿腰带 折返时将其带回</h4>
       <p>The Death of King Arthur(1860) - James Archer</p>
     </div>">
     <img src="amphissa/The_Death_of_King_Arthur.jpg" />
@@ -188,7 +188,7 @@ title: amphissa
   <a href="amphissa/shellac.jpg"
     data-slide-name="shellac"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>mould of the bust of Madame du Barry by Augustin Pajou ⚫半身像模具 使用灰泥和虫胶制成 ⚪shellac(虫胶) ⚪罗曼语和希腊语除外的大多数欧洲语言都挪用该英语词 或德语词 仿译于法语词 薄板中的胶 ⚫一种胶蚧雌虫分泌的树脂 从树上刮下后装入帆布袜筒 火烤 渗出液化的虫胶 滤掉树皮屑和虫子 再凝成纽扣状保存 ⚫受树液和采集季节影响 呈铂色,石榴石等暖色 未脱蜡时的液体呈乳白色 ⚫使用前先粉碎 溶解于酒精时 保质期通常为一年 冷藏时可延长 其涂层有良好的耐久,硬度,密封性,光泽 可作家具清漆 ⚫克里斯·伍兹的蜡和虫胶的性质和处理(The nature and treatment of wax and shellac seals)讨论了蜂蜡混合虫胶作密封蜡等配方 可代替柑橘类水果在清洁时洗掉的蜡质 赋予光泽 延长保质期 ⚫作药用釉料时 作赋形剂 由于其酸性 涂层药物可抗胃酸 并定时肠溶 作食品釉料时 作抛光剂,着色剂 ⚫作烟火的低温燃剂时 产生纯净的蓝,绿</h4>
+      <h4>mould of the bust of Madame du Barry by Augustin Pajou ⚫半身像模具 使用灰泥和虫胶制成 ⚪shellac(虫胶) ⚪罗曼语和希腊语除外的大多数欧洲语言都挪用该英语词 或德语词 仿译于法语词 薄板中的胶 ⚫一种胶蚧雌虫分泌的树脂 从树上刮下后装入帆布袜筒 火烤 渗出液化的虫胶 滤掉树皮屑和虫子 再凝成纽扣状保存 ⚫受树液和采集季节影响 呈铂色,石榴石等暖色 未脱蜡时的液体呈乳白色 ⚫使用前先粉碎 溶解于酒精时 保质期通常为一年 冷藏时可延长 其涂层有良好的耐久,硬度,密封性,光泽 可作家具清漆 ⚫克里斯·伍兹的<span class='und1'>蜡和虫胶的性质和处理</span>(The nature and treatment of wax and shellac seals)讨论了蜂蜡混合虫胶作密封蜡等配方 可代替柑橘类水果在清洁时洗掉的蜡质 赋予光泽 延长保质期 ⚫作药用釉料时 作赋形剂 由于其酸性 涂层药物可抗胃酸 并定时肠溶 作食品釉料时 作抛光剂,着色剂 ⚫作烟火的低温燃剂时 产生纯净的蓝,绿</h4>
       <p>.img by <a href='https://commons.wikimedia.org/wiki/User:Coyau' target='_blank' rel='noopener'>Coyau</a> on <a href='https://commons.wikimedia.org/wiki/File:S%C3%A8vres_-_Magot_-_Pajou,_buste_de_Madame_du_Barry_03.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
     </div>">
     <img src="amphissa/shellac.jpg" />
@@ -212,7 +212,7 @@ title: amphissa
   <a href="amphissa/Death_of_Orpheus.jpg"
     data-slide-name="Death_of_Orpheus"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>奥菲斯之死 ⚫在欧里庇得斯的戏剧巴克斯(The Bacchae)里 色雷斯人,神话诗人奥菲斯死于一队对其感到厌烦的梅纳德 ⚫秘宗奥菲斯教所记述的神统 虽与编年史家赫西俄德的神谱是相似的系谱学作品 但有着截然不同的释义和编排 该教教义中奉冥后普西芬妮(Persephone)和狄俄尼索斯为主神 并有着一尊仁慈与光明的太古初神二元一体的法涅斯(Phanes) 后者等同于新柏拉图式秘宗密特拉教的密特拉斯(Mithras) 它们在古典晚期与早期基督教 在传教上是彼此竞逐的关系 ⚫这些异教神祇身上那些薄若蝉翼的遮掩物也称做玻璃衣裳</h4>
+      <h4>奥菲斯之死 ⚫在欧里庇得斯的戏剧<span class='und1'>巴克斯</span>(The Bacchae)里 色雷斯人,神话诗人奥菲斯死于一队对其感到厌烦的梅纳德 ⚫秘宗奥菲斯教所记述的神统 虽与编年史家赫西俄德的<span class='und1'>神谱</span>是相似的系谱学作品 但有着截然不同的释义和编排 该教教义中奉冥后普西芬妮(Persephone)和狄俄尼索斯为主神 并有着一尊仁慈与光明的太古初神二元一体的法涅斯(Phanes) 后者等同于新柏拉图式秘宗密特拉教的密特拉斯(Mithras) 它们在古典晚期与早期基督教 在传教上是彼此竞逐的关系 ⚫这些异教神祇身上那些薄若蝉翼的遮掩物也称做玻璃衣裳</h4>
       <p>Death of Orpheus(1866) - Emile Levy</p>
     </div>">
     <img src="amphissa/Death_of_Orpheus.jpg" />
@@ -220,7 +220,7 @@ title: amphissa
   <a href="amphissa/Market_Gate_of_Miletus.jpg"
     data-slide-name="Market_Gate_of_Miletus"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>market gate of Miletus ⚪市场大门 ⚫据说在圣艾琳(Irene)岛<span class='und2'>硫冬</span>后 入侵了克里特岛(Caphtor)的迈锡尼人被多利安人赶到海岸和丘陵地带阿提卡 阿提卡人在海上贸易和归乡途间 习得了西亚技艺 重新发掘了故乡漫山遍野的物产 ⚫在这座伊甸 葡萄酒,橄榄油盛满了陶土罐 花岗岩落成庙宇和雕像 银矿浇铸为雅典钱币广为流通 于是色雷斯(Thrace)神祇狄俄尼索斯飘洋过海 ⚪雅典哲学和历史学家色诺芬挪用了古伊朗语par-dēz 围绕,墙或砖块 意为围墙内的花园或场所 作为旧约中伊甸园的译文 通常用高墙封闭 以提供阴影和保护 相比帐篷 提供了更固久的庇护所 特别是在干旱气候 早期希伯来人用这个词表示果园 ⚫据说某东海岸城市欲引进酒神崇拜 受到了德尔菲女先知的邀请 去返圣城底比斯(Thebes) 卡德莫斯(Cadmus)之女伊诺(Ino)的亲族将随行而归 组建舞蹈团 ⚫她们也被认为是梅纳德(maenad) 与萨梯(satyr)同为侍从 前者常被绘在用来给葡萄酒兑水的双柄广口陶罐上 ⚫故事的诸多版本的相似场景之一是 妇女逃向山上 在某一版本中 她们被持剑的牧师追赶 ⚫沃尔特·弗里德里希·奥托在狄俄尼索斯 神话和崇拜(Dionysus: Myth and Cult)中写到 <span class='und1'>她们所执的酒神杖滴下蜂蜜</span></h4>
+      <h4>market gate of Miletus ⚪市场大门 ⚫据说在圣艾琳(Irene)岛<span class='und2'>硫冬</span>后 入侵了克里特岛(Caphtor)的迈锡尼人被多利安人赶到海岸和丘陵地带阿提卡 阿提卡人在海上贸易和归乡途间 习得了西亚技艺 重新发掘了故乡漫山遍野的物产 ⚫在这座伊甸 葡萄酒,橄榄油盛满了陶土罐 花岗岩落成庙宇和雕像 银矿浇铸为雅典钱币广为流通 于是色雷斯(Thrace)神祇狄俄尼索斯飘洋过海 ⚪雅典哲学和历史学家色诺芬挪用了古伊朗语par-dēz 围绕,墙或砖块 意为围墙内的花园或场所 作为旧约中伊甸园的译文 通常用高墙封闭 以提供阴影和保护 相比帐篷 提供了更固久的庇护所 特别是在干旱气候 早期希伯来人用这个词表示果园 ⚫据说某东海岸城市欲引进酒神崇拜 受到了德尔菲女先知的邀请 <span class='und1'>去返圣城底比斯</span>(Thebes) <span class='und1'>卡德莫斯</span>(Cadmus)<span class='und1'>之女伊诺</span>(Ino)<span class='und1'>的亲族将随行而归</span> <span class='und1'>组建舞蹈团</span> ⚫她们也被认为是梅纳德(maenad) 与萨梯(satyr)同为侍从 前者常被绘在用来给葡萄酒兑水的双柄广口陶罐上 ⚫故事的诸多版本的相似场景之一是 妇女逃向山上 在某一版本中 她们被持剑的牧师追赶 ⚫沃尔特·弗里德里希·奥托在狄俄尼索斯 神话和崇拜(Dionysus: Myth and Cult)中写到 <span class='und1'>她们所执的酒神杖滴下蜂蜜</span></h4>
       <p>.img by <a href='https://www.flickr.com/photos/183298784@N08/' target='_blank' rel='noopener'>Joachim Beens</a> on <a href='https://www.flickr.com/photos/183298784@N08/49392218337' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
     </div>">
     <img src="amphissa/Market_Gate_of_Miletus.jpg" />
@@ -236,7 +236,7 @@ title: amphissa
   <a href="amphissa/The_Ionian_Dance.jpg"
     data-slide-name="The_Ionian_Dance"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>一种社交性质的地方舞蹈 ⚫舞蹈的名称通常来自所在地区,伴奏歌词,舞者位置,双手所持,使用的物品 各地区的编舞,风格均不同 圆形是最常见的队形 ⚫在宗教,战争,戏剧,宴会,婚礼,游行时 或者一年中的重要时刻 演排舞蹈 使人们聚集 ⚫除阿提卡的凯瑟拉(Kythera) 标志是维纳斯 有着腓尼基人社区 以外的六个主岛和许多小岛并称洛里安(Ionian)群岛 ⚫其中 西海岸的最大的岛屿 山峦起伏的凯法罗尼亚(Cephalonia)盛产赞特岛(Zante)葡萄干和低酸度的橄榄油 ⚫在伯罗奔尼撒 科西拉(Kerkyra)是哥林多的子城 岛名源于由线形文字B音节拼写的 来自科西拉的人 是一个大陆性岛屿 动物群与对岸相似 岛上有火烈鸟,水獭,野猪</h4>
+      <h4>一种社交性质的地方舞蹈 ⚫舞蹈的名称通常来自所在地区,伴奏歌词,舞者位置,双手所持,使用的物品 各地区的编舞,风格均不同 圆形是最常见的队形 ⚫在宗教,战争,戏剧,宴会,婚礼,游行时 或者一年中的重要时刻 演排舞蹈 使人们聚集 ⚫除阿提卡的凯瑟拉(Kythera) 标志是维纳斯 有着腓尼基人社区 以外的六个主岛和许多小岛并称<span class='und2'>洛里安</span>(Ionian)群岛 ⚫其中 西海岸的最大的岛屿 山峦起伏的凯法罗尼亚(Cephalonia)盛产赞特岛(Zante)葡萄干和低酸度的橄榄油 ⚫在伯罗奔尼撒 科西拉(Kerkyra)是哥林多的子城 岛名源于由线形文字B音节拼写的 来自科西拉的人 是一个大陆性岛屿 动物群与对岸相似 岛上有火烈鸟,水獭,野猪</h4>
       <p>The Ionian Dance(1895) - Edward John Poynter</p>
     </div>">
     <img src="amphissa/The_Ionian_Dance.jpg" />
@@ -244,7 +244,7 @@ title: amphissa
   <a href="amphissa/Ophelia.jpg"
     data-slide-name="Ophelia"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>该描写来自剧本第4幕第5节 ⚫这里的奥菲莉亚在一场疯狂而奇怪的表演中 她在大厅背诵鲜花和草药 同时将它们放在王室夫妇脚下 ⚫在第十二夜中 奥利维亚说她的肤色<span class='und1'>根深蒂固</span> <span class='und1'>风雨不浸</span></h4>
+      <h4>该描写来自剧本第4幕第5节 ⚫这里的奥菲莉亚在一场疯狂而奇怪的表演中 她在大厅背诵鲜花和草药 同时将它们放在王室夫妇脚下 ⚫在<span class='und1'>第十二夜</span>中 奥利维亚说她的肤色<span class='und1'>根深蒂固</span> <span class='und1'>风雨不浸</span></h4>
       <p>Ophelia(1890) - Henrietta Rae</p>
     </div>">
     <img src="amphissa/Ophelia.jpg" />
@@ -252,7 +252,7 @@ title: amphissa
   <a href="amphissa/Judgement_of_Paris.jpg"
     data-slide-name="Judgement_of_Paris"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>画中的乐者吹奏着奥罗斯管(aulos) ⚪Paris(帕里斯)的词源与法国城市巴黎无关 后者源于一个高卢人部落 ⚫在特洛伊战争的神话基础里 没有受到邀请的埃里斯(Eris)往宴会里扔了一个刻有献予最美丽者的金苹果 宙斯不想得罪赫拉,雅典娜,阿芙罗狄蒂(Afrodite)中的任意二人 于是委任帕里斯 在春季的伊达(Ida)山上 沐浴后的女神们接近放牧的帕里斯 并试图贿赂他 他最终选择了阿芙罗狄蒂 也就选择了海伦</h4>
+      <h4>画中的乐者吹奏着奥罗斯管(aulos) ⚪Paris(帕里斯)的词源与法国城市巴黎无关 后者源于一个高卢人部落 ⚫在特洛伊战争的神话基础里 没有受到邀请的埃里斯(Eris)往宴会里扔了一个刻有<span class='und1'>献予最美丽者</span>的金苹果 宙斯不想得罪赫拉,雅典娜,阿芙罗狄蒂(Afrodite)中的任意二人 于是委任帕里斯 在春季的伊达(Ida)山上 沐浴后的女神们接近放牧的帕里斯 并试图贿赂他 他最终选择了阿芙罗狄蒂 也就选择了海伦</h4>
       <p>Judgement of Paris(1892) - Henryk Hektor Siemiradzki</p>
     </div>">
     <img src="amphissa/Judgement_of_Paris.jpg" />
@@ -260,7 +260,7 @@ title: amphissa
   <a href="amphissa/Inanna_and_Dumuzi.jpg"
     data-slide-name="Inanna_and_Dumuzi"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>伊南娜和杜姆兹 ⚫在苏美尔版的伊南娜下冥界中 她穿过了七道门 交出了所穿戴的青金石手杖,染眉膏和吊坠珠子,青金石项链,胸饰,头巾和假发,帕拉装,金戒指 ⚫死者被描述为 <span class='und1'>失去了光,尘埃是他们的饭食,泥土是他们的滋养品,他们身披羽毛生活在黑暗之中</span></h4>
+      <h4><span class='und2'>伊南娜和杜姆兹</span> ⚫在苏美尔版的<span class='und1'>伊南娜下冥界</span>中 她穿过了七道门 交出了所穿戴的青金石手杖,染眉膏和吊坠珠子,青金石项链,胸饰,头巾和假发,帕拉装,金戒指 ⚫死者被描述为 <span class='und1'>失去了光</span> <span class='und1'>尘埃是他们的饭食</span> <span class='und1'>泥土是他们的滋养品</span> <span class='und1'>他们身披羽毛生活在黑暗之中</span></span></h4>
       <p>.img by <a href='https://www.flickr.com/photos/melissagira/' target='_blank' rel='noopener'>Melissa Gira</a> on <a href='https://www.flickr.com/photos/melissagira/387732577/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
     </div>">
     <img src="amphissa/Inanna_and_Dumuzi.jpg" />
@@ -268,7 +268,7 @@ title: amphissa
   <a href="amphissa/statuette_of_a_Sumerian_female_worshiper.jpg"
     data-slide-name="statuette_of_a_Sumerian_female_worshiper"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>statuette of a Sumerian female worshiper ⚪苏美尔女信徒雕像 ⚫希腊巫术草纸(Greek Magical Papyri)中有许多关于小雕像的记述 涉及了墓地,圣所,水域 其中关于世俗,魔性,兽性的内容 通常是受埃及宗教影响 ⚫作为护身符时 它们通常是各类巫术规则的缩写形式 原本见于汇编的各莎草纸籍 文体囊括食谱,处方,仪式,司法,祈祷文等 ⚫另外的一些雕像有 古埃及风格的孔雀石鸟雕,玄武岩使节小雕像,闪长岩还愿像,希腊志(Description of Greece)记载的尼俄伯之女苍白(Chloris)雕像,磷光石黏土雕像,古亚马孙的陶质无腿青蛙雕像,裸身的阿卡德双面神伊什塔尔(Ishtar)小雕像,安息日的12只麻雀泥像,施塔尔德洞穴的象牙狮人雕像,破浪神像 ⚫著有最古老炼金术书籍手工艺(Cheirokmeta)的佐西莫斯把孟菲斯(Memphis)祭司用来烧制巫术小雕像的烤炉写成了炼金炉 在辛塞勒斯保存的一个片段中 他写到 <span class='und1'>太阳</span> <span class='und1'>是火之花</span> 到19世纪 也在某篇论文中被称为<class='und1'>发光的海洋</span> ⚫斯德哥尔摩草纸(Stockholm papyrus)涉及纺织品,宝石染色,纯化珍珠及仿制金银 ⚫莱顿草纸(Leyden papyrus)中 A到U涉及古埃及律法 VWX涉及冶金 其中称炼成白银的白色石为小作业 炼成黄金的红色石为大作业 ⚫被发现于木乃伊包裹中的米兰草纸(Milan papyrus)可能是波斯迪普斯的诗歌手稿 其中部分语录的原媒介可能是铭文,碑文 主题涉及饮酒,宫廷,宝石,鸟类占卜 ⚫哈里斯纸莎草(Harris papyurus)提及了30余种面包和蛋糕 ⚫一篇天与地火的火神努斯卡(Nuska)的祈祷词写到 <span class='und1'>有人塑造我的形象</span> <span class='und1'>伪造我的容颜</span> <span class='und1'>窒息我生命</span> <span class='und1'>毁坏我发肤</span> <span class='und1'>撕裂我衣裳</span> <span class='und1'>伤残我双足</span> <span class='und1'>求神多保佑</span> <span class='und1'>解除此妖术</span> ⚫埃伯斯纸草建议混合蜂蜜,草药,薰香 抹在鼻周来治疗感冒</h4>
+      <h4>statuette of a Sumerian female worshiper ⚪苏美尔女信徒雕像 ⚫<span class='und1'>希腊巫术草纸</span>(Greek Magical Papyri)中有许多关于小雕像的记述 涉及了墓地,圣所,水域 其中关于世俗,魔性,兽性的内容 通常是受埃及宗教影响 ⚫作为护身符时 它们通常是各类巫术规则的缩写形式 原本见于汇编的各莎草纸籍 文体囊括食谱,处方,仪式,司法,祈祷文等 ⚫另外的一些雕像有 古埃及风格的孔雀石鸟雕,玄武岩使节小雕像,闪长岩还愿像,<span class='und1'>希腊志</span>(Description of Greece)记载的尼俄伯之女苍白(Chloris)雕像,磷光石黏土雕像,古亚马孙的陶质无腿青蛙雕像,裸身的阿卡德双面神伊什塔尔(Ishtar)小雕像,安息日的12只麻雀泥像,施塔尔德洞穴的象牙狮人雕像,破浪神像 ⚫著有最古老炼金术书籍<span class='und1'>手工艺</span>(Cheirokmeta)的佐西莫斯把孟菲斯(Memphis)祭司用来烧制巫术小雕像的烤炉写成了炼金炉 在辛塞勒斯保存的一个片段中 他写到 <span class='und1'>太阳</span> <span class='und1'>是火之花</span> 到19世纪 也在某篇论文中被称为<class='und1'>发光的海洋</span> ⚫<span class='und1'>斯德哥尔摩草纸</span>(Stockholm papyrus)涉及纺织品,宝石染色,纯化珍珠及仿制金银 ⚫<span class='und1'>莱顿草纸</span>(Leyden papyrus)中 A到U涉及古埃及律法 VWX涉及冶金 其中称炼成白银的白色石为小作业 炼成黄金的红色石为大作业 ⚫被发现于木乃伊包裹中的<span class='und1'>米兰草纸</span>(Milan papyrus)可能是波斯迪普斯的诗歌手稿 其中部分语录的原媒介可能是铭文,碑文 主题涉及饮酒,宫廷,宝石,鸟类占卜 ⚫哈里斯纸莎草(Harris papyurus)提及了30余种面包和蛋糕 ⚫一篇天与地火的火神努斯卡(Nuska)的祈祷词写到 <span class='und1'>有人塑造我的形象</span> <span class='und1'>伪造我的容颜</span> <span class='und1'>窒息我生命</span> <span class='und1'>毁坏我发肤</span> <span class='und1'>撕裂我衣裳</span> <span class='und1'>伤残我双足</span> <span class='und1'>求神多保佑</span> <span class='und1'>解除此妖术</span> ⚫埃伯斯纸草建议混合蜂蜜,草药,薰香 抹在鼻周来治疗感冒</h4>
       <p>.img by <a href='https://commons.wikimedia.org/wiki/User:Neuroforever' target='_blank' rel='noopener'>Osama Shukir Muhammed Amin</a> on <a href='https://commons.wikimedia.org/wiki/File:Statuette_of_a_Sumerian_female_worshiper_from_Diyala_Region_or_Ur,_Iraq.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'>cc by-sa 4.0</a></p>
     </div>">
     <img src="amphissa/statuette_of_a_Sumerian_female_worshiper.jpg" />
@@ -292,7 +292,7 @@ title: amphissa
   <a href="amphissa/firewood.jpg"
     data-slide-name="firewood"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>firewood ⚪粗陶雕塑 ⚫将从酸沼泽挖出的泥炭木整齐切片 可用作缓慢燃烧的热源 烟气可赋予泥土风味 ⚫根据1980版第四纪古生态学(Quaternary Palaeoecology) 泥炭可揭示一个时间段上的植物群落等 ⚫屠夫协会在中世纪时是权威组织 当时的料理大量使用肉蔬 加斯·德拉比涅的诗篇涉及到一些罗曼菜谱 提到在一次宴会上使用了 <span class='und1'>六只胖鹌鹑和一打云雀</span> ⚫液态烟熏剂 包括由木材干馏成的木醋液等 应用于食品工业 来浸泡或涂喷食品表面 ⚫据普林尼说在今埃塞俄比亚 或据红衣主教圣杰罗姆说在今利比亚 腌渍蝗虫和烟熏蟋蟀是当地春季唯独的食物 迁移型蝗虫据说是寡食或者部分是多食的 ⚪昆虫界的术语寡食征 指只吃特定或极少几种食物 多食征则指进食多种不同科的植物 但再无其他</h4>
+      <h4>firewood ⚪粗陶雕塑 ⚫将从酸沼泽挖出的泥炭木整齐切片 可用作缓慢燃烧的热源 烟气可赋予泥土风味 ⚫根据1980版<span class='und1'>第四纪古生态学</span>(Quaternary Palaeoecology) 泥炭可揭示一个时间段上的植物群落等 ⚫屠夫协会在中世纪时是权威组织 当时的料理大量使用肉蔬 加斯·德拉比涅的诗篇涉及到一些罗曼菜谱 提到在一次宴会上使用了 <span class='und1'>六只胖鹌鹑</span>和一打云雀 ⚫液态烟熏剂 包括由木材干馏成的木醋液等 应用于食品工业 来浸泡或涂喷食品表面 ⚫据普林尼说在今埃塞俄比亚 或据红衣主教圣杰罗姆说在今利比亚 腌渍蝗虫和烟熏蟋蟀是当地春季唯独的食物 迁移型蝗虫据说是寡食或者部分是多食的 ⚪昆虫界的术语寡食征 指只吃特定或极少几种食物 多食征则指进食多种不同科的植物 但再无其他</h4>
       <p>.img by <a href='https://www.flickr.com/photos/daviddgilbaugh/' target='_blank' rel='noopener'>David D. Gilbaugh</a> on <a href='https://www.flickr.com/photos/daviddgilbaugh/3558705710/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
     </div>">
     <img src="amphissa/firewood.jpg" />

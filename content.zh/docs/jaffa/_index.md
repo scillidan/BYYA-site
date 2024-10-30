@@ -83,7 +83,7 @@ title: jaffa
     <a href="jaffa/Euprymna_berryi.jpg"
         data-slide-name="Euprymna_berryi"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Euprymna berryi ⚪浆果耳鱿 ⚫身形紧凑而圆形 雄性3cm以下 雌性5cm以下 ⚫分布于沙质或细沉积物的海床 在白天埋沙 利用小夜灯捕食小底栖甲壳类</h4>
+		<h4>Euprymna berryi ⚪<span class='und2'>浆果耳鱿</span> ⚫身形紧凑而圆形 雄性3cm以下 雌性5cm以下 ⚫分布于沙质或细沉积物的海床 在白天埋沙 利用小夜灯捕食小底栖甲壳类</h4>
 		<p>img by <a href='https://www.flickr.com/photos/silkebaron/' target='_blank' rel='noopener'>Silke Baron</a> on <a href='https://www.flickr.com/photos/silkebaron/4873635819' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
         <img src="jaffa/Euprymna_berryi.jpg" />
@@ -163,7 +163,7 @@ title: jaffa
     <a href="jaffa/Eobania_vermiculata.jpg"
         data-slide-name="Eobania_vermiculata"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Eobania vermiculata ⚪棕带陆蜗牛 ⚫壳宽22~32毫米 高14~24毫米 颜色可变 通常壳体具较深的色带或斑点 侧腹有两条棕带 第二条色带到肚脐间发白 背部通常有4到5条螺纹 末端的螺纹斜下到壳的周边 壳唇白色 成年后外翻 且脐孔封闭在螺壳内 ⚫通常栖息在近海的干燥植被中 在湿润雨天或晚上活跃 冬眠或夏眠 ⚫成年蜗牛会掘土 并在壳口建造临时的栅栏(epiphragm) 一种似于螺壳的永久性的解剖特征 由其幔层(斗篷)分泌的干粘液制成 透气,刚性,抗干燥,抗腐蚀 ⚫部分的种类会借此黏在岩表,墙壁,树枝,茎等固体基质上 ⚪该结构可能是出埃及记中提到的香火成分 希腊语的onycha 意思是指甲或爪子 ⚫该属物种在发情期时 会烧制一种钙质飞镖 用于求偶仪式中 以液压力穿透受体的皮肤 ⚫可作为季节性食物 ⚫该相片摄于塞浦路斯(Zypern) 法语名西浦(Chypre) 的法玛古斯塔(Famagusta)</h4>
+		<h4>Eobania vermiculata ⚪棕带陆蜗牛 ⚫壳宽22~32毫米 高14~24毫米 颜色可变 通常壳体具较深的色带或斑点 侧腹有两条棕带 第二条色带到肚脐间发白 背部通常有4到5条螺纹 末端的螺纹斜下到壳的周边 壳唇白色 成年后外翻 且脐孔封闭在螺壳内 ⚫通常栖息在近海的干燥植被中 在湿润雨天或晚上活跃 冬眠或夏眠 ⚫成年蜗牛会掘土 并在壳口建造临时的栅栏(epiphragm) 一种似于螺壳的永久性的解剖特征 由其<span class='und2'>幔层</span>(斗篷)分泌的干粘液制成 透气,刚性,抗干燥,抗腐蚀 ⚫部分的种类会借此黏在岩表,墙壁,树枝,茎等固体基质上 ⚪该结构可能是<span class='und1'>出埃及记</span>中提到的香火成分 希腊语的onycha 意思是指甲或爪子 ⚫该属物种在发情期时 会烧制一种钙质飞镖 用于求偶仪式中 以液压力穿透受体的皮肤 ⚫可作为季节性食物 ⚫该相片摄于塞浦路斯(Zypern) 法语名西浦(Chypre) 的法玛古斯塔(Famagusta)</h4>
 		<p>img by <a href='https://www.flickr.com/photos/wiseguy71' target='_blank' rel='noopener'>wiseguy71</a> on <a href='https://www.flickr.com/photos/wiseguy71/5128383104' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Eobania_vermiculata.jpg" />
@@ -219,7 +219,7 @@ title: jaffa
     <a href="jaffa/Diogenes_pugilator.jpg"
         data-slide-name="Diogenes_pugilator"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Diogenes pugilator ⚪第欧根尼小寄居蟹 ⚫从浅层潮下的软基质到深达1800m都有分布 最常见于浅水 ⚫倾向于占用网状狗螺(Tritia reticulata)的壳</h4>
+		<h4>Diogenes pugilator ⚪<span class='und2'>第欧根尼小寄居蟹</span> ⚫从浅层潮下的软基质到深达1800m都有分布 最常见于浅水 ⚫倾向于占用网状狗螺(Tritia reticulata)的壳</h4>
 		<p>img by befe on <a href='https://commons.wikimedia.org/wiki/File:CRU_pag.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Diogenes_pugilator.jpg" />
@@ -227,7 +227,7 @@ title: jaffa
     <a href="jaffa/Miletus_mallus.jpg"
         data-slide-name="Miletus_mallus"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Miletus mallus ⚪米利都锤纹蝶 ⚪Lycaenidae(灰蝶科) ⚪科名是吕卡恩(Lycaena)的同名 也被普遍地称为蓝色者 但有指正应称铜色者 ⚫该科成虫通常小于5厘米 其中约75%的物种与蚂蚁关联 这其中的部分的毛虫是食虫的 专门捕食蚁丘内的雏蚁 且是蚂蚁饲养的蚜虫的天敌 ⚪myrmecophily(嗜麦芽性) ⚪一个跟蚂蚁相关的术语 字面意义就是蚂蚁喜爱 ⚫大多数亲蚁派与宿主蚁群的关系是兼职的 例如在蚁巢中消耗废物 如死蚂蚁,死幼虫,巢中真菌 多个科的植物以筑巢地和食物资源 交换种子传播 或者极具攻击性的蚁种的专职保护 以免受素食 并经常附带卫生服务 包括清洁叶片表面,修剪附生植物,梳理临近植物嫩芽 ⚫蚂蚁也将半翅目幼虫带入蚁巢 同雏蚁一起抚养 包括鳞龟(coccidae),粉虱(pseudococcidae),树蚤(membracidae)等 它们也被携带到不同的植物或不同部位 以确保新鲜的食物来源 和对牛群的充分保护 据观察蚁后在分散航程中会运输蚜虫 以建立一个新的殖民地</h4>
+		<h4>Miletus mallus ⚪<span class='und2'>米利都锤纹蝶</span> ⚪Lycaenidae(灰蝶科) ⚪科名是吕卡恩(Lycaena)的同名 也被普遍地称为蓝色者 但有指正应称铜色者 ⚫该科成虫通常小于5厘米 其中约75%的物种与蚂蚁关联 这其中的部分的毛虫是食虫的 专门捕食蚁丘内的雏蚁 且是蚂蚁饲养的蚜虫的天敌 ⚪myrmecophily(嗜麦芽性) ⚪一个跟蚂蚁相关的术语 字面意义就是蚂蚁喜爱 ⚫大多数亲蚁派与宿主蚁群的关系是兼职的 例如在蚁巢中消耗废物 如死蚂蚁,死幼虫,巢中真菌 多个科的植物以筑巢地和食物资源 交换种子传播 或者极具攻击性的蚁种的专职保护 以免受素食 并经常附带卫生服务 包括清洁叶片表面,修剪附生植物,梳理临近植物嫩芽 ⚫蚂蚁也将半翅目幼虫带入蚁巢 同雏蚁一起抚养 包括鳞龟(coccidae),粉虱(pseudococcidae),树蚤(membracidae)等 它们也被携带到不同的植物或不同部位 以确保新鲜的食物来源 和对牛群的充分保护 据观察蚁后在分散航程中会运输蚜虫 以建立一个新的殖民地</h4>
 		<p>img by <a href='https://www.flickr.com/photos/chaz_pics/' target='_blank' rel='noopener'>Charlie Jackson</a> on <a href='https://www.flickr.com/photos/chaz_pics/39583407064/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
         <img src="jaffa/Miletus_mallus.jpg" />
@@ -235,7 +235,7 @@ title: jaffa
     <a href="jaffa/parsnip.jpg"
         data-slide-name="parsnip"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>parsnip ⚪野萝卜 ⚫二年生根类蔬菜 具奶油色果皮和果肉 煮熟或生吃 霜冻后更甜 因为土壤低温会导致根部存储的一些淀粉转化为糖 ⚫曾用作甜味剂 在玉米普及前 主要用来喂猪 在现代意大利 是制作帕尔玛火腿的猪的专门饲料 ⚫它与胡萝卜科的许多近亲共享一种光毒化合物呋喃香豆素(furanocoumarins) 能引起一种植物性光线皮肤炎 当皮肤不慎接触到芽叶的汁液又暴露于日光下时 会出现发红,灼痛,水泡等症状 创伤区域会持续敏感,变色长达两年</h4>
+		<h4>parsnip ⚪<span class='und2'>野萝卜</span> ⚫二年生根类蔬菜 具奶油色果皮和果肉 煮熟或生吃 霜冻后更甜 因为土壤低温会导致根部存储的一些淀粉转化为糖 ⚫曾用作甜味剂 在玉米普及前 主要用来喂猪 在现代意大利 是制作帕尔玛火腿的猪的专门饲料 ⚫它与胡萝卜科的许多近亲共享一种光毒化合物呋喃香豆素(furanocoumarins) 能引起一种植物性光线皮肤炎 当皮肤不慎接触到芽叶的汁液又暴露于日光下时 会出现发红,灼痛,水泡等症状 创伤区域会持续敏感,变色长达两年</h4>
 		<p>img by <a href='https://www.flickr.com/photos/morris278/' target='_blank' rel='noopener'>John Morris</a> on <a href='https://www.flickr.com/photos/morris278/25259574002/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
         </div>">
         <img src="jaffa/parsnip.jpg" />
@@ -251,7 +251,7 @@ title: jaffa
     <a href="jaffa/Nicolas_Francois_Regnault_Le_Labdanum,_ou_Ladanum..jpg"
         data-slide-name="Nicolas_Francois_Regnault_Le_Labdanum,_ou_Ladanum."
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Cistus ladanifer ⚪劳丹姆岩蔷薇 ⚫浓密直立灌木 高1~2.5米 略宽 披针形常绿长3~10厘米 宽1~2厘米 正面深绿 背面浅绿或灰色 花直径5~8厘米 有5片白色花瓣 基部通常有红色到栗色的斑点 夏季炎热时整株植物当年新芽受树脂覆盖 散发芬芳 适于干旱花园或海滨花园 ⚫叶表的一层类树脂 称为劳丹姆(labdanum) 主要从该种和克里特岩蔷薇(Cistus creticus)获得 远古时通过梳理山羊和绵阳的胡须和大腿来收集 呈棕色 气味浓郁,复杂,牢固 被形容为琥珀气味,动物气味,甜味,水果香,木质香,龙涎香,干麝香,皮革味 据说是出埃及记30:34-36中的<span class='und1'>圣香</span> 医学上用于感冒,咳嗽,月经失调,风湿等 在香水和苦艾酒中使用 可作固色剂 ⚪属名来自古希腊植物名 该属对鹿的啃食有一定抵抗力 ladanifer的字面意思就是 劳丹姆的承载物</h4>
+		<h4>Cistus ladanifer ⚪<span class='und2'>劳丹姆岩蔷薇</span> ⚫浓密直立灌木 高1~2.5米 略宽 披针形常绿长3~10厘米 宽1~2厘米 正面深绿 背面浅绿或灰色 花直径5~8厘米 有5片白色花瓣 基部通常有红色到栗色的斑点 夏季炎热时整株植物当年新芽受树脂覆盖 散发芬芳 适于干旱花园或海滨花园 ⚫叶表的一层类树脂 称为劳丹姆(labdanum) 主要从该种和克里特岩蔷薇(Cistus creticus)获得 远古时通过梳理山羊和绵阳的胡须和大腿来收集 呈棕色 气味浓郁,复杂,牢固 被形容为琥珀气味,动物气味,甜味,水果香,木质香,龙涎香,干麝香,皮革味 据说是<span class='und1'>出埃及记</span>30:34-36中的<span class='und1'>圣香</span> 医学上用于感冒,咳嗽,月经失调,风湿等 在香水和苦艾酒中使用 可作固色剂 ⚪属名来自古希腊植物名 该属对鹿的啃食有一定抵抗力 ladanifer的字面意思就是 劳丹姆的承载物</h4>
 		<p>Le Labdanum, ou Ladanum. (1774) - Nicolas Francois Regnault, <p>img on <a href='https://digitalcollections.nypl.org/items/510d47dc-7dbe-a3d9-e040-e00a18064a99' target='_blank' rel='noopener'>NYPL</a> / <a href='https://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'>pdm</a></p>
         </div>">
         <img src="jaffa/Nicolas_Francois_Regnault_Le_Labdanum,_ou_Ladanum..jpg" />
@@ -259,7 +259,7 @@ title: jaffa
     <a href="jaffa/Dwarf_crocodile.jpg"
         data-slide-name="Dwarf_crocodile"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Dwarf crocodile ⚪矮鳄鱼 ⚫部分体长不超过1.2米 幼鳄的头有黄色斑纹 身和尾有浅棕色条纹 成年鳄的背面和侧面呈深色 腹面淡黄色带黑色斑点 生活在山洞中具橙色斑块 是受蝙蝠粪腐蚀 ⚫生活在低地到中海拔 远离大河的森林到荫蔽的溪流,小河,沼泽,水池,潮间林 ⚫胆小 夜行 白天整日藏在池塘,洞穴,树根 很少晒太阳 雨天时栖所被淹没 变得活跃起来 觅食范围在雨后扩大 以小动物为食 包括螃蟹,青蛙,腹足类,昆虫,蜥蜴,水禽等 季节食谱是湿季的鱼和干季的甲壳类 ⚫发情期以外的大部份时间独处 用腐烂的植物和泥巴筑巢 每次生10至17只蛋</h4>
+		<h4>Dwarf crocodile ⚪矮鳄鱼 ⚫部分体长不超过1.2米 幼鳄的头有黄色斑纹 身和尾有浅棕色条纹 成年鳄的背面和侧面呈深色 腹面淡黄色带黑色斑点 生活在山洞中具橙色斑块 是受蝙蝠粪腐蚀 ⚫生活在低地到中海拔 远离大河的森林到荫蔽的溪流,小河,沼泽,水池,<span class='und2'>潮间林</span> ⚫胆小 夜行 白天整日藏在池塘,洞穴,树根 很少晒太阳 雨天时栖所被淹没 变得活跃起来 觅食范围在雨后扩大 以小动物为食 包括螃蟹,青蛙,腹足类,昆虫,蜥蜴,水禽等 季节食谱是湿季的鱼和干季的甲壳类 ⚫发情期以外的大部份时间独处 用腐烂的植物和泥巴筑巢 每次生10至17只蛋</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Rufous-crowned_Sparrow' target='_blank' rel='noopener'>Rufous-crowned Sparrow</a> on <a href='https://commons.wikimedia.org/wiki/File:Dwarf_Crocodile_NC_Zoo.JPG' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by/3.0/' target='_blank' rel='noopener'>cc by 3.0</a></p>
         </div>">
         <img src="jaffa/Dwarf_crocodile.jpg" />
@@ -283,7 +283,7 @@ title: jaffa
     <a href="jaffa/Mesochordaeus_erythrocephalus.jpg"
         data-slide-name="Mesochordaeus_erythrocephalus"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Mesochordaeus erythrocephalus ⚪红脑囊虫 ⚫躯干长7毫米 分叉的尾巴长50毫米 新月形的外粘液室宽约30厘米 消化系统含鲜红色素 ⚪所属尾海鞘纲(Appendicularia) 异名幼态纲(Larvacea) 在整个生命过程中都保留着幼虫形态 ⚫分布于中深海 在室内周期地拍打尾巴 产生水流 聚集食物 房屋在被废弃后沉降到深海</h4>
+		<h4>Mesochordaeus erythrocephalus ⚪<span class='und2'>红脑囊虫</span> ⚫躯干长7毫米 分叉的尾巴长50毫米 新月形的外粘液室宽约30厘米 消化系统含鲜红色素 ⚪所属尾海鞘纲(Appendicularia) 异名幼态纲(Larvacea) 在整个生命过程中都保留着幼虫形态 ⚫分布于中深海 在室内周期地拍打尾巴 产生水流 聚集食物 房屋在被废弃后沉降到深海</h4>
 		<p>on <a href='https://www.mbari.org/midwater_expedition_2018/?platform=hootsuite' target='_blank' rel='noopener'>mbari</a> / <a href='https://www.mbari.org/monterey-bay-aquarium-research-institute/terms-of-use/' target='_blank' rel='noopener'>terms of use</a></p>
         </div>">
         <img src="jaffa/Mesochordaeus_erythrocephalus.jpg" />
@@ -291,7 +291,7 @@ title: jaffa
     <a href="jaffa/Saxifraga_aizoides.jpg"
         data-slide-name="Saxifraga_aizoides"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Saxifraga aizoides ⚪常绿岩箔 ⚪种名源于拉丁语saxum(岩石)和frangere(断裂) 希腊词aizoides意为永生 指常绿的 ⚫多年生小型草本 高5~20厘米 花通常黄色 有时带红点 或为桦色,红紫色 ⚫通常被认为用于治疗尿路结石</h4>
+		<h4>Saxifraga aizoides ⚪<span class='und2'>常绿岩箔</span> ⚪种名源于拉丁语saxum(岩石)和frangere(断裂) 希腊词aizoides意为永生 指常绿的 ⚫多年生小型草本 高5~20厘米 花通常黄色 有时带红点 或为桦色,红紫色 ⚫通常被认为用于治疗尿路结石</h4>
 		<p>img by <a href='https://www.flickr.com/photos/40948266@N04/' target='_blank' rel='noopener'>Björn S...</a> on <a href='https://www.flickr.com/photos/40948266@N04/44305471131/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Saxifraga_aizoides.jpg" />
@@ -299,16 +299,15 @@ title: jaffa
     <a href="jaffa/Myrrha_octodecimguttata.jpg"
         data-slide-name="Myrrha_octodecimguttata"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Myrrha octodecimguttata ⚪十八斑瓢虫 ⚪瓢虫名coccinellids源于拉丁语coccineus 意为猩红 ⚫体长4~5mm 多生活在针叶林的冠层 成虫聚集在剥离的树皮和老松树底部树干的缝隙中越冬 ⚫该科的某些种产卵时会依据食物充足程度产下不育卵 作为幼虫的后备食物 ⚪属名myrrha(没药) 源于古希腊语murra 根源于闪语族 阿拉伯语的murr,希伯来语的mor,阿拉姆语的mura都表示苦</h4>
+		<h4>Myrrha octodecimguttata ⚪<span class='und2'>十八斑瓢虫</span> ⚪瓢虫名coccinellids源于拉丁语coccineus 意为猩红 ⚫体长4~5mm 多生活在针叶林的冠层 成虫聚集在剥离的树皮和老松树底部树干的缝隙中越冬 ⚫该科的某些种产卵时会依据食物充足程度产下不育卵 作为幼虫的后备食物 ⚪属名myrrha(没药) 源于古希腊语murra 根源于闪语族 阿拉伯语的murr,希伯来语的mor,阿拉姆语的mura都表示苦</h4>
 		<p>img by <a href='https://www.flickr.com/photos/dhobern/' target='_blank' rel='noopener'>Donald Hobern</a> on <a href='https://www.flickr.com/photos/dhobern/8719221737/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
         <img src="jaffa/Myrrha_octodecimguttata.jpg" />
     </a>
-啤酒纯净法颁布前的酒方: 水23l 酿造麦芽1l 蜂蜜900g 碎天仙子干草(代替蛇麻)40g 杨梅5g 红糖5g 干酵母5g
     <a href="jaffa/Hyoscyamus_niger.jpg"
         data-slide-name="Hyoscyamus_niger."
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Hyoscyamus niger ⚪天仙子 ⚪外消旋体左天仙子碱(hyoscine)也称scopolamine 名字分别来自天仙子属(Hyoscyamus) 和以斯科波利命名的茄科斯科波利亚属(Scopolia) 俗名henbane来源不明 hen可能指死亡 可能与表示疯植物的印欧词干bhelena以及表示幻觉,幻象,魔力,奇迹等的古德语元素bil相关 ⚫钱币的一面印着卡吕冬(Kalydon)的野猪的大都会安菲莎(Amphissa) 所属的德尔菲辖区内 阿波罗的皮提亚(Pythia)服用白花天仙子 或者吸食夹竹桃烟来制作神谕 这些坐在三角凳上的女祭司们也可能是处女妆扮的老妇 ⚫在哥林多(Corinth) 祭司可能也是庙妓 后者在腓尼基城邦阿法卡(Aphaca)延续到了古典时代晚期 博学晚宴(Deipnosophistae)中记载 陶器街上的妓女画着铅白,莓黑 旧约伪经巴录书的耶利米书提到 <span class='und1'>妇女戴着细绳环</span> <span class='und1'>坐在路中</span> ⚫约翰·杰拉德在草本(Herball)记载 内服它的叶,种,果汁会引起宿醉般的长时间的不安宁的睡眠 对于病人这是致命的 以天仙子煎汤洗脚 再闻到它的花香而催人入眠 ⚫一份宗教法庭的审讯文件记载 女巫承认曾在一对恋人间撒满天仙子种子 她说出公式 <span class='und1'>在这里播下野生种</span> <span class='und1'>魔鬼怂恿彼此憎恨和回避</span> <span class='und1'>直至将种子分开</span></h4>
+		<h4>Hyoscyamus niger ⚪天仙子 ⚪外消旋体<span class='und2'>左天仙子碱</span>(hyoscine)也称scopolamine 名字分别来自天仙子属(Hyoscyamus) 和以斯科波利命名的茄科斯科波利亚属(Scopolia) 俗名henbane来源不明 hen可能指死亡 可能与表示疯植物的印欧词干bhelena以及表示幻觉,幻象,魔力,奇迹等的古德语元素bil相关 ⚫钱币的一面印着卡吕冬(Kalydon)的野猪的大都会安菲莎(Amphissa) 所属的德尔菲辖区内 阿波罗的皮提亚(Pythia)服用白花天仙子 或者吸食夹竹桃烟来制作神谕 这些坐在三角凳上的女祭司们也可能是处女妆扮的老妇 ⚫在哥林多(Corinth) 祭司可能也是庙妓 后者在腓尼基城邦阿法卡(Aphaca)延续到了古典时代晚期 <span class='und1'>博学晚宴</span>(Deipnosophistae)中记载 陶器街上的妓女<span class='und1'>画着铅白</span>,<span class='und1'>莓黑</span> 旧约伪经<span class='und1'>巴录书</span>的<span class='und1'>耶利米书</span>提到 <span class='und1'>妇女戴着细绳环</span> <span class='und1'>坐在路中</span> ⚫约翰·杰拉德在<span class='und1'>草本</span>(Herball)记载 <span class='und1'>内服它的叶</span>,<span class='und1'>种</span>,<span class='und1'>果汁会引起宿醉般的长时间的不安宁的睡眠</span> <span class='und1'>对于病人这是致命的</span> <span class='und1'>以天仙子煎汤洗脚</span> <span class='und1'>再闻到它的花香而催人入眠</span> ⚫一份宗教法庭的审讯文件记载 <span class='und1'>女巫承认</span>曾在一对恋人间撒满天仙子种子 她说出公式 <span class='und1'>在这里播下野生种</span> <span class='und1'>魔鬼怂恿彼此憎恨和回避</span> <span class='und1'>直至将种子分开</span></h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Sten' target='_blank' rel='noopener'>Sten Porse</a> on <a href='https://commons.wikimedia.org/wiki/File:Hyoscyamus-niger-habitat.JPG' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
         </div>">
         <img src="jaffa/Hyoscyamus_niger.jpg" />
@@ -316,7 +315,7 @@ title: jaffa
     <a href="jaffa/Lycium_barbarum.jpg"
         data-slide-name="Lycium_barbarum"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Lycium barbarum ⚪外地枸杞 ⚪属名Lycium来自希腊语lykion 指生长在吕西亚(Lycia)的 后者位于可以捡到火山玻屑的安那托利亚(Anatolia)半岛南岸 曾托管可能是多利安人(Dorian)的词根 也是其故乡的离岛多里斯(Doris) ⚪罗德岛(Rhodes)也曾是多利安人的飞地 名字来自古希腊语rhodon 表示玫瑰 也可能来自腓尼基语的erod 表示蛇 因为该岛在古代有许多蛇 曾和雅典并为最大的书籍市场 ⚫岛上的水疗胜地用矿物质泉,海水等作药浴 ⚫岛上的城市规划可能有着分明的层次 如古城卡米罗斯(Kamiros) 山顶是雅典式卫城或上城 居民街区位于平原 在更低的露台上 通常有神殿,喷泉广场,集市,用于祭祀等的庭院 ⚪古城罗达(rhoda) 名字来自一种粉色木槿 ⚪Hibiscus(木槿) ⚫常在芳香疗法中使用 ⚪属名源自埃神西比斯 原本用于现锦葵属(Althaea) 后者在希腊语中可表示治愈 ⚫佩达尼乌斯·迪奥斯科里德斯在药物志(De Materia Medica)中以此命名了沼泽锦葵 古埃及医师使用后者的根块和蜂蜜制作棉花糖或喉糖 来治疗喉痛</h4>
+		<h4>Lycium barbarum ⚪<span class='und2'>外地枸杞</span> ⚪属名Lycium来自希腊语lykion 指生长在吕西亚(Lycia)的 后者位于可以捡到火山玻屑的安那托利亚(Anatolia)半岛南岸 曾托管可能是多利安人(Dorian)的词根 也是其故乡的离岛多里斯(Doris) ⚪罗德岛(Rhodes)也曾是多利安人的飞地 名字来自古希腊语rhodon 表示玫瑰 也可能来自腓尼基语的erod 表示蛇 因为该岛在古代有许多蛇 曾和雅典并为最大的书籍市场 ⚫岛上的水疗胜地用矿物质泉,海水等作药浴 ⚫岛上的城市规划可能有着分明的层次 如古城卡米罗斯(Kamiros) 山顶是雅典式卫城或上城 居民街区位于平原 在更低的露台上 通常有神殿,喷泉广场,集市,用于祭祀等的庭院 ⚪古城罗达(rhoda) 名字来自一种粉色木槿 ⚪Hibiscus(木槿) ⚫常在芳香疗法中使用 ⚪属名源自埃神西比斯 原本用于现锦葵属(Althaea) 后者在希腊语中可表示治愈 ⚫佩达尼乌斯·迪奥斯科里德斯在<span class='und1'>药物志</span>(De Materia Medica)中以此命名了沼泽锦葵 古埃及医师使用后者的根块和蜂蜜制作棉花糖或喉糖 来治疗喉痛</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:AnRo0002' target='_blank' rel='noopener'>AnRo0002</a> on <a href='https://commons.wikimedia.org/wiki/File:20140827Lycium_barbarum2.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'>cc 0</a></p>
         </div>">
         <img src="jaffa/Lycium_barbarum.jpg" />
@@ -324,7 +323,7 @@ title: jaffa
     <a href="jaffa/Apocynum_venetum.jpg"
         data-slide-name="Apocynum_venetum"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Apocynum venetum ⚪剑叶狗麻 ⚪属名来自古希腊语apo和kuon 意思是用作毒狗的 ⚫韧皮可提取纤维 后者兼具蝉丝的光泽度,苎麻的光滑度,羊绒的可塑性,棉花的柔软度 可作蚊帐,鱼线,火弓等 ⚫叶或整株在夏季采集 可制凉茶 其药效来自西玛琳(cymarine) 后者属卡烯内酯(cardenolide) 一种心脏毒素 可减缓脉搏 作强心剂抗心律失常 也是镇静剂和温和的催眠药</h4>
+		<h4>Apocynum venetum ⚪<span class='und2'>剑叶狗麻</span> ⚪属名来自古希腊语apo和kuon 意思是用作毒狗的 ⚫韧皮可提取纤维 后者兼具蝉丝的光泽度,苎麻的光滑度,羊绒的可塑性,棉花的柔软度 可作蚊帐,鱼线,火弓等 ⚫叶或整株在夏季采集 可制凉茶 其药效来自西玛琳(cymarine) 后者属卡烯内酯(cardenolide) 一种心脏毒素 可减缓脉搏 作强心剂抗心律失常 也是镇静剂和温和的催眠药</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Gidip' target='_blank' rel='noopener'>Gideon Pisanty(Gidip)</a> on <a href='https://commons.wikimedia.org/wiki/File:Apocynum_venetum_1.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by/3.0/' target='_blank' rel='noopener'>cc by 3.0</a></p>
         </div>">
         <img src="jaffa/Apocynum_venetum.jpg" />
@@ -348,7 +347,7 @@ title: jaffa
     <a href="jaffa/Arachnothera_flavigaster.jpg"
         data-slide-name="Arachnothera_flavigaster"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Arachnothera flavigaster ⚪黄腹捕蛛雀 ⚪种名来自拉丁词flavus和古希腊词gaster 意为黄色和腹部 ⚫属花蜜鸟科 科内的许多种没有隐蔽期羽 会使用大量蛛网将钱袋状的巢悬挂于细树枝 ⚪crypsis(隐蔽) ⚪来自希腊语kryptos ⚫可以指视觉,嗅觉,听觉上的 使其融入环境或伪装等 ⚫特殊的隐蔽色还包括透明,银色,夜行,地下,潜沙等 ⚫常年露宿的阿伯特·汉德森·泰耶在动物界的隐蔽着色(Concealing-Coloration in the Animal Kingdom)写到 <span class='und1'>许多动物上身色深而下身色浅</span> <span class='und1'>以此来平衡自阴影</span> 后者在计算机图形中指照明下的对象对自身和环境的投影 ⚫被提及的还有破裂着色 段落大意是 轮廓等比例地分解 明暗部分意义不明 在这种相分离和相反的模型下 可视细节和形状界线在减少 直至使物体隐蔽 ⚫与之类似的是干扰记号 通常是些斑点 在远距时免于引起注意 在近距时分散注意力 ⚪phenotypes(表征) ⚫鸟巢,海狸坝,石蛾幼虫箱等建筑物被视为扩展表征 ⚫表型是表征的集合 综合征通常包括了一些行为表征 ⚫拖延征源于拉丁语 pro(未来 向前)和crastinus(明天的) 可以识别为一种警戒 触发时心脏收缩 眼动频率加快 视觉信息采样虚化 部分反射信号受遏制 进而认知受影响 ⚫在建筑的想象:玻璃与钢铁的辩证法(The Architectural Imagination: The Dialectics of Glass and Steel)的阐述中 彼得·贝伦斯将戈特弗里德·森佩尔建筑的四要素演绎成 火炉(陶艺),基座(石工),构架(木工),壳(织艺)</h4>
+		<h4>Arachnothera flavigaster ⚪<span class='und2'>黄腹捕蛛雀</span> ⚪种名来自拉丁词flavus和古希腊词gaster 意为黄色和腹部 ⚫属花蜜鸟科 科内的许多种没有<span class='und2'>隐蔽期羽</span> 会使用大量蛛网将钱袋状的巢悬挂于细树枝 ⚪crypsis(<span class='und2'>隐蔽</span>) ⚪来自希腊语kryptos ⚫可以指视觉,嗅觉,听觉上的 使其融入环境或伪装等 ⚫特殊的<span class='und2'>隐蔽色</span>还包括透明,银色,夜行,地下,潜沙等 ⚫常年露宿的阿伯特·汉德森·泰耶在<span class='und1'>动物界的隐蔽着色</span>(Concealing-Coloration in the Animal Kingdom)写到 <span class='und1'>许多动物上身色深而下身色浅</span> <span class='und1'>以此来平衡自阴影</span> 后者在计算机图形中指照明下的对象对自身和环境的投影 ⚫被提及的还有<span class='und2'>破裂着色</span> 段落大意是 <span class='und1'>轮廓等比例地分解</span> <span class='und1'>明暗部分意义不明</span> <span class='und1'>在这种相分离和相反的模型下</span> <span class='und1'>可视细节和形状界线在减少</span> <span class='und1'>直至使物体隐蔽</span> ⚫与之类似的是<span class='und2'>干扰记号</span> 通常是些斑点 在远距时免于引起注意 在近距时分散注意力 ⚪phenotypes(<span class='und2'>表征</span>) ⚫鸟巢,海狸坝,<span class='und2'>石蛾幼虫箱</span>等建筑物被视为扩展表征 ⚫<span class='und2'>表型</span>是表征的集合 综合征通常包括了一些行为表征 ⚫拖延征源于拉丁语 pro(未来 向前)和crastinus(明天的) 可以识别为一种<span class='und2'>警戒</span> 触发时心脏收缩 眼动频率加快 视觉信息采样虚化 部分反射信号受遏制 进而认知受影响 ⚫在建筑的想象:玻璃与钢铁的辩证法(The Architectural Imagination: The Dialectics of Glass and Steel)的阐述中 彼得·贝伦斯将戈特弗里德·森佩尔建筑的四要素演绎成 火炉(陶艺),基座(石工),构架(木工),壳(织艺)</h4>
 		<p>img by <a href='https://www.flickr.com/photos/lipkee/' target='_blank' rel='noopener'>Lip Kee</a> on <a href='https://www.flickr.com/photos/64565252@N00/233958035/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Arachnothera_flavigaster.jpg" />
@@ -364,7 +363,7 @@ title: jaffa
     <a href="jaffa/Helichrysum_italicum.jpg"
         data-slide-name="Helichrysum_italicum"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4> Helichrysum italicum ⚪意大利蜡菊 ⚫叶子有咖喱的气味 但因稍苦和树脂味并未使用 ⚫和鱼或蔬菜一起炖 但在食用前除去 ⚪马耳他语中称其咖喱植物 ⚪Malta(马耳他) ⚪来自于闪语màlat 意指避难所或港口 ⚫当犬种马耳他长期避光 鼻子会褪成粉红或浅棕色 这通常被称为冬天的鼻子 ⚪著有自然史(Naturalis Historia)的盖乌斯·普林尼·塞孔杜斯暗示狗的名字来自亚得里亚海的梅利塔(Méléda)岛 著有地理志的斯特拉波在卡内斯梅利提(Canes Melitei)中称其来自西西里岛梅利塔(Melita)小镇 ⚫普林尼曾描述过地火熄灭后就地建成的某个葡萄园 称其中的一些坑是physas(螺) 当时的葡萄园可能属教会产业 在16世纪后逐渐变更成贵族私营 而葡萄酒可以蒸馏成烧酒(brandewijn) ⚫一世纪的某罗马诗人描述过他朋友的一条名叫以撒的马耳他犬 ⚫发现了矮河马,矮大象等岛屿动物的多萝西娅·米罗拉·爱丽丝·贝特曾考察马耳他岛 每日电讯报(The Daily Telegraph)描述她 <span class='und1'>她在步行或骡背上度日</span> <span class='und1'>穿过贫瘠和土匪出没的地区</span> <span class='und1'>在跳蚤缠身的小屋和棚子睡觉</span> <span class='und1'>她在汹涌中跋涉</span> <span class='und1'>到达孤立的悬崖洞窟</span> <span class='und1'>在那徘徊</span> <span class='und1'>浑身泥巴和黏土</span> <span class='und1'>收集袋,蚊帐,昆虫箱,锤子,再后来的炸药</span> <span class='und1'>从未离身</span> ⚫自然历史杂志(Magazine of Natural History)作为科学文献摘录和发表了玛丽·安林的寄信</h4>
+		<h4> Helichrysum italicum ⚪意大利蜡菊 ⚫叶子有咖喱的气味 但因稍苦和树脂味并未使用 ⚫和鱼或蔬菜一起炖 但在食用前除去 ⚪马耳他语中称其咖喱植物 ⚪Malta(马耳他) ⚪来自于闪语màlat 意指避难所或港口 ⚫当犬种马耳他长期避光 鼻子会褪成粉红或浅棕色 这通常被称为<span class='und1'>冬天的鼻子</span> ⚪著有<span class='und1'>自然史</span>(Naturalis Historia)的盖乌斯·普林尼·塞孔杜斯暗示狗的名字来自亚得里亚海的梅利塔(Méléda)岛 著有<span class='und1'>地理志</span>的斯特拉波在<span class='und1'>卡内斯梅利提</span>(Canes Melitei)中称其来自西西里岛梅利塔(Melita)小镇 ⚫普林尼曾描述过地火熄灭后就地建成的某个葡萄园 称其中的一些坑是<span class='und1'>physas</span>(螺) 当时的葡萄园可能属教会产业 在16世纪后逐渐变更成贵族私营 而葡萄酒可以蒸馏成烧酒(brandewijn) ⚫一世纪的某罗马诗人描述过他朋友的一条名叫以撒的马耳他犬 ⚫发现了矮河马,矮大象等岛屿动物的多萝西娅·米罗拉·爱丽丝·贝特曾考察马耳他岛 <span class='und1'>每日电讯报</span>(The Daily Telegraph)描述她 <span class='und1'>她在步行或骡背上度日</span> <span class='und1'>穿过贫瘠和土匪出没的地区</span> <span class='und1'>在跳蚤缠身的小屋和棚子睡觉</span> <span class='und1'>她在汹涌中跋涉</span> <span class='und1'>到达孤立的悬崖洞窟</span> <span class='und1'>在那徘徊</span> <span class='und1'>浑身泥巴和黏土</span> <span class='und1'>收集袋</span>,<span class='und1'>蚊帐</span>,<span class='und1'>昆虫箱</span>,<span class='und1'>锤子</span>,<span class='und1'>再后来的炸药</span> <span class='und1'>从未离身</span> ⚫自然历史杂志(Magazine of Natural History)作为科学文献摘录和发表了玛丽·安林的寄信</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Lamiot' target='_blank' rel='noopener'>Lamiot</a> on <a href='https://commons.wikimedia.org/wiki/File:Helichrysum_italicum%C3%8Eled%27Elbe.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
         </div>">
         <img src="jaffa/Helichrysum_italicum.jpg" />
@@ -372,7 +371,7 @@ title: jaffa
     <a href="jaffa/Sedum_caeruleum.jpg"
         data-slide-name="Sedum_caeruleum"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Sedum caeruleum ⚪蓝花景天 ⚫淡蓝色花朵 ⚫低矮而密地分布在多岩的海岸地带</h4>
+		<h4>Sedum caeruleum ⚪<span class='und2'>蓝花景天</span> ⚫淡蓝色花朵 ⚫低矮而密地分布在多岩的海岸地带</h4>
 		<p>img by <a href='https://www.flickr.com/photos/pauljill/' target='_blank' rel='noopener'>Paul Asman and Jill Lenoble</a> on <a href='https://www.flickr.com/photos/39136124@N00/48099271091' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
         <img src="jaffa/Sedum_caeruleum.jpg" />
@@ -404,7 +403,7 @@ title: jaffa
     <a href="jaffa/Zamenis_longissimus.jpg"
         data-slide-name="Zamenis_longissimus"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Zamenis longissimus ⚪长锦蛇 ⚪属名来历不明 ⚪种名来自古希腊神话中的医神 在其所执的单蛇杖中 木棒代表人的脊椎 缠绕的会蜕皮的蛇象征恢复和更新 ⚫现于干燥低地灌丛或高地岩坡 常在旧墙的砖瓦中捕猎啮齿类 ⚫幼体有黄色领圈 捕食蜥蜴和蛛形门 ⚫天敌有野猪,黄鼠狼,浣熊等 ⚫可能有一定的近视 猎物若假死有一定存活率 ⚫最早的蛇可能是泥地附近的半洞栖半水生爬行动物 ⚫不同于鸟纲 爬行纲多依靠积温孵卵 积温可影响其性别 且胚胎方向固定 不承受倾斜或颠倒 ⚪phyla(门) ⚫由特定的身体构造所界定 ⚪accumulated temperature(积温) ⚫某段时间内 高于某值的日均气温逐日相加的温度的总和 通常指一年内 日均气温高或等于10℃的日期 其日均气温的总和 是研究温度与生物有机体发育速度之间关系的一种指标 10℃是喜温植物适宜生长的起始温度 ⚫另外 爬行纲,两栖纲,昆虫纲时常受真菌感染的困扰 相较下 据说少有真菌能在温血的哺乳纲,鸟纲的体温中存活</h4>
+		<h4>Zamenis longissimus ⚪长锦蛇 ⚪属名来历不明 ⚪种名来自古希腊神话中的医神 在其所执的单蛇杖中 木棒代表人的脊椎 缠绕的会蜕皮的蛇象征恢复和更新 ⚫现于干燥低地灌丛或高地岩坡 常在旧墙的砖瓦中捕猎啮齿类 ⚫幼体有黄色领圈 捕食蜥蜴和<span class='und2'>蛛形门</span> ⚫天敌有野猪,黄鼠狼,浣熊等 ⚫可能有一定的近视 猎物若假死有一定存活率 ⚫最早的蛇可能是泥地附近的半洞栖半水生爬行动物 ⚫不同于鸟纲 爬行纲多依靠积温孵卵 积温可影响其性别 且胚胎方向固定 不承受倾斜或颠倒 ⚪phyla(门) ⚫由特定的身体构造所界定 ⚪accumulated temperature(积温) ⚫某段时间内 高于某值的日均气温逐日相加的温度的总和 通常指一年内 日均气温高或等于10℃的日期 其日均气温的总和 是研究温度与生物有机体发育速度之间关系的一种指标 10℃是喜温植物适宜生长的起始温度 ⚫另外 爬行纲,两栖纲,昆虫纲时常受真菌感染的困扰 相较下 据说少有真菌能在温血的哺乳纲,鸟纲的体温中存活</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:FelixReimann' target='_blank' rel='noopener'>Felix Reimann</a> on <a href='https://commons.wikimedia.org/wiki/File:Zamenis_longissimus.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
         </div>">
         <img src="jaffa/Zamenis_longissimus.jpg" />
@@ -420,7 +419,7 @@ title: jaffa
     <a href="jaffa/Geospiza_septentrionalis.jpg"
         data-slide-name="Geospiza_septentrionalis"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Geospiza septentrionalis ⚪北部牙尖地雀 ⚪在不使用的异名Geospiza difficilis septentrionalis中 分类在尖嘴地雀的亚种下 ⚪ficilis可能源于古意语facilis 有顽固,棘手,难以取悦或处理等意 ⚪septentrionalis意为大熊座七星 指北方的 ⚫雄性主要为黑色 雌性灰色并有棕色条纹 ⚫从仙人掌花汲取花蜜来补充淡水 ⚫饥荒时啄饮其他鸟的鲜血 偷蛋在岩石上破开 捡其他食肉鸟的粪便和剩鱼 ⚫diet(食性) ⚫动物进食的种类和方法 ⚫细分时包括了食肉,鱼,虫,血,蛇,鳞 食植,叶,花粉,蜜,树液,果实,谷物 食土,食菌,食腐,滤食 ⚪放血术(phlebotomy)来自希腊文phleps和tomos 意为静脉切割 ⚫早期的医生或理发师也使用水蛭来提取血液 放血被用作治疗和预防 被认为能清除体内毒素和平衡体液</h4>
+		<h4>Geospiza septentrionalis ⚪<span class='und2'>北部牙尖地雀</span> ⚪在不使用的异名Geospiza difficilis septentrionalis中 分类在尖嘴地雀的亚种下 ⚪ficilis可能源于古意语facilis 有顽固,棘手,难以取悦或处理等意 ⚪septentrionalis意为大熊座七星 指北方的 ⚫雄性主要为黑色 雌性灰色并有棕色条纹 ⚫从仙人掌花汲取花蜜来补充淡水 ⚫饥荒时啄饮其他鸟的鲜血 偷蛋在岩石上破开 捡其他食肉鸟的粪便和剩鱼 ⚫diet(食性) ⚫动物进食的种类和方法 ⚫细分时包括了食肉,鱼,虫,血,蛇,鳞 食植,叶,花粉,蜜,树液,果实,谷物 食土,食菌,食腐,滤食 ⚪放血术(phlebotomy)来自希腊文phleps和tomos 意为静脉切割 ⚫早期的医生或理发师也使用水蛭来提取血液 放血被用作治疗和预防 被认为能清除体内毒素和平衡体液</h4>
 		<p>img by <a href='https://www.flickr.com/people/7587839@N07' target='_blank' rel='noopener'>Peter Wilton</a> on <a href='https://www.flickr.com/photos/pwilt/4229090408/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
         <img src="jaffa/Geospiza_septentrionalis.jpg" />
@@ -428,7 +427,7 @@ title: jaffa
     <a href="jaffa/amber.jpg"
         data-slide-name="amber"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>amber ⚪琥珀 ⚪从古典拉丁语和古法语衍生 源于十字军东征时的阿拉伯词 意思是树的汁液 指白或黄琥珀 ⚫常绿乔木的一种坚硬的树脂化石 呈半透明,黄色,橙色,棕色 ⚪在13世纪后叶的罗曼(Romance)语 通俗拉丁语中 词义扩展到波罗的海(Baltia)南岸的化石树脂 ⚫自然史中引用了皮西亚斯丢失的著作在海上(On the Ocean) <span class='und1'>在波罗的海岛的海岸</span> <span class='und1'>春季的海浪吐出琥珀</span> <span class='und1'>它是海的凝固的呕吐物</span> <span class='und1'>居民用它作燃料</span> <span class='und1'>并出售给邻居条顿人</span> ⚫在14世纪中叶的中古英语中 用来指现在的龙涎香 或称灰琥珀 ⚫一种灰白的蜡状固体 漂浮在热带海域 是抹香鲸肠道中的病理分泌物 用于香水 也曾用于烹饪 ⚫自然史第37卷第11节写道 <span class='und1'>擦拭它时会散发松树气味</span> 燃烧时 有火炬松木头的气味和感官 ⚪Polypedilum vanderplanki(嗜眠摇蚊) ⚫幼虫可承受脱水,真空 ⚪科名Chironomidae源于古希腊单词kheironomos 意为哑剧演员 该剧种逐渐取代了通常排在三部正经悲剧后的羊人剧 ⚪该科幼虫在观赏鱼市场被当做鱼饲料出售 被称作血蚯蚓 是重要的指示生物 其化石被古人类学家用作过去环境变化或气候变异的指标 其当代标本是法医昆虫学家作尸检间隔评估时的法医学标记 ⚪戏剧一词可能来源于多利安人 同古埃及僧侣体中的事情,传说,神话 并非情节,行动</h4>
+		<h4>amber ⚪琥珀 ⚪从古典拉丁语和古法语衍生 源于十字军东征时的阿拉伯词 意思是树的汁液 指白或黄琥珀 ⚫常绿乔木的一种坚硬的树脂化石 呈半透明,黄色,橙色,棕色 ⚪在13世纪后叶的罗曼(Romance)语 通俗拉丁语中 词义扩展到波罗的海(Baltia)南岸的化石树脂 ⚫<span class='und1'>自然史</span>中引用了皮西亚斯丢失的著作在海上(On the Ocean) <span class='und1'>在波罗的海岛的海岸</span> <span class='und1'>春季的海浪吐出琥珀</span> <span class='und1'>它是海的凝固的呕吐物</span> <span class='und1'>居民用它作燃料</span> <span class='und1'>并出售给邻居条顿人</span> ⚫在14世纪中叶的中古英语中 用来指现在的龙涎香 或称灰琥珀 ⚫一种灰白的蜡状固体 漂浮在热带海域 是抹香鲸肠道中的病理分泌物 用于香水 也曾用于烹饪 ⚫<span class='und1'>自然史</span>第37卷第11节写道 <span class='und1'>擦拭它时会散发松树气味</span> 燃烧时 有火炬松木头的气味和感官 ⚪Polypedilum vanderplanki(嗜眠摇蚊) ⚫幼虫可承受脱水,真空 ⚪科名Chironomidae源于古希腊单词kheironomos 意为哑剧演员 该剧种逐渐取代了通常排在三部正经悲剧后的羊人剧 ⚪该科幼虫在观赏鱼市场被当做鱼饲料出售 被称作血蚯蚓 是重要的指示生物 其化石被古人类学家用作过去环境变化或气候变异的指标 其当代标本是法医昆虫学家作尸检间隔评估时的法医学标记 ⚪戏剧一词可能来源于多利安人 同古埃及僧侣体中的事情,传说,神话 并非情节,行动</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Archaeodontosaurus' target='_blank' rel='noopener'>Didier Desouens</a> on <a href='https://commons.wikimedia.org/wiki/File:Ambre_Dominique_Moustique.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'>cc by-sa 4.0</a></p>
         </div>">
         <img src="jaffa/amber.jpg" />
@@ -436,7 +435,7 @@ title: jaffa
     <a href="jaffa/Clogmia_albipunctata.jpg"
         data-slide-name="Clogmia_albipunctata"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Clogmia albipunctata ⚪白斑蛾蠓 ⚫幼虫水生或半陆生 ⚫喜污泥 常在死水,中空烂木,水槽觅食 ⚪instar(虫龄) ⚫昆虫生命周期中相邻两次蜕皮间的阶段 成虫期是最后的虫龄 ⚫某些成虫需要晒太阳或振翅 使飞翔肌变暖后才能起飞 ⚪领环(collar) 动物颈部不同色的羽,毛,鳞的色圈 或者某些昆虫前胸节叶状膜扩张的色素圈</h4>
+		<h4>Clogmia albipunctata ⚪<span class='und2'>白斑蛾蠓</span> ⚫幼虫水生或半陆生 ⚫喜污泥 常在死水,中空烂木,水槽觅食 ⚪instar(虫龄) ⚫昆虫生命周期中相邻两次蜕皮间的阶段 成虫期是最后的虫龄 ⚫某些成虫需要晒太阳或振翅 使飞翔肌变暖后才能起飞 ⚪领环(collar) 动物颈部不同色的羽,毛,鳞的色圈 或者某些昆虫前胸节叶状膜扩张的色素圈</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Mvuijlst' target='_blank' rel='noopener'>Mvuijlst</a> on <a href='https://commons.wikimedia.org/wiki/File:Clogmia_albipunctata.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
         </div>">
         <img src="jaffa/Clogmia_albipunctata.jpg" />
@@ -444,7 +443,7 @@ title: jaffa
     <a href="jaffa/Geometra_papilionaria.jpg"
         data-slide-name="Geometra_papilionaria"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Geometra papilionaria ⚪翡翠尺蛾 ⚪属名的词根取来自希腊文的地面和度量 指幼虫的移动姿势 ⚫在卡尔·林奈1758年的自然系统第十版中首次提及</h4>
+		<h4>Geometra papilionaria ⚪<span class='und2'>翡翠尺蛾</span> ⚪属名的词根取来自希腊文的地面和度量 指幼虫的移动姿势 ⚫在卡尔·林奈1758年的<span class='und1'>自然系统第十版</span>中首次提及</h4>
 		<p>img by <a href='https://www.flickr.com/photos/155939562@N05/' target='_blank' rel='noopener'>Ilia Ustyantsev</a> on <a href='https://www.flickr.com/photos/155939562@N05/39126903340/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Geometra_papilionaria.jpg" />
@@ -452,7 +451,7 @@ title: jaffa
     <a href="jaffa/Miletus_boisduvali.jpg"
         data-slide-name="Miletus_boisduvali"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Miletus boisduvali ⚪黄星云灰蝶 ⚫云灰蝶亚科的一个属 分布于东古北界和印马界 在华莱士线以东有零星分布</h4>
+		<h4>Miletus boisduvali ⚪<span class='und2'>黄星云灰蝶</span> ⚫云灰蝶亚科的一个属 分布于东古北界和<span class='und2'>印马界</span> 在华莱士线以东有零星分布</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Accassidy' target='_blank' rel='noopener'>Accassidy</a> on <a href='https://commons.wikimedia.org/wiki/File:MiletusBoisduvaliMUpUnAC1.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by/3.0/' target='_blank' rel='noopener'>cc by 3.0</a></p>
         </div>">
         <img src="jaffa/Miletus_boisduvali.jpg" />
@@ -468,7 +467,7 @@ title: jaffa
     <a href="jaffa/Boquila_trifoliolata.jpg"
         data-slide-name="Boquila_trifoliolata"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Boquila trifoliolata ⚪三叶假藤 ⚫小型蔓生藤本 当它缠绕寄主植物 会从大小,形状,颜色,方向,叶脉等方面模仿其叶子 模拟高处,不好吃,斑叶等信号 来躲避毛虫等食叶生物 ⚪Batesian mimicry(贝氏拟态) ⚫其效率依赖频率选择模型 正相关于受模仿物种的毒性水平和区域密度 ⚪Browerian mimicry(布罗维拟态) ⚫同种生物间的贝氏拟态 例如一些黑脉金斑蝶毛毛虫 以马利筋草等毒草为食 并储存毒性 另一些本来可口的毛毛虫就会从同种的较大毒性的成员受益 ⚪Mullerian mimicry(穆勒拟态) ⚫也称警戒色 通常是诚实的色,声,气味等的信号 ⚫一些物种共享并扩大该信号圈 例如它们形成相似的警戒图案 提升掠食者的学习压力 ⚫穆勒在其研究中使用了数学模型去计算 掠食者必须在夏天攻击n个无利可图的猎物 才能体验并学会其警戒色 ⚪警戒 ⚫更多的个体可更有效地混淆捕食者 而保护个体不被捕食 ⚫较低密度下的许多种群表现出较高的警戒率 后者可能导致觅食上的时间 精力不足 从而降低小群体中个体的适应性 ⚫臭味通常也属警戒信号</h4>
+		<h4>Boquila trifoliolata ⚪三叶假藤 ⚫小型蔓生藤本 当它缠绕寄主植物 会从大小,形状,颜色,方向,叶脉等方面模仿其叶子 模拟高处,不好吃,斑叶等信号 来躲避毛虫等食叶生物 ⚪Batesian mimicry(贝氏拟态) ⚫其效率依赖频率选择模型 正相关于受模仿物种的毒性水平和区域密度 ⚪Browerian mimicry(<span class='und2'>布罗维拟态</span>) ⚫同种生物间的贝氏拟态 例如一些黑脉金斑蝶毛毛虫 以马利筋草等毒草为食 并储存毒性 另一些本来可口的毛毛虫就会从同种的较大毒性的成员受益 ⚪Mullerian mimicry(穆勒拟态) ⚫也称警戒色 通常是诚实的色,声,气味等的信号 ⚫一些物种共享并扩大该信号圈 例如它们形成相似的警戒图案 提升掠食者的学习压力 ⚫穆勒在其研究中使用了数学模型去计算 掠食者必须在夏天攻击n个无利可图的猎物 才能体验并学会其警戒色 ⚪警戒 ⚫更多的个体可更有效地混淆捕食者 而保护个体不被捕食 ⚫较低密度下的许多种群表现出较高的警戒率 后者可能导致觅食上的时间 精力不足 从而降低小群体中个体的适应性 ⚫臭味通常也属警戒信号</h4>
 		<p>img by <a href='https://www.flickr.com/photos/inaovas/' target='_blank' rel='noopener'>Inao</a> on <a href='https://www.flickr.com/photos/48784050@N04/4736963217' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Boquila_trifoliolata.jpg" />
@@ -476,7 +475,7 @@ title: jaffa
     <a href="jaffa/Dryas_octopetala.jpg"
         data-slide-name="Dryas_octopetala"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Dryas octopetala ⚪八瓣仙女木 ⚪octopetala源于希腊文octo(eight)和petalon(petal) ⚫深绿色的革质叶 偶尔被用作凉茶</h4>
+		<h4>Dryas octopetala ⚪<span class='und2'>八瓣仙女木</span> ⚪octopetala源于希腊文octo(eight)和petalon(petal) ⚫深绿色的革质叶 偶尔被用作凉茶</h4>
 		<p>img by <a href='https://commons.wikimedia.org/w/index.php?title=User:Henderl' target='_blank' rel='noopener'>Nicolas Weghaupt</a> on <a href='https://commons.wikimedia.org/wiki/File:Dryas_octopetala_flowers_1.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'>cc 0</a></p>
         </div>">
         <img src="jaffa/Dryas_octopetala.jpg" />
@@ -508,7 +507,7 @@ title: jaffa
     <a href="jaffa/panda.jpg"
         data-slide-name="panda"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Ailuropoda melanoleuca ⚪属名是希腊语ailouros(猫)和podos(脚) ⚫巨熊猫(giant panda)是该属现存的唯一种 ⚫共和癸亥年间 邛崃山系冷箭竹开花枯死 六匹猫熊漂岛于绿洲 搁浅川西 受坝民安置 ⚫三月至五月 秦岭地区的棕色熊猫需啃食大量竹笋 而与很多野猪争抢</h4>
+		<h4>Ailuropoda melanoleuca ⚪属名是希腊语ailouros(猫)和podos(脚) ⚫<span class='und2'>巨熊猫</span>(giant panda)是该属现存的唯一种 ⚫共和癸亥年间 邛崃山系冷箭竹开花枯死 六匹猫熊漂岛于绿洲 搁浅川西 受坝民安置 ⚫三月至五月 秦岭地区的棕色熊猫需啃食大量竹笋 而与很多野猪争抢</h4>
 		<p>川北密林中的大熊猫(1969年) - 陈长坤, 摄于四川省平武县王朗地区</p>
         </div>">
         <img src="jaffa/panda.jpg" />
@@ -524,7 +523,7 @@ title: jaffa
     <a href="jaffa/Cocos_zeylanica.jpg"
         data-slide-name="Cocos_zeylanica"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Cocos zeylanica ⚪绉面椰子 ⚫从中新世煤层冲上海滩的椰子化石 草莓大小 长约3.5厘米 ⚪有三个凹痕的果壳具有类似猴子或人的面部特征 16世纪的西班牙和葡萄牙语单词coco 指面具或咧嘴笑的脸 ⚫该物种最早被提及可追溯到一千零一夜中的辛巴达水手 他在第五次航行期间买卖了椰子 ⚫干椰子叶可燃尽来收获石灰 ⚫椰子汁成分与人的体液相似 且在打开前几乎无菌 因此在失血过多且没有血清等紧急情况下 可以将椰子汁作为无菌盐水注入静脉</h4>
+		<h4>Cocos zeylanica ⚪<span class='und2'>绉面椰子</span> ⚫从中新世煤层冲上海滩的椰子化石 草莓大小 长约3.5厘米 ⚪有三个凹痕的果壳具有类似猴子或人的面部特征 16世纪的西班牙和葡萄牙语单词coco 指面具或咧嘴笑的脸 ⚫该物种最早被提及可追溯到一千零一夜中的<span class='und1'>辛巴达水手</span> 他在第五次航行期间买卖了椰子 ⚫干椰子叶可燃尽来收获石灰 ⚫椰子汁成分与人的体液相似 且在打开前几乎无菌 因此在失血过多且没有血清等紧急情况下 可以将椰子汁作为无菌盐水注入静脉</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Giantflightlessbirds' target='_blank' rel='noopener'>Giantflightlessbirds</a> on <a href='https://commons.wikimedia.org/wiki/File:Miocene_coconut.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'>cc by-sa 4.0</a></p>
         </div>">
         <img src="jaffa/Cocos_zeylanica.jpg" />
@@ -540,7 +539,7 @@ title: jaffa
     <a href="jaffa/Rosa_canina.jpg"
         data-slide-name="Rosa_canina"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Rosa canina ⚪狗蔷薇 ⚪源于希腊语kunorodon 意指治愈疯狗的咬伤 ⚫成熟果实朱红 椭圆形 约1.5~2厘米 常用于糖浆,茶,果酱,甜酒等 ⚫香味较其他蔷薇更具烈性 其干制草本至多保存6个月 过期后几乎失去效力 仅剩干草气味 ⚫微波炉可用于草本干制 小叶草本需要1分钟 大叶或富水叶需要3分钟 例如薄荷 后者在夏末开花后采摘 ⚫威廉·莎士比亚在仲夏夜之梦中提及此花 <span class='und1'>佩戴着甜麝香玫瑰和野蔷薇</span></h4>
+		<h4>Rosa canina ⚪狗蔷薇 ⚪源于希腊语kunorodon 意指治愈疯狗的咬伤 ⚫成熟果实朱红 椭圆形 约1.5~2厘米 常用于糖浆,茶,果酱,甜酒等 ⚫香味较其他蔷薇更具烈性 其干制草本至多保存6个月 过期后几乎失去效力 仅剩干草气味 ⚫微波炉可用于草本干制 小叶草本需要1分钟 大叶或富水叶需要3分钟 例如薄荷 后者在夏末开花后采摘 ⚫威廉·莎士比亚在<span class='und1'>仲夏夜之梦</span>中提及此花 <span class='und1'>佩戴着甜麝香玫瑰和野蔷薇</span></h4>
 		<p>img by <a href='https://www.tela-botanica.org/wp-login.php?redirect_to=https://www.tela-botanica.org/membres/michel-pourchet/' target='_blank' rel='noopener'>Michel Pourchet</a> on <a href='https://commons.wikimedia.org/wiki/File:Rosa_canina_plant_(06).jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Rosa_canina.jpg" />
@@ -556,7 +555,7 @@ title: jaffa
     <a href="jaffa/Salvia_japonica.jpg"
         data-slide-name="Salvia_japonica"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Salvia japonica ⚪紫花鼠尾草 ⚫16世纪的植物学家威廉姆·特纳称 其使兴奋者冷静 感觉更加敏锐 有助记忆 ⚫银叶适合调酒 紫叶和黄叶不太可口 ⚫干制叶需在低温避光下铺薄晾干 ⚫籽在仲夏成熟时采摘 可制作眼药水 清除眼内异物或治疗眼疾 ⚫直接的用法是将6粒籽浸在煮沸后的温水里 使其膨胀和分泌出粘液 之后用小团棉花将其放到眼角 异物会附上粘液 ⚫野生种有烈香 略苦 但园艺种几乎无嗅</h4>
+		<h4>Salvia japonica ⚪<span class='und2'>紫花鼠尾草</span> ⚫16世纪的植物学家威廉姆·特纳称 其使兴奋者冷静 感觉更加敏锐 有助记忆 ⚫银叶适合调酒 紫叶和黄叶不太可口 ⚫干制叶需在低温避光下铺薄晾干 ⚫籽在仲夏成熟时采摘 可制作眼药水 清除眼内异物或治疗眼疾 ⚫直接的用法是将6粒籽浸在煮沸后的温水里 使其膨胀和分泌出粘液 之后用小团棉花将其放到眼角 异物会附上粘液 ⚫野生种有烈香 略苦 但园艺种几乎无嗅</h4>
 		<p>img by <a href='https://www.flickr.com/photos/harumkoh/' target='_blank' rel='noopener'>harum.koh</a> on <a href='https://www.flickr.com/photos/harumkoh/21157730456/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Salvia_japonica.jpg" />
@@ -572,7 +571,7 @@ title: jaffa
     <a href="jaffa/Malus_sylvestris.jpg"
         data-slide-name="Malus_sylvestris"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Malus sylvestris ⚪木苹果 ⚫果实仅核桃大小 坚硬如木 入口极酸 不堪食用 ⚫只有野猪会啃食它的趺果以补充维生素</h4>
+		<h4>Malus sylvestris ⚪<span class='und2'>木苹果</span> ⚫果实仅核桃大小 坚硬如木 入口极酸 不堪食用 ⚫只有野猪会啃食它的趺果以补充维生素</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Biopics' target='_blank' rel='noopener'>Hans Hillewaert</a> on <a href='https://commons.wikimedia.org/wiki/File:Malus_sylvestris_fruit,_Vosseslag.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'>cc by-sa 4.0</a></p>
         </div>">
         <img src="jaffa/Malus_sylvestris.jpg" />
@@ -588,7 +587,7 @@ title: jaffa
     <a href="jaffa/Pittosporum_tenuifolium_'Irene_Paterson'.jpg"
         data-slide-name="Pittosporum_tenuifolium_'Irene_Paterson'"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Pittosporum tenuifolium 'Irene Paterson' ⚪白细叶海桐 ⚪栽培品种的后缀名在书写时需加引号 ⚫某型仅叶周周圈白色 ⚪灌篱 ⚫不经常修剪 通常成为潜行者或野生动物的避风港 密而不通行 ⚫在圈地运动中 被用来分割土地</h4>
+		<h4>Pittosporum tenuifolium 'Irene Paterson' ⚪<span class='und2'>白细叶海桐</span> ⚪栽培品种的后缀名在书写时需加引号 ⚫某型仅叶周周圈白色 ⚪灌篱 ⚫不经常修剪 通常成为潜行者或野生动物的避风港 密而不通行 ⚫在圈地运动中 被用来分割土地</h4>
 		<p>img by <a href='https://www.flickr.com/photos/faroutflora/' target='_blank' rel='noopener'>FarOutFlora</a> on <a href='https://www.flickr.com/photos/faroutflora/5210701734/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
         </div>">
         <img src="jaffa/Pittosporum_tenuifolium_'Irene_Paterson'.jpg" />
@@ -596,7 +595,7 @@ title: jaffa
     <a href="jaffa/Amandava_amandava.jpg"
         data-slide-name="Amandava_amandava"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Amandava amandava ⚪红梅雀 ⚪属和种名amandava 来自过去出口该笼鸟和羽毛的城镇 ⚫雌性有走光的红色尾羽 ⚪分类学genus(属)的词根gen(gignere)来自古拉丁词gegnere 有血籍,世代,性别等意 型(form)是亚种下的分类单位 ⚫变形中梦神墨菲斯(Morpheus)有着无音翼 其寝具的饰物可能是黑色</h4>
+		<h4>Amandava amandava ⚪<span class='und2'>红梅雀</span> ⚪属和种名amandava 来自过去出口该笼鸟和羽毛的城镇 ⚫雌性有走光的红色尾羽 ⚪分类学genus(属)的词根gen(gignere)来自古拉丁词gegnere 有血籍,世代,性别等意 <span class='und2'>型</span>(form)是亚种下的分类单位 ⚫<span class='und1'>变形</span>中梦神墨菲斯(Morpheus)有着无音翼 其寝具的饰物可能是黑色</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:J.M.Garg' target='_blank' rel='noopener'>J.M.Garg</a> on <a href='https://commons.wikimedia.org/wiki/File:Red_Avadavat_(Amandava_amandava)-_Male_in_Kolkata_W_IMG_3315.jpg' target='_blank' Srel='noopener'>wikicommons</a> / <a href=' https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
         </div>">
         <img src="jaffa/Amandava_amandava.jpg" />
@@ -604,7 +603,7 @@ title: jaffa
     <a href="jaffa/Aster_amellus.jpg"
         data-slide-name="Aster_amellus"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Aster amellus ⚪俗名米迦勒雏菊(michaelmas daisy) 前一个词由是michael(米迦勒)和mass(弥撒)的组合 再前者是古希伯来语mikha(相似)和el(神)组合 ⚫旧约曾提及的花 在宗教记载或画像中更多地出现 以它所承诺的果实 而其本身则被视为自然崇拜的残烬</h4>
+		<h4>Aster amellus ⚪俗名米迦勒雏菊(michaelmas daisy) 前一个词由是michael(米迦勒)和mass(弥撒)的组合 再前者是古希伯来语mikha(相似)和el(神)组合 ⚫<span class='und1'>旧约</span>曾提及的花 在宗教记载或画像中更多地出现 以它所承诺的果实 而其本身则被视为自然崇拜的残烬</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Franz_Xaver' target='_blank' rel='noopener'>Franz Xaver</a> on <a href='https://commons.wikimedia.org/wiki/File:Aster_amellus_3.jpg' target='_blank' Srel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
 		</div>">
         <img src="jaffa/Aster_amellus.jpg" />

@@ -83,7 +83,7 @@ title: laguna
     <a href="laguna/Temple_of_Janus.jpg"
         data-slide-name="Temple_of_Janus"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>temple of Janus ⚪双面神战争门 ⚫古罗马农历中一月的神灵 通常被描绘成有两张面孔 以其命名的建筑是两端设置大门的四方围墙 在和平年代 它的拱门保持关闭 ⚪janus起源于拉丁词根去 也跟janua(通道 门)有关 ⚫在新年,军事季节的起止等时候祭祀 不献祭动物时 会呈上小麦盐蛋糕 在夏至前一天 则是加牛奶和蜂蜜的车轮蛋糕 ⚫铭辞集(Epigrammata)第11卷第6章提到农神节有十四天</h4>
+            <h4>temple of Janus ⚪<span class='und2'>双面神战争门</span> ⚫古罗马农历中一月的神灵 通常被描绘成有两张面孔 以其命名的建筑是两端设置大门的四方围墙 在和平年代 它的拱门保持关闭 ⚪janus起源于拉丁词根去 也跟janua(通道 门)有关 ⚫在新年,军事季节的起止等时候祭祀 不献祭动物时 会呈上小麦盐蛋糕 在夏至前一天 则是加牛奶和蜂蜜的车轮蛋糕 ⚫<span class='und1'>铭辞集</span>(Epigrammata)第11卷第6章提到农神节有<span class='und1'>十四天</span></h4>
 			<p>img by <a href='https://www.flickr.com/photos/peterjr1961/2301792094/' target='_blank' rel='noopener'>Peter Roan</a> on <a href='https://www.flickr.com/photos/peterjr1961/2301792094/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='noopener'>cc by-nc 2.0</a></p>
         </div>">
         <img src="laguna/Temple_of_Janus.jpg" />
@@ -91,7 +91,7 @@ title: laguna
     <a href="laguna/laudanum.jpg"
         data-slide-name="laudanum"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>laudanum ⚪劳丹姆 ⚪意为赞美 ⚫棕褐色 极苦 ⚫被当地的蔷薇十字会视为先知的帕那塞尔苏斯 本名菲利普斯·奥里欧勒斯·德奥弗拉斯特·博姆巴斯茨·冯·霍恩海姆 将炼金术的圣杯点金石置换为秘药阿卡那姆(archanum) 即罂粟碱鸡尾酒劳丹姆 该酊剂有着许多的合剂配方 ⚫古埃及人将它与没药,乳香同焚烧</h4>
+            <h4>laudanum ⚪<span class='und2'>劳丹姆</span> ⚪意为赞美 ⚫棕褐色 极苦 ⚫被当地的蔷薇十字会视为先知的帕那塞尔苏斯 本名菲利普斯·奥里欧勒斯·德奥弗拉斯特·博姆巴斯茨·冯·霍恩海姆 将炼金术的圣杯点金石置换为秘药<span class='und2'>阿卡那姆</span>(archanum) 即罂粟碱鸡尾酒劳丹姆 该酊剂有着许多的合剂配方 ⚫古埃及人将它与没药,乳香同焚烧</h4>
 			<p>img by <a href='https://www.sciencemuseum.org.uk/home' target='_blank' rel='noopener'>Science Museum</a> on <a href='https://wellcomecollection.org/works/c9k5r9tj' target='_blank' rel='noopener'>wellcomecollection</a> / <a href='https://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'>cc by 4.0</a></p>
         </div>">
         <img src="laguna/laudanum.jpg" />
@@ -99,7 +99,7 @@ title: laguna
     <a href="laguna/diethylstilbestrol_1_mg_in_oil.jpg"
         data-slide-name="diethylstilbestrol_1_mg_in_oil"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>diethylstilbestrol ⚪<span class='und2'>橄榄藻茴香</span> ⚫一些明火内脏烧烤会使用本地辣椒,蒜,盐,小茴香制酱 ⚪ampoule(安瓿) ⚫盛装药液的小型玻璃容器 ⚫最早多见于殉道者墓窟的陪葬品 盛放死者的血液样本 ⚫与提托诺斯(Tithonus)神话相仿 在变形(Metamorphoses)14章中 古玛叶安(Cumaean)萎缩到仅剩声线 保存于瓶罐中 据说她曾向卢修斯·塔奎尼乌斯·苏佩巴斯以300金的价格推销9本神谕书 在神秘主义中 其第8卷284-330的片段<span class='und1'>上帝之子耶稣基督</span> <span class='und1'>救世主</span> 可应用古典密码学取出鱼这个词 意思是他可在深水域生存 存在于无罪的死亡深渊 另外 子在闪族语中是一个模糊,开放的概念 ⚫陶罐材质的安瓶可用蜡封口 这类粗蜡可混合各种比例的虫胶,松节油,树脂,白垩,灰泥,蜂蜡 用来封住厚海绵状的橡木树皮作的木栓瓶塞 质地较细的蜡则多用于封住文件 ⚫这种封装方式容易使蜡和所盛液体混合 因此应该可以使用高比例的树脂 如末药 来增添风味 ⚫在奥赛德第十卷中 女巫师瑟西(Circe)用混合了啤酒,葡萄酒,蜂蜜酒的奇怪饮料居刻翁(kykeon)迷倒了奥德修斯的船员 然后把他们全变成了猪 一说是混合了除蚤薄荷的大麦饮料 或者混入了有致幻作用的麦角菌 这种饮品在西阿提卡的埃琉西斯(Eleusis)秘仪 一种纪念德米特尔和普西芬妮的公共仪式的禁食环节饮用 ⚫秘仪的字面意思是狂欢 该词不曾出现在伊利亚特,奥德赛中 ⚫德泰佩勋爵描写她 <span class='und1'>雀斑脸颊</span> <span class='und1'>污迹蜿蜒</span></h4>
+            <h4>diethylstilbestrol ⚪<span class='und2'>橄榄藻茴香</span> ⚫一些明火内脏烧烤会使用本地辣椒,蒜,盐,小茴香制酱 ⚪ampoule(安瓿) ⚫盛装药液的小型玻璃容器 ⚫最早多见于殉道者墓窟的陪葬品 盛放死者的血液样本 ⚫与提托诺斯(Tithonus)神话相仿 在<span class='und1'>变形</span>(Metamorphoses)14章中 <span class='und2'>古玛叶安</span>(Cumaean)萎缩到仅剩声线 保存于瓶罐中 据说她曾向卢修斯·塔奎尼乌斯·苏佩巴斯以300金的价格推销9本神谕书 在神秘主义中 其第8卷284-330的片段<span class='und1'>上帝之子耶稣基督</span> <span class='und1'>救世主</span> 可应用古典密码学取出鱼这个词 意思是<span class='und1'>他可在深水域生存</span> <span class='und1'>存在于无罪的死亡深渊</span> 另外 子在闪族语中是一个模糊,开放的概念 ⚫陶罐材质的安瓶可用蜡封口 这类粗蜡可混合各种比例的虫胶,松节油,树脂,白垩,灰泥,蜂蜡 用来封住厚海绵状的橡木树皮作的木栓瓶塞 质地较细的蜡则多用于封住文件 ⚫这种封装方式容易使蜡和所盛液体混合 因此应该可以使用高比例的树脂 如末药 来增添风味 ⚫在<span class='und1'>奥赛德</span>第十卷中 女巫师瑟西(Circe)用混合了啤酒,葡萄酒,蜂蜜酒的奇怪饮料居刻翁(kykeon)迷倒了奥德修斯的船员 然后把他们全变成了猪 一说是混合了<span class='und2'>除蚤薄荷</span>的大麦饮料 或者混入了有致幻作用的麦角菌 这种饮品在西阿提卡的埃琉西斯(Eleusis)秘仪 一种纪念德米特尔和普西芬妮的公共仪式的禁食环节饮用 ⚫秘仪的字面意思是狂欢 该词不曾出现在<span class='und1'>伊利亚特</span>,<span class='und1'>奥德赛</span>中 ⚫德泰佩勋爵描写她 <span class='und2'>雀斑脸颊</span> <span class='und2'>污迹蜿蜒</span></h4>
 			<p>img by <a href='https://www.flickr.com/photos/diethylstilbestrol/' target='_blank' rel='noopener'>DES Daughter</a> on <a href='https://www.flickr.com/photos/diethylstilbestrol/26934675991' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank' rel='noopener'>cc by-nc-sa 2.0</a></p>
         </div>">
         <img src="laguna/diethylstilbestrol_1_mg_in_oil.jpg" />
@@ -131,7 +131,7 @@ title: laguna
     <a href="laguna/sea_salt.jpg"
         data-slide-name="sea_salt"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>海盐 ⚫参考1897年智利共和国地理词典(Diccionario Geográfico de la República de Chile de 1897)第88页 ⚪智利小村庄卡维尔(Cahuil) 名字来自当地的一种海鸥 同名的小海湾 长而曲折的泻湖在河流的尾端 此处湿地环绕 适合垂钓,划船,游泳 抓牡蛎,贻贝 这里有很少的居民 一所免费学校,邮政厅 一处社区教堂 ⚫到1978年时 卡维尔60%以上的人口定居在盐滩附近 ⚫到2008年 国家森林公司在该镇所辖的盐沼岛上新建了一个鸟类保护区 这里被认为是野鸭重要的觅食和筑巢地 ⚫在市政的乡村旅游案中 实习游客会去参观海盐的手工作业 或者玻璃,瓷器制作 也会到几处农民牧场用餐 ⚫该产业毗邻后根瘤蚜代酿酒葡萄的大产区 不同山谷的结果通常区别 有红浆果味,果酱味,桉树味,薄荷,胡椒等 ⚫湖盐可能有鱼虾的碎块 岩盐常混有粘土 ⚫粗糖的糖粒通常较大 带蜜糖风味</h4>
+            <h4>海盐 ⚫参考<span class='und1'>1897年智利共和国地理词典</span>(Diccionario Geográfico de la República de Chile de 1897)第88页 ⚪智利小村庄卡维尔(Cahuil) 名字来自当地的一种海鸥 同名的小海湾 长而曲折的泻湖在河流的尾端 此处湿地环绕 适合垂钓,划船,游泳 抓牡蛎,贻贝 这里有很少的居民 一所免费学校,邮政厅 一处社区教堂 ⚫到1978年时 卡维尔60%以上的人口定居在盐滩附近 ⚫到2008年 国家森林公司在该镇所辖的盐沼岛上新建了一个鸟类保护区 这里被认为是野鸭重要的觅食和筑巢地 ⚫在市政的乡村旅游案中 实习游客会去参观海盐的手工作业 或者玻璃,瓷器制作 也会到几处农民牧场用餐 ⚫该产业毗邻后根瘤蚜代酿酒葡萄的大产区 不同山谷的结果通常区别 有红浆果味,果酱味,桉树味,薄荷,胡椒等 ⚫湖盐可能有鱼虾的碎块 岩盐常混有粘土 ⚫粗糖的糖粒通常较大 带蜜糖风味</h4>
 			<p>img by <a href='https://www.flickr.com/photos/ronaldc5/' target='_blank' rel='noopener'>Ronald van der Graaf</a> on <a href='https://www.flickr.com/photos/ronaldc5/14825339124/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
         <img src="laguna/sea_salt.jpg" />
@@ -139,7 +139,7 @@ title: laguna
     <a href="laguna/soap.jpg"
         data-slide-name="soap"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>肥皂 一种脂肪酸盐 ⚫硫磺皂用于抑制皮脂,杀灭细菌,霉菌,寄生虫 适合某些轻微皮肤病及油性肤质 ⚫药皂多碱性 适于洗手或油性肤质 长期使用并不致菌群失调 但使皮肤易失水,干燥,脱皮 ⚫硼酸浴皂偏酸性 使用后皮肤无润滑感 ⚫胆汁肥皂混合了哺乳动物的胆汁 用于纺织品 在洗涤前几小时溶去坚硬污渍 ⚫盐水肥皂是钾基肥皂而不是钠皂 使用于海水,硬水 以及没有或需要保存淡水时 ⚫钠皂硬度高 适用于洗衣 ⚫市面上的盐皂在宣传时多围绕水疗体验,天然着色剂</h4>
+            <h4>肥皂 一种<span class='und2'>脂肪酸盐</span> ⚫硫磺皂用于抑制皮脂,杀灭细菌,霉菌,寄生虫 适合某些轻微皮肤病及油性肤质 ⚫药皂多碱性 适于洗手或油性肤质 长期使用并不致菌群失调 但使皮肤易失水,干燥,脱皮 ⚫硼酸浴皂偏酸性 使用后皮肤无润滑感 ⚫胆汁肥皂混合了哺乳动物的胆汁 用于纺织品 在洗涤前几小时溶去坚硬污渍 ⚫盐水肥皂是钾基肥皂而不是钠皂 使用于海水,硬水 以及没有或需要保存淡水时 ⚫钠皂硬度高 适用于洗衣 ⚫市面上的盐皂在宣传时多围绕水疗体验,天然着色剂</h4>
         </div>">
         <img src="laguna/soap.jpg" />
     </a>
