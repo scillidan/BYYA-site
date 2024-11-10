@@ -83,7 +83,7 @@ title: laguna
     <a href="laguna/Temple_of_Janus.jpg"
         data-slide-name="Temple_of_Janus"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>temple of Janus ⚪<span class='und2'>双面神战争门</span> ⚫古罗马农历中一月的神灵 通常被描绘成有两张面孔 以其命名的建筑是两端设置大门的四方围墙 在和平年代 它的拱门保持关闭 ⚪janus起源于拉丁词根去 也跟janua(通道 门)有关 ⚫在新年,军事季节的起止等时候祭祀 不献祭动物时 会呈上小麦盐蛋糕 在夏至前一天 则是加牛奶和蜂蜜的车轮蛋糕 ⚫<span class='und1'>铭辞集</span>(Epigrammata)第11卷第6章提到农神节有<span class='und1'>十四天</span></h4>
+            <h4>temple of Janus ⚪<span class='und2'>双面神战争门</span> ⚫古罗马农历中一月的神灵 通常被描绘成有两张面孔 以其命名的建筑是两端设置大门的四方围墙 在和平年代 它的拱门保持关闭 ⚪janus起源于拉丁词根去 也跟janua(通道,门)有关 ⚫在新年,军事季节的起止等时候祭祀 不献祭动物时 会呈上小麦盐蛋糕 在夏至前一天 则是加牛奶和蜂蜜的车轮蛋糕 ⚫<span class='und1'>铭辞集</span>(Epigrammata)第11卷第6章提到农神节有<span class='und1'>十四天</span></h4>
 			<p>img by <a href='https://www.flickr.com/photos/peterjr1961/2301792094/' target='_blank' rel='noopener'>Peter Roan</a> on <a href='https://www.flickr.com/photos/peterjr1961/2301792094/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='noopener'>cc by-nc 2.0</a></p>
         </div>">
         <img src="laguna/Temple_of_Janus.jpg" />

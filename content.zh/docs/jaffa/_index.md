@@ -9,6 +9,13 @@ title: jaffa
 
 
 <div id="lg-image">
+    <a href="jaffa/Collared_Peccary.jpg"
+      data-sub-html="<div class='lightGallery-captions'>
+      <h4>Collar ⚪领环 ⚫动物颈部不同色的羽,毛,鳞的色圈 或者某些昆虫前胸节叶状膜扩张的色素圈</h4>
+      <p>.img by <a href='https://www.flickr.com/photos/sl3rob/'>Robert Roland</a> on <a href='https://www.flickr.com/photos/sl3rob/53735872539/' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc 2.0</a></p>
+      </div>">
+      <img src="jaffa/Collared_Peccary.jpg" />
+    </a>
     <a href="jaffa/Commiphora.jpg"
         data-sub-html="<div class='lightGallery-captions'>
         <h4>Commiphora ⚪没药 ⚫与玫瑰,龙涎香 构成了阿拉伯-伊斯兰世界三大基础精油 ⚫古埃及,非洲之角阿拉伯半岛间的海上贸易 曾有象牙,黄金,猫科动物的皮毛,没药,乳香</h4>
@@ -363,7 +370,7 @@ title: jaffa
     <a href="jaffa/Helichrysum_italicum.jpg"
         data-slide-name="Helichrysum_italicum"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4> Helichrysum italicum ⚪意大利蜡菊 ⚫叶子有咖喱的气味 但因稍苦和树脂味并未使用 ⚫和鱼或蔬菜一起炖 但在食用前除去 ⚪马耳他语中称其咖喱植物 ⚪Malta(马耳他) ⚪来自于闪语màlat 意指避难所或港口 ⚫当犬种马耳他长期避光 鼻子会褪成粉红或浅棕色 这通常被称为<span class='und1'>冬天的鼻子</span> ⚪著有<span class='und1'>自然史</span>(Naturalis Historia)的盖乌斯·普林尼·塞孔杜斯暗示狗的名字来自亚得里亚海的梅利塔(Méléda)岛 著有<span class='und1'>地理志</span>的斯特拉波在<span class='und1'>卡内斯梅利提</span>(Canes Melitei)中称其来自西西里岛梅利塔(Melita)小镇 ⚫普林尼曾描述过地火熄灭后就地建成的某个葡萄园 称其中的一些坑是<span class='und1'>physas</span>(螺) 当时的葡萄园可能属教会产业 在16世纪后逐渐变更成贵族私营 而葡萄酒可以蒸馏成烧酒(brandewijn) ⚫一世纪的某罗马诗人描述过他朋友的一条名叫以撒的马耳他犬 ⚫发现了矮河马,矮大象等岛屿动物的多萝西娅·米罗拉·爱丽丝·贝特曾考察马耳他岛 <span class='und1'>每日电讯报</span>(The Daily Telegraph)描述她 <span class='und1'>她在步行或骡背上度日</span> <span class='und1'>穿过贫瘠和土匪出没的地区</span> <span class='und1'>在跳蚤缠身的小屋和棚子睡觉</span> <span class='und1'>她在汹涌中跋涉</span> <span class='und1'>到达孤立的悬崖洞窟</span> <span class='und1'>在那徘徊</span> <span class='und1'>浑身泥巴和黏土</span> <span class='und1'>收集袋</span>,<span class='und1'>蚊帐</span>,<span class='und1'>昆虫箱</span>,<span class='und1'>锤子</span>,<span class='und1'>再后来的炸药</span> <span class='und1'>从未离身</span> ⚫自然历史杂志(Magazine of Natural History)作为科学文献摘录和发表了玛丽·安林的寄信</h4>
+		<h4> Helichrysum italicum ⚪意大利蜡菊 ⚫叶子有咖喱的气味 但因稍苦和树脂味并未使用 ⚫和鱼或蔬菜一起炖 但在食用前除去 ⚪马耳他语中称其咖喱植物</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Lamiot' target='_blank' rel='noopener'>Lamiot</a> on <a href='https://commons.wikimedia.org/wiki/File:Helichrysum_italicum%C3%8Eled%27Elbe.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
         </div>">
         <img src="jaffa/Helichrysum_italicum.jpg" />
@@ -435,7 +442,7 @@ title: jaffa
     <a href="jaffa/Clogmia_albipunctata.jpg"
         data-slide-name="Clogmia_albipunctata"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Clogmia albipunctata ⚪<span class='und2'>白斑蛾蠓</span> ⚫幼虫水生或半陆生 ⚫喜污泥 常在死水,中空烂木,水槽觅食 ⚪instar(虫龄) ⚫昆虫生命周期中相邻两次蜕皮间的阶段 成虫期是最后的虫龄 ⚫某些成虫需要晒太阳或振翅 使飞翔肌变暖后才能起飞 ⚪领环(collar) 动物颈部不同色的羽,毛,鳞的色圈 或者某些昆虫前胸节叶状膜扩张的色素圈</h4>
+		<h4>Clogmia albipunctata ⚪<span class='und2'>白斑蛾蠓</span> ⚫幼虫水生或半陆生 ⚫喜污泥 常在死水,中空烂木,水槽觅食 ⚪instar(虫龄) ⚫昆虫生命周期中相邻两次蜕皮间的阶段 成虫期是最后的虫龄 ⚫某些成虫需要晒太阳或振翅 使飞翔肌变暖后才能起飞</h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:Mvuijlst' target='_blank' rel='noopener'>Mvuijlst</a> on <a href='https://commons.wikimedia.org/wiki/File:Clogmia_albipunctata.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'>cc by-sa 3.0</a></p>
         </div>">
         <img src="jaffa/Clogmia_albipunctata.jpg" />
