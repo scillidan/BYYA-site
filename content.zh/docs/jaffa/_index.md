@@ -9,6 +9,20 @@ title: jaffa
 
 
 <div id="lg-image">
+    <a href="jaffa/Common_blue.jpg"
+        data-sub-html="<div class='lightGallery-captions'>
+        <h4>Polyommatus icarus</h4>
+        <p>.img by <a href='https://www.flickr.com/photos/nickpix2008/'>nick ford</a> on <a href='https://www.flickr.com/photos/nickpix2008/3792134607' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc-nd 2.0</a></p>
+        </div>">
+        <img src="jaffa/Common_blue.jpg" />
+    </a>
+    <a href="jaffa/Talicada_nyseus.jpg"
+        data-sub-html="<div class='lightGallery-captions'>
+        <h4>Talicada nyseus</h4>
+        <p>.img by <a href='https://www.flickr.com/photos/ivijayanand/'>Vijay Anand Ismavel</a> on <a href='https://www.flickr.com/photos/ivijayanand/51672024996' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc 2.0</a></p>
+        </div>">
+        <img src="jaffa/Talicada_nyseus.jpg" />
+    </a>
     <a href="jaffa/Collared_Peccary.jpg"
       data-sub-html="<div class='lightGallery-captions'>
       <h4>Collar ⚪领环 ⚫动物颈部不同色的羽,毛,鳞的色圈 或者某些昆虫前胸节叶状膜扩张的色素圈</h4>
