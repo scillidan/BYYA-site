@@ -11,15 +11,15 @@ headless: true
 
 - [**tower**]({{< relref "/docs/tower" >}})
 - [chariot]({{< relref "/docs/chariot" >}})
-- [_arcana]({{< relref "/docs/arcana" >}})
 <br />
 
-- [**lyra α**]({{< relref "/docs/lyra-a" >}})
-- [lyra β]({{< relref "/docs/lyra-b" >}})
+- [**lyra β**]({{< relref "/docs/lyra-b" >}})
+- [lyra α]({{< relref "/docs/lyra-a" >}})
 - [orion α]({{< relref "/docs/orion-a" >}})
 - [_annex]({{< relref "/docs/lyra_annex" >}})
-- [_recipt]({{< relref "/docs/recipt" >}})
 <br />
 
 - [camera]({{< relref "/docs/camera" >}})
 - [screenshot]({{< relref "/docs/screenshot" >}})
+- [recipt]({{< relref "/docs/recipt" >}})
+- [sheet]({{< relref "/docs/sheet" >}})
