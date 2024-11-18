@@ -240,7 +240,7 @@ title: jaffa
     <a href="jaffa/Diogenes_pugilator.jpg"
         data-slide-name="Diogenes_pugilator"
         data-sub-html="<div class='lightGallery-captions'>
-		<h4>Diogenes pugilator ⚪<span class='und2'>第欧根尼小寄居蟹</span> ⚫从浅层潮下的软基质到深达1800m都有分布 最常见于浅水 ⚫倾向于占用网状狗螺(Tritia reticulata)的壳</h4>
+		<h4>Diogenes pugilator ⚪<span class='und2'>第欧根尼小寄居蟹</span> ⚫从浅层潮下的软基质到深达1800m都有分布 最常见于浅水 ⚫倾向于占用腹足动物网状狗螺(Tritia reticulata)的壳</h4>
 		<p>img by befe on <a href='https://commons.wikimedia.org/wiki/File:CRU_pag.jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
         </div>">
         <img src="jaffa/Diogenes_pugilator.jpg" />
