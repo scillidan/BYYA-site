@@ -9,6 +9,13 @@ title: jaffa
 
 
 <div id="lg-image">
+    <a href="jaffa/Mudrock_3.jpg"
+        data-sub-html="<div class='lightGallery-captions'>
+        <h4>Acritarchs ⚪疑源类 ⚫前寒武纪上期到中波托米階泥岩 ⚪Cambrian(寒武纪) 名称来自威尔士语地名Cymru(威尔士)的拉丁化拼写 音译自日语音读kanburiaki(寒武利亚纪)</h4>
+        <p>.img by <a href='https://www.flickr.com/photos/jsjgeology/'>James St. John</a> on <a href='https://www.flickr.com/photos/jsjgeology/49964362373' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='nofollow noopener'>cc by 2.0</a></p>
+        </div>">
+        <img src="jaffa/Mudrock_3.jpg" />
+    </a>
     <a href="jaffa/Common_blue.jpg"
         data-sub-html="<div class='lightGallery-captions'>
         <h4>Polyommatus icarus</h4>

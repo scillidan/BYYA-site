@@ -25,4 +25,4 @@
 - [hugo-picture-optimization](https://github.com/b-m-f/hugo-picture-optimization)
 - [SCP for GitHub Actions](https://github.com/appleboy/scp-action)
 - [lychee-broken-link-checker](https://github.com/marketplace/actions/lychee-broken-link-checker)
-- [page-speed-insights](https://github.com/marketplace/actions/page-speed-insights))
+- [page-speed-insights](https://github.com/marketplace/actions/page-speed-insights)
