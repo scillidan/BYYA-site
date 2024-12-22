@@ -15,8 +15,8 @@ Selenis Simode Durand, 塞勒尼斯·西蒙德·杜兰德
 Caitmyy Ruunn Lizta, 卡特梅耶·如尼·利兹塔
 Uchiha Byronwerth Yeager宇智波·拜伦维斯·耶格尔
 Songonqili Tresdin Pendragon, 宋宫姬莉·特雷斯汀·潘多拉贡
-Sigmund Lecter Seligman, 西格蒙德·莱克特·塞利格曼
 Ros Elec, 罗斯·伊莱克
+Sigmund Lecter Seligman, 西格蒙德·莱克特·塞利格曼
 ```
 
 ```
@@ -32,4 +32,5 @@ Yoachim约阿希姆
 Caen卡昂
 Cany卡那
 Yohan约哈
+Fenn芬·费恩
 ```
