@@ -210,7 +210,7 @@ title: amphissa
     <a href="amphissa/northern_signs_of_the_zodiac_and_constellations.jpg"
       data-slide-name="northern_signs_of_the_zodiac_and_constellations"
       data-sub-html="<div class='lightGallery-captions'>
-        <h4>北天星象 ⚫密特拉教由于几乎没有书面说明而需从考古证据重建 某位学者辩称这位波斯太阳神是主持岁差的人格化 被献祭的动物 对应着太阳(春分点)移出小犬座(Canis Minor),长蛇座(Hydra),乌鸦座(Corvus),天蝎宫(Scorpius),金牛宫(Taurus)</h4>
+        <h4>北天星象 ⚫密特拉教由于几乎没有书面说明而需从考古证据重建 某位学者辩称这位波斯太阳神是主持岁差的人格化 被献祭的动物 对应着太阳(春分点)移出小犬座(Canis Minor),长蛇座(Hydra),乌鸦座(Corvus),天蝎宫(Scorpius),金牛宫(Taurus) ⚫赤道带星座猎户座适合在十二月至四月被观测</h4>
         <p>.img by <a href='https://www.flickr.com/photos/britishlibrary/' target='_blank' rel='noopener'>British Library</a> on <a href='https://www.flickr.com/photos/britishlibrary/11226153094/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'>pdm</a></p>
       </div>">
       <img src="amphissa/northern_signs_of_the_zodiac_and_constellations.jpg" />
