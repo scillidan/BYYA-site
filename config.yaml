@@ -29,7 +29,6 @@ params:
   BookTheme: "light"
   BookToC: false
   BookSection: docs
-  BookMenuBundle: /menu
   BookRepo: https://github.com/scillidan/BYYA-site
 # BookEditPath: edit/main/exampleSite
   BookDateFormat: "2006-01-02"

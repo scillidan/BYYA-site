@@ -1,4 +1,6 @@
 ---
+title: recipt
+weight: 42
 bookCollapseSection: true
 ---
 
