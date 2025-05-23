@@ -21,5 +21,4 @@ headless: true
 
 - [camera]({{< relref "/docs/camera" >}})
 - [screenshot]({{< relref "/docs/screenshot" >}})
-- [recipt]({{< relref "/docs/recipt" >}})
 - [sheet]({{< relref "/docs/sheet" >}})
