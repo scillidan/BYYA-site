@@ -19,6 +19,5 @@ headless: true
 - [_annex]({{< relref "/docs/lyra_annex" >}})
 <br />
 
-- [camera]({{< relref "/docs/camera" >}})
-- [screenshot]({{< relref "/docs/screenshot" >}})
 - [sheet]({{< relref "/docs/sheet" >}})
+- [camera]({{< relref "/docs/camera" >}})
