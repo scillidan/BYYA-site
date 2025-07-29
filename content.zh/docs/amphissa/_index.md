@@ -59,7 +59,7 @@ weight: 12
     <a href="amphissa/Melon_and_Fruit_Bowl_with_Figs.jpg"
       data-slide-name="Melon_and_Fruit_Bowl_with_Figs"
       data-sub-html="<div class='lightGallery-captions'>
-        <h4>无花果 ⚫原产于安纳托利亚 果实熟甜略带酸涩 ⚫<span class='und1'>申命纪</span>(Deuteronomy)8:8提及的七种果实之一 其余的是小麦,大麦,葡萄,无花果,橄榄,椰枣或蜂蜜 ⚫虚构作品<span class='und1'>阿达拉</span>里称其是<span class='und1'>眼泪和长眠之树</span></h4>
+        <h4>无花果 ⚫原产于安纳托利亚 果实熟甜略带酸涩 耐咀嚼 ⚫<span class='und1'>申命纪</span>(Deuteronomy)8:8提及的七种果实之一 其余的是小麦,大麦,葡萄,无花果,橄榄,椰枣或蜂蜜 ⚫虚构作品<span class='und1'>阿达拉</span>里称其是<span class='und1'>眼泪和长眠之树</span></h4>
         <p>Melon and Fruit Bowl with Figs(1880-1882) - Gustave Caillebotte</p>
       </div>">
       <img src="amphissa/Melon_and_Fruit_Bowl_with_Figs.jpg" />

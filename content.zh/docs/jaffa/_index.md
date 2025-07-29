@@ -10,6 +10,13 @@ weight: 14
 
 
 <div id="lg-image">
+    <a href="jaffa/Strangler_fig.jpg"
+        data-sub-html="<div class='lightGallery-captions'>
+        <h4>Strangler fig ⚪绞杀榕 ⚫半附生植物 </h4>
+        <p>.img by <a href='https://en.wikipedia.org/wiki/User:Prashanthns'>Prashanthns</a> on <a href='https://en.wikipedia.org/wiki/File:Strangler_fig_inside.jpg' target='_blank' rel='nofollow noopener'>wikicommon</a> / <a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='nofollow noopener'>cc by-sa 3.0</a></p>
+        </div>">
+        <img src="jaffa/Strangler_fig.jpg" />
+    </a>
     <a href="jaffa/Mudrock_3.jpg"
         data-sub-html="<div class='lightGallery-captions'>
         <h4>Acritarchs ⚪疑源类 ⚫前寒武纪上期到中波托米階泥岩 ⚪Cambrian(寒武纪) 名称来自威尔士语地名Cymru(威尔士)的拉丁化拼写 音译自日语音读kanburiaki(寒武利亚纪)</h4>
