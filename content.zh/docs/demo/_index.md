@@ -12,7 +12,7 @@ weight: 40
 <div id="lg-image">
     <a href="https://raw.githubusercontent.com/scillidan/datasette-site/refs/heads/main/asset/datasette-site.png"
         data-sub-html="<div class='lightGallery-captions'>
-        <h4><a href='https://gm-datasette.vercel.app' target='_blank' rel='nofollow noopener'>datasette-site</a>(<a href='https://github.com/scillidan/datasette-site' target='_blank' rel='nofollow noopener'>source</a>)</h4>
+        <h4><a href='https://gm-datasette.vercel.app' target='_blank' rel='nofollow noopener'>datasette-site</a> (<a href='https://github.com/scillidan/datasette-site' target='_blank' rel='nofollow noopener'>source</a>)</h4>
         <p>power by <a href='https://github.com/simonw/datasette' target='_blank' rel='nofollow noopener'>Datasette</a>, licensed under <a href='https://github.com/simonw/datasette/blob/main/LICENSE' target='_blank' rel='noopener'>Apache-2.0</a></p>
         </div>">
         <img src="https://raw.githubusercontent.com/scillidan/datasette-site/refs/heads/main/asset/datasette-site.png" />
@@ -29,7 +29,7 @@ weight: 40
         data-slide-name="datasette-site"
         data-sub-html="<div class='lightGallery-captions'>
         <h4><a href='https://scillidan.github.io/color' target='_blank' rel='nofollow noopener'>color</a> (<a href='https://github.com/scillidan/color' target='_blank' rel='nofollow noopener'>source</a>)</h4>
-        <p>, licensed under <a href='https://github.com/scillidan/color/blob/main/LICENSE' target='_blank' rel='noopener'>MIT</a></p>
+        <p>licensed under <a href='https://github.com/scillidan/color/blob/main/LICENSE' target='_blank' rel='noopener'>MIT</a></p>
         </div>">
         <img src="https://raw.githubusercontent.com/scillidan/color/refs/heads/main/asset/color.png" />
         </a>
