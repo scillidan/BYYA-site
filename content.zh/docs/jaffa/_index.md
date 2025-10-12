@@ -9,13 +9,13 @@ weight: 14
 <link rel="stylesheet" href="../../style/lg-image.css">
 
 <div id="lg-image">
-	<a href="/Mespilus_germanica.jpg"
+	<a href="jaffa/Mespilus_germanica.jpg"
 		data-slide-name="Mespilus_germanica"
 		data-sub-html="<div class='lightGallery-captions'>
 		<h4>Mespilus_germanica ⚪欧楂 ⚫开白色或粉色星型花 果实在软化后带酸味 通常在变质后食用或用于烘焙,烤制,酿酒</h4>
 		<p>.img by <a href='https://www.flickr.com/photos/marygillhamarchiveproject/'>Dr Mary Gillham Archive Project</a> on <a href='https://www.flickr.com/photos/marygillhamarchiveproject/37759398056/' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='nofollow noopener'>cc by 2.0</a></p>
 		</div>">
-		<img src="/Mespilus_germanica.jpg" />
+		<img src="jaffa/Mespilus_germanica.jpg" />
 	</a>
 	<a href="jaffa/Strangler_fig.jpg"
 		data-slide-name="Strangler fig"
