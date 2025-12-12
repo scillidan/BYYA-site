@@ -108,7 +108,7 @@ weight: 13
     <a href="laguna/aircraft_plywood.jpg"
         data-slide-name="aircraft_plywood"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>aircraft plywood ⚪航空胶合板 ⚫由桃花心木,云杉,桦木粘合制成 具有提升的耐热性,耐湿性 ⚫在第二次世界大战期间应用于多用途的蚊式 它们无声地穿透了第三帝国夜空的雷达网 ⚫活树的年轮往往只能往前追溯100多年</h4>
+            <h4>aircraft plywood ⚪航空胶合板 ⚫由桃花心木,云杉,桦木粘合制成 具有提升的耐热性,耐湿性 ⚫在第二次世界大战期间应用于多用途的蚊式 进行侦察,轰炸,夜袭 它们无声地穿透了第三帝国夜间的雷达网 ⚫活树的年轮往往只能往前追溯100多年</h4>
 			<p>img by <a href='https://www.flickr.com/photos/cheesyfeet/' target='_blank' rel='noopener'>-Cheesyfeet-</a> on <a href='https://www.flickr.com/photos/cheesyfeet/13926883713/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener'>cc by-nc-nd 2.0</a></p>
         </div>">
         <img src="laguna/aircraft_plywood.jpg" />
@@ -140,7 +140,7 @@ weight: 13
     <a href="laguna/soap.jpg"
         data-slide-name="soap"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>肥皂 一种<span class='und2'>脂肪酸盐</span> ⚫硫磺皂用于抑制皮脂,杀灭细菌,霉菌,寄生虫 适合某些轻微皮肤病及油性肤质 ⚫药皂多碱性 适于洗手或油性肤质 长期使用并不致菌群失调 但使皮肤易失水,干燥,脱皮 ⚫硼酸浴皂偏酸性 使用后皮肤无润滑感 ⚫胆汁肥皂混合了哺乳动物的胆汁 用于纺织品 在洗涤前几小时溶去坚硬污渍 ⚫盐水肥皂是钾基肥皂而不是钠皂 使用于海水,硬水 以及没有或需要保存淡水时 ⚫钠皂硬度高 适用于洗衣 ⚫市面上的盐皂在宣传时多围绕水疗体验,天然着色剂</h4>
+            <h4>肥皂 一种<span class='und2'>脂肪酸盐</span> ⚫曾作为可供给木灰,动物脂肪的林区产品 ⚫硫磺皂用于抑制皮脂,杀灭细菌,霉菌,寄生虫 适合某些轻微皮肤病及油性肤质 ⚫药皂多碱性 适于洗手或油性肤质 长期使用并不致菌群失调 但使皮肤易失水,干燥,脱皮 ⚫硼酸浴皂偏酸性 使用后皮肤无润滑感 ⚫胆汁肥皂混合了哺乳动物的胆汁 用于纺织品 在洗涤前几小时溶去坚硬污渍 ⚫盐水肥皂是钾基肥皂而不是钠皂 使用于海水,硬水 以及没有或需要保存淡水时 ⚫钠皂硬度高 适用于洗衣 ⚫市面上的盐皂在宣传时多围绕水疗体验,天然着色剂</h4>
         </div>">
         <img src="laguna/soap.jpg" />
     </a>

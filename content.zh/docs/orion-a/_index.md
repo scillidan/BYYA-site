@@ -1,6 +1,6 @@
 ---
 title: orion α
-weight: 33
+weight: 31
 bookCollapseSection: true
 ---
 
