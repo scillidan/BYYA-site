@@ -20,7 +20,7 @@ weight: 40
     <a href="https://raw.githubusercontent.com/scillidan/anime-keyframes-gallery/refs/heads/main/asset/anime-keyframes-gallery.png"
         data-slide-name="datasette-site"
         data-sub-html="<div class='lightGallery-captions'>
-        <h4><a href='https://gm-anime-keyframes-gallery.vercel.app' target='_blank' rel='nofollow noopener'>Anime Keyframes Gallery</a> (<a href='https://github.com/scillidan/anime-keyframes-gallery ' target='_blank' rel='nofollow noopener'>source</a>)</h4>
+        <h4><a href='https://scillidan.github.io/anime-keyframes-gallery' target='_blank' rel='nofollow noopener'>Anime Keyframes Gallery</a> (<a href='https://github.com/scillidan/anime-keyframes-gallery ' target='_blank' rel='nofollow noopener'>source</a>)</h4>
         <p>power by <a href='www.lightgalleryjs.com' target='_blank' rel='nofollow noopener'>lightGallery</a>, licensed under <a href='https://www.lightgalleryjs.com/license' target='_blank' rel='noopener'>License</a></p>
         </div>">
         <img src="https://raw.githubusercontent.com/scillidan/anime-keyframes-gallery/refs/heads/main/asset/anime-keyframes-gallery.png" />
