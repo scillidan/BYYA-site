@@ -7,8 +7,7 @@
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 [![hugo_optimize](https://github.com/scillidan/BYYA-site/actions/workflows/hugo_optimize.yml/badge.svg)](https://github.com/scillidan/BYYA-site/actions/workflows/hugo_optimize.yml)
-[![lychee broken link checker](https://github.com/scillidan/BYYA-site/actions/workflows/lychee-broken-link-checker.yml/badge.svg)](https://github.com/scillidan/BYYA-site/actions/workflows/lychee-broken-link-checker.yml)
-[![page speed insights](https://github.com/scillidan/BYYA-site/actions/workflows/page-speed-insights.yml/badge.svg)](https://github.com/scillidan/BYYA-site/actions/workflows/page-speed-insights.yml)
+[![links](https://github.com/scillidan/BYYA-site/actions/workflows/links.yml/badge.svg)](https://github.com/scillidan/BYYA-site/actions/workflows/links.yml)
 
 [![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)](https://scillidan.github.io/BYYA-site)
 [![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)](https://byya-markt.vercel.app)
