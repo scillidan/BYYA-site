@@ -2,7 +2,7 @@ jQuery("#lg-image")
   .justifiedGallery({
     rowHeight: 180,
     margins: 1.5,
-    lastRow : "nojustify",
+    lastRow: "nojustify",
   })
   .on("jg.complete", function () {
     window.lightGallery(
