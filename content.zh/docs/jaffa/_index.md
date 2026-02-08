@@ -76,7 +76,7 @@ weight: 14
 	<a href="jaffa/Opiliones.jpg"
 		data-slide-name="Opiliones"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Opiliones ⚪盲蛛 ⚫其历史可追溯到鱼的时代 早泥盆世普拉亚(Pragian)期的水成岩床萊尼燧石(Rhynie chert)</h4>
+		<h4>Opiliones ⚪盲蛛 ⚫其历史可追溯到鱼的时代 早泥盆世普拉亚(Pragian)期的河相地层岩性单元水成岩床萊尼燧石(Rhynie chert)</h4>
 		<p>img by <a href='https://www.flickr.com/photos/vitiman/'>VITIMan</a> on <a href='https://www.flickr.com/photos/vitiman/30653233661' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc-nd 2.0</a></p>
 		</div>">
 		<img src="jaffa/Opiliones.jpg" />
