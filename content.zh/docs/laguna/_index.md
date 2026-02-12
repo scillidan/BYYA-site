@@ -45,7 +45,7 @@ weight: 13
     <a href="laguna/carrot_cake_and_tea.jpg"
         data-slide-name="carrot_cake_and_tea"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>carrot cake and tea ⚪胡萝卜蛋糕和茶 ⚫一款秋季肥皂 含橄榄油,椰子油,雪亚树油,鳄梨油,葡萄籽油 ⚪鳄梨 ⚫亚热带果实 需无霜,无风气候 具跃熟期(climacteric) 表皮绿色,棕色,紫色,黑色 果肉呈奶油状</h4>
+            <h4>carrot cake and tea ⚪胡萝卜蛋糕和茶 ⚫一款秋季肥皂 含橄榄油,椰子油,雪亚树油,鳄梨油,葡萄籽油 ⚪鳄梨 ⚫因外皮似爬行动物的皮而得名 亚热带果实 需无霜,无风气候 具跃熟期(climacteric) 表皮绿色,棕色,紫色,黑色 果肉呈奶油状</h4>
 			<p>img by <a href='https://www.flickr.com/photos/necrocake/' target='_blank' rel='noopener'>Marilyn Sherman</a> on <a href='https://www.flickr.com/photos/necrocake/3629376983/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='noopener'>cc by 2.0</a></p>
         </div>">
         <img src="laguna/carrot_cake_and_tea.jpg" />
