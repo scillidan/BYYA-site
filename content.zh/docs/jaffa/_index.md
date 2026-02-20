@@ -60,7 +60,7 @@ weight: 14
 	<a href="jaffa/Commiphora.jpg"
 		data-slide-name="Commiphora"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Commiphora ⚪没药 ⚫与玫瑰,龙涎香 构成了阿拉伯-伊斯兰世界三大基础精油 ⚫古埃及,非洲之角阿拉伯半岛间的海上贸易 曾有象牙,黄金,猫科动物的皮毛,没药,乳香</h4>
+		<h4>Commiphora ⚪没药 ⚫与玫瑰,龙涎香 构成了阿拉伯-伊斯兰世界三大基础精油 ⚫古埃及,非洲之角阿拉伯半岛间的海上贸易 曾有象牙,黄金,猫科动物的皮毛,没药,乳香 ⚫自<span class='und1'>旧约</span>到<span class='und1'>新约</span> 乳香是圣香的核心成分 代表神性,祭司 没药用于圣膏油,尸体防腐 或表达苦涩,甜蜜 代表受难,人性</h4>
 		<p>.img by <a href='https://www.flickr.com/photos/cifor-icraf/'>CIFOR-ICRAF</a> on <a href='https://www.flickr.com/photos/cifor-icraf/53707347175' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc-nd 2.0</a></p>
 		</div>">
 		<img src="jaffa/Commiphora.jpg" />
