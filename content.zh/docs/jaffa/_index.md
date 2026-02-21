@@ -8,7 +8,14 @@ weight: 14
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.7.1/css/lg-zoom.css">
 <link rel="stylesheet" href="../../style/lg-image.css">
 
-<div id="lg-image">
+<div id="lg-image">Buddleja
+	<a href="jaffa/Buddleja.jpg"
+		data-sub-html="<div class='lightGallery-captions'>
+		<h4>Buddleja ⚪<span class='und2'>圆锥序木</span> ⚫灌木或小乔木 夏末初秋开放长圆锥形白,粉红,淡紫,蓝,品红,紫,深红花穗</h4>
+		<p>.img by <a href='https://www.flickr.com/photos/stanzebla/'>stanze</a> on <a href='https://www.flickr.com/photos/stanzebla/54832493112/' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant' target='_blank' rel='nofollow noopener'>cc by-nc-sa 4.0</a></p>
+		</div>">
+			<img src="jaffa/Buddleja.jpg" />
+	</a>
 	<a href="jaffa/Mespilus_germanica.jpg"
 		data-slide-name="Mespilus_germanica"
 		data-sub-html="<div class='lightGallery-captions'>
@@ -36,7 +43,7 @@ weight: 14
 	<a href="jaffa/Common_blue.jpg"
 		data-slide-name="Polyommatus icarus"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Polyommatus icarus</h4>
+		<h4>Polyommatus icarus ⚪<span class='und2>莹蓝橙斑灰蝶</span></h4>
 		<p>.img by <a href='https://www.flickr.com/photos/nickpix2008/'>nick ford</a> on <a href='https://www.flickr.com/photos/nickpix2008/3792134607' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc-nd 2.0</a></p>
 		</div>">
 		<img src="jaffa/Common_blue.jpg" />
@@ -44,7 +51,7 @@ weight: 14
 	<a href="jaffa/Talicada_nyseus.jpg"
 		data-slide-name="Talicada nyseus"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Talicada nyseus</h4>
+		<h4>Talicada nyseus ⚪<span class='und2'>橙红斑灰蝶</span></h4>
 		<p>.img by <a href='https://www.flickr.com/photos/ivijayanand/'>Vijay Anand Ismavel</a> on <a href='https://www.flickr.com/photos/ivijayanand/51672024996' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc 2.0</a></p>
 		</div>">
 		<img src="jaffa/Talicada_nyseus.jpg" />
@@ -116,7 +123,7 @@ weight: 14
 	<a href="jaffa/Helichrysum_doerfleri.jpg"
 		data-slide-name="Helichrysum_doerfleri"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Helichrysum doerfleri</h4>
+		<h4>Helichrysum doerfleri ⚪<span class='und2'>黄苞蜡菊</span></h4>
 		<p>img by <a href='https://www.flickr.com/photos/nturland/' target='_blank' rel='noopener' class='ume'>Nicholas Turland</a> on <a href='https://www.flickr.com/photos/nturland/2637365947' target='_blank' rel='noopener' class='ume'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='noopener' class='ume'>cc by-nc-nd 2.0</a></p>
 		</div>">
 		<img src="jaffa/Helichrysum_doerfleri.jpg" />
@@ -156,7 +163,7 @@ weight: 14
 	<a href="jaffa/Gymnostomum_aeruginosum.jpg"
 		data-slide-name="Gymnostomum_aeruginosum"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Gymnostomum aeruginosum</h4>
+		<h4>Gymnostomum aeruginosum ⚪<span class='und2'>铜绿披针藓</span></h4>
 		<p>img by <a href='https://commons.wikimedia.org/wiki/User:HermannSchachner' target='_blank' rel='noopener'>HermannSchachner</a> on <a href='https://commons.wikimedia.org/wiki/File:Gymnostomum_aeruginosum_(a,_145144-474909)_8390.JPG' target='_blank' rel='noopener'>wikicommon</a> / <a href='https://creativecommons.org/publicdomain/zero/1.0' target='_blank' rel='noopener'>cc 0</a></p>
 		</div>">
 		<img src="jaffa/Gymnostomum_aeruginosum.jpg" />
@@ -164,7 +171,7 @@ weight: 14
 	<a href="jaffa/Ceterach_officinarum.jpg"
 		data-slide-name="Ceterach_officinarum"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Ceterach officinarum</h4>
+		<h4>Ceterach officinarum ⚪<span class='und2'>鳞背披针蕨</span></h4>
 		<p>img by <a href='https://www.flickr.com/photos/lennyworthington/' target='_blank' rel='noopener'>Len Worthington</a> on <a href='https://www.flickr.com/photos/lennyworthington/6165555817' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
 		</div>">
 		<img src="jaffa/Ceterach_officinarum.jpg" />
