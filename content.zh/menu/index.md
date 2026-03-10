@@ -6,17 +6,16 @@ headless: true
 - [amphissa]({{< relref "/docs/amphissa" >}})
 - [laguna]({{< relref "/docs/laguna" >}})
 - [jaffa]({{< relref "/docs/jaffa" >}})
-- [_annex]({{< relref "/docs/nineveh_annex" >}})
 <br />
 
 - [**tower**]({{< relref "/docs/tower" >}})
 - [chariot]({{< relref "/docs/chariot" >}})
 <br />
 
-- [**lyra β**]({{< relref "/docs/lyra-b" >}})
+- [**orion α**]({{< relref "/docs/orion-a" >}})
 - [lyra α]({{< relref "/docs/lyra-a" >}})
-- [orion α]({{< relref "/docs/orion-a" >}})
-- [_annex]({{< relref "/docs/lyra_annex" >}})
+- [lyra β]({{< relref "/docs/lyra-b" >}})
+- [demo]({{< relref "/docs/demo" >}})
 <br />
 
 - [sheet]({{< relref "/docs/sheet" >}})
