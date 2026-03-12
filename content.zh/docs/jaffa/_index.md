@@ -58,7 +58,7 @@ weight: 14
 	<a href="jaffa/Common_blue.jpg"
 		data-slide-name="Polyommatus icarus"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Polyommatus icarus ⚪<span class='und2>莹蓝橙斑灰蝶</span></h4>
+		<h4>Polyommatus icarus ⚪<span class='und2'>莹蓝橙斑灰蝶</span></h4>
 		<p>.img by <a href='https://www.flickr.com/photos/nickpix2008/'>nick ford</a> on <a href='https://www.flickr.com/photos/nickpix2008/3792134607' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc-nd 2.0</a></p>
 		</div>">
 		<img src="jaffa/Common_blue.jpg" />
