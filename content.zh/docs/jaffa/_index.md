@@ -10,17 +10,24 @@ weight: 14
 <link rel="stylesheet" href="../../style/lg-image.css">
 
 <div id="lg-image">
+	<a href="jaffa/Frangula_alnus.jpg"
+		data-sub-html="<div class='lightGallery-captions'>
+		<h4>Frangula alnus ⚪欧鼠李 ⚫树皮可制泡剂</h4>
+		<p>.img by <a href='https://www.flickr.com/photos/gertjanvannoord/'>Gertjan van Noord</a> on <a href='https://www.flickr.com/photos/gertjanvannoord/54709579641/' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nd/4.0/' target='_blank' rel='nofollow noopener'>cc by-nc 4.0</a></p>
+		</div>">
+			<img src="jaffa/Frangula_alnus.jpg" />
+	</a>
 	<a href="jaffa/Stellaria_media.jpg"
 		data-sub-html="<div class='lightGallery-captions'>
 		<h4>Stellaria media ⚪繁缕 ⚫叶全缘对生 茎匍匐或斜攀 ⚫茎叶可食用 味甘略咸 带坚果风味 ⚫具有舒缓,清凉,止痒等特性 可制药膏,浸剂,软膏</h4>
-		<p>.img by <a href='https://www.flickr.com/photos/marygillhamarchiveproject/'>Dr Mary Gillham Archive Project</a> on <a href='https://www.flickr.com/photos/marygillhamarchiveproject/31819181484' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/deed.zh-hant' target='_blank' rel='nofollow noopener'>cc by 2.0</a></p>
+		<p>.img by <a href='https://www.flickr.com/photos/marygillhamarchiveproject/'>Dr Mary Gillham Archive Project</a> on <a href='https://www.flickr.com/photos/marygillhamarchiveproject/31819181484' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by/2.0/' target='_blank' rel='nofollow noopener'>cc by 2.0</a></p>
 		</div>">
 			<img src="jaffa/Stellaria_media.jpg" />
 	</a>
 	<a href="jaffa/Buddleja.jpg"
 		data-sub-html="<div class='lightGallery-captions'>
 		<h4>Buddleja ⚪<span class='und2'>圆锥序木</span> ⚫灌木或小乔木 夏末初秋开放长圆锥形白,粉红,淡紫,蓝,品红,紫,深红花穗</h4>
-		<p>.img by <a href='https://www.flickr.com/photos/stanzebla/'>stanze</a> on <a href='https://www.flickr.com/photos/stanzebla/54832493112/' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant' target='_blank' rel='nofollow noopener'>cc by-nc-sa 4.0</a></p>
+		<p>.img by <a href='https://www.flickr.com/photos/stanzebla/'>stanze</a> on <a href='https://www.flickr.com/photos/stanzebla/54832493112/' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' target='_blank' rel='nofollow noopener'>cc by-nc-sa 4.0</a></p>
 		</div>">
 			<img src="jaffa/Buddleja.jpg" />
 	</a>
