@@ -10,6 +10,13 @@ weight: 14
 <link rel="stylesheet" href="../../style/lg-image.css">
 
 <div id="lg-image">
+	<a href="jaffa/Litsea_wighitana.jpg"
+		data-sub-html="<div class='lightGallery-captions'>
+		<h4>Litsea wighitana ⚪维特木姜 ⚪属名音译于汉语 ⚫熟时果实紫黑色小圆果 形态似李子 但属樟科</h4>
+		<p>.img by <a href='https://www.flickr.com/photos/siddarthmachado/'>Siddarth Machado</a> on <a href='https://www.flickr.com/photos/siddarthmachado/27848913459' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='cc by-nc 2.0' target='_blank' rel='nofollow noopener'>https://creativecommons.org/licenses/by-nc/2.0/</a></p>
+		</div>">
+			<img src="jaffa/Litsea_wighitana.jpg" />
+	</a>
 	<a href="jaffa/Frangula_alnus.jpg"
 		data-sub-html="<div class='lightGallery-captions'>
 		<h4>Frangula alnus ⚪欧鼠李 ⚫树皮可制泡剂</h4>
