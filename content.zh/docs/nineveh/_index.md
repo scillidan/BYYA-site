@@ -55,7 +55,7 @@ weight: 11
     <a href="nineveh/Souvenirs_Entomologiques.jpg"
         data-slide-name="Souvenirs_Entomologiques"
         data-sub-html="<div class='lightGallery-captions'>
-            <h4>Souvenirs Entomologiques ⚪<span class='und2'>昆虫纪念品</span> ⚫1923年 周作人在报章上发表<span class='und1'>法布尔昆虫记</span>并从英,日文转译了数章 ⚫晚年 翻译了<span class='und1'>小约翰</span>的周树人有意转译全本 但不果</h4>
+            <h4>Souvenirs Entomologiques ⚪<span class='und2'>昆虫纪念品</span> ⚫1923年 周作人在报章上发表<span class='und1'>法布尔昆虫记</span>并从英,日文转译了数章 ⚫晚年 翻译了<span class='und1'>小约翰</span>的周树人有意转译全本 但不果 ⚫纪念品,藏品等 也可以当作是保存在图书馆里的话题之书</h4>
             <p>img on <a href='https://gallica.bnf.fr/ark:/12148/bpt6k1522441v' target='_blank' rel='noopener'>bnf</a> / <a href='https://creativecommons.org/licenses/publicdomain/' target='_blank' rel='noopener'>pdm</a></p>
         </div>">
         <img src="nineveh/Souvenirs_Entomologiques.jpg" />
