@@ -19,6 +19,6 @@
 - [SCP for GitHub Actions](https://github.com/appleboy/scp-action)
 - [lychee-broken-link-checker](https://github.com/marketplace/actions/lychee-broken-link-checker)
 
-## Licenses
+## Attribute
 
-This repository is dual-licensed: source code under the `MIT` License, and non-code content (articles, images ...) under `CC BY-NC-SA 4.0`.
+This repository uses a dual license: source code is licensed under `MIT`, and non-code content (text, images, photos, etc.) under `CC BY-NC-SA 4.0`.
