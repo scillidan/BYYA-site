@@ -29,7 +29,7 @@ weight: 12
       data-slide-name="Bacchus_and_Ariadne"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>巴库斯与阿里阿德涅 ⚪凯尔特语glas是形容山间湖泊的颜色 涵盖从棕绿直到蓝色 ⚫在这里 围巾是朱砂 长袍是群青或雄黄 海是铜绿</h4>
-        <p>Bacchus and Ariadne(1520–1523) - Tiziano Vecelli</p>
+        <p>&quot;Bacchus and Ariadne (1520–1523)&quot;, Tiziano Vecelli</p>
       </div>">
       <img src="amphissa/Bacchus_and_Ariadne.jpg" />
     </a>
@@ -45,7 +45,7 @@ weight: 12
       data-slide-name="women_saints"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>修道院圣徒画 ⚪Mary Magdalene ⚫抹大拉的马利亚和罐子 装着涂过耶稣的脚的油膏 ⚪St Catherine ⚫亚历山大的圣凯瑟琳和损坏的磔轮,斩首她的剑 ⚪St Scholastica ⚫圣斯科拉斯蒂卡和圣本笃准则,她化身的鸽子 ⚪St Margaret ⚫安条克的圣玛格丽特和逃脱的吞食她的龙 ⚪St Barbara ⚫圣芭芭拉和将她幽禁的塔</h4>
-        <p>at Arbroath Abbey, .img by <a href='https://www.flickr.com/photos/pelegrino/' target='_blank' rel='noopener'>Nick Thompson</a> on <a href='https://www.flickr.com/photos/pelegrino/831620494/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='noopener'>cc by-nc 2.0</a></p>
+        <p>&quot;at Arbroath Abbey&quot;; .img by <a href='https://www.flickr.com/photos/pelegrino/' target='_blank' rel='noopener'>Nick Thompson</a> on <a href='https://www.flickr.com/photos/pelegrino/831620494/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='noopener'>cc by-nc 2.0</a></p>
       </div>">
       <img src="amphissa/women_saints.jpg" />
     </a>
@@ -53,15 +53,15 @@ weight: 12
       data-slide-name="Infantas_Isabella_Clara_Eugenia_and_Catalina_Micaela"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>宫廷肖像画 ⚫十六世纪的西班牙 皇室的孩童通常被描绘成微型的成人 ⚫这里的裙摆的褶边 是成年女性的服饰的特征</h4>
-        <p>Infantas Isabella Clara Eugenia and Catalina Micaela(1570) - Sofonisba Anguissola</p>
+        <p>&quot;Infantas Isabella Clara Eugenia and Catalina Micaela (1570)&quot;, Sofonisba Anguissola</p>
       </div>">
       <img src="amphissa/Infantas_Isabella_Clara_Eugenia_and_Catalina_Micaela.jpg" />
     </a>
     <a href="amphissa/Melon_and_Fruit_Bowl_with_Figs.jpg"
       data-slide-name="Melon_and_Fruit_Bowl_with_Figs"
       data-sub-html="<div class='lightGallery-captions'>
-        <h4>无花果 ⚫原产于安纳托利亚 果实熟甜略带酸涩 耐咀嚼 ⚫一座地中海气候的耐旱经济果园可能有海枣,油橄榄,无花果,扁桃,杏,橙,石榴等树 ⚫<span class='und1'>申命纪</span>(Deuteronomy)8:8提及的七种果实之一 其余的是小麦,大麦,葡萄,无花果,橄榄,椰枣或蜂蜜 ⚫虚构作品<span class='und1'>阿达拉</span>里称其是<span class='und1'>眼泪和长眠之树</span> ⚪Punica granatum ⚫从石榴果皮,果肉渗出的汁水可用作纺织染料</h4>
-        <p>Melon and Fruit Bowl with Figs(1880-1882) - Gustave Caillebotte</p>
+        <h4>fig ⚪无花果 ⚫原产于安纳托利亚 果实熟甜略带酸涩 耐咀嚼 ⚫一座地中海气候的耐旱经济果园可能有海枣,油橄榄,无花果,扁桃,杏,橙,石榴等树 ⚫<span class='und1'>申命纪</span>(Deuteronomy)8:8提及的七种果实之一 其余的是小麦,大麦,葡萄,无花果,橄榄,椰枣或蜂蜜 ⚫虚构作品<span class='und1'>阿达拉</span>里称其是<span class='und1'>眼泪和长眠之树</span> ⚪Punica granatum ⚫从石榴果皮,果肉渗出的汁水可用作纺织染料</h4>
+        <p>&quot;Melon and Fruit Bowl with Figs (1880-1882)&quot;, Gustave Caillebotte</p>
       </div>">
       <img src="amphissa/Melon_and_Fruit_Bowl_with_Figs.jpg" />
     </a>
@@ -141,7 +141,7 @@ weight: 12
       data-slide-name="Diogenes"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>犬儒学派的创始人之一 ⚫考古学上发现了许多污损的硬币 被认为是第欧根尼父子俩故意使其贬值 直到无法作法定货币使用 在他的银行家父亲希切西奥(Hicesias)担任铸币官员的这段时间 市面上还有很多假币流通 这出金融丑闻最终以他被逐出出生地锡诺普(Sinope)收场 连带失去了公民身份和所有财产 ⚫据说他是去德尔菲寻求建议 被告知他应<span class='und1'>破坏货币</span> 事后 第欧根尼认为先知的意思其实是 他应抹黑政治的货币 而不是实际的硬币 ⚫遭驱逐后 他移居雅典 以挑战既定习俗和价值观作为自己的人生目标 他因居住在属于泰坦神塞贝莱(Cybele)神庙的陶坛里,在白天提灯,在市场上吃东西,在阿卡德米(Academy)学园上课时吃食等行为而著名 ⚫有一些记载是关于他生活在哥林多的克兰姆(Craneum)竞技场附近时 菲利普(Philip II)要来视察的报道使全城一片混乱 一个人在擦亮他的手臂 另一个在抡石块 <span class='und1'>第三个在补墙</span> <span class='und1'>第四个在加固墙垛</span> <span class='und1'>每个人都在以某种方式使自己有用</span> <span class='und1'>第欧根尼无所事事</span> 当然也没人想过要给他一份差事 <span class='und1'>但被眼前的景象触动</span> <span class='und1'>第欧根尼收起了他的哲学家斗篷</span> <span class='und1'>开始大力地把他住的大桶滚上滚下</span> 一位熟人问询并得到了这番解释 <span class='und1'>我不想被认为是如此繁忙的人群中唯一的闲人</span> <span class='und1'>我像其他人一样</span> <span class='und1'>我滚着我的大桶</span> ⚫据说他因生吃章鱼而病死</h4>
-        <p>Diogenes(1882) - John William Waterhouse</p>
+        <p>&quot;Diogenes (1882)&quot;, John William Waterhouse</p>
       </div>">
       <img src="amphissa/Diogenes.jpg" />
     </a>
@@ -181,7 +181,7 @@ weight: 12
       data-slide-name="The_Death_of_King_Arthur"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>亚瑟王之死 ⚫伪地方纪事<span class='und1'>不列颠史</span>记载 将领亚瑟陷于卡姆兰战场 同莫德雷德决斗 双双丧生 在后来对其添枝加叶的<span class='und1'>不列颠诸王史</span>里 他作为亚瑟王 被女巫们带到阿瓦隆(Avalon)岛疗养 由姐姐摩根(Morgan)医治 画幅中她头戴黑头巾 ⚫另外 王都凯尔利昂(Caerleon)会举办竞技赛 亚瑟王则遵循封建道德 赠与骑士们城市,城堡,教会职位等财产 而纹章同时是是身份地位的符号,控制或拥有的标记,装饰 ⚪最早的拼写Morgen可能源自古威尔士或古不列吞词 意思是海生的 在古爱尔兰语里的同源词是Muirgen 据说是携带着一条水獭的人鱼被一艘信使的兽皮小圆舟发现 在约定的一年后 她上岸并受洗了这个基督化的名字 有相对较新的说法是 某个亚瑟王原型候选人的姊妹叫作Maithgen 也与另一个圣徒故事中的某个德鲁伊先知同名 ⚫诸多派生散文和诗歌中 据说乘舟同行的还有她的导师梅林的冤家 湖妖公主<span class='und2'>尼姆</span>(Nimue)和女猎人薇薇安(Niviane) 据说她还是数学家 教授另外八姊妹天文知识 治理着自给自足的阿瓦隆岛 ⚪即威尔士语中 苹果之岛 ⚫在十四世纪末的中古英语诗歌骑士小说<span class='und1'>高文</span>(Gawain)<span class='und1'>与绿骑士</span> 摩根勒菲(Morgan le Fay)设下圈套 在卡美洛(Camelot)宫廷的圣诞夜 令大姐安娜·摩高斯(Anna Morgause)之子高文接受绿骑士挑战 将其斩首 次年冬天 高文前往绿教堂赴受斧之约 途中接受了绿腰带 折返时将其带回</h4>
-        <p>The Death of King Arthur(1860) - James Archer</p>
+        <p>&quot;The Death of King Arthur (1860)&quot;, James Archer</p>
       </div>">
       <img src="amphissa/The_Death_of_King_Arthur.jpg" />
     </a>
@@ -205,14 +205,14 @@ weight: 12
       data-slide-name="The_Babylonian_Marriage_Market"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>巴比伦婚姻市场 ⚫中世纪到文艺复兴 法规限制了特定织物,饮食物,奢侈品的获得者 以防任何人伪装成贵族 那些停滞的中产上层则与女继承人结婚 或者咨询婚姻经纪人 来规划,重塑家族历史 这些大家族内 没有以利于氏族方式结婚的女儿通常被送入女修道院 ⚫直到英王与阿拉贡的凯瑟琳离婚并脱离罗马天主教廷 解散并售出其寺院 迎娶安妮·博林 之后 她们中的部分会去到宫廷 成为伊丽莎白(Elizabeth I)和贵族间优雅的线和缓冲带 受她应予婚姻 ⚫该时代的戏剧发端于中世纪奇迹剧和在修道院庭院演出的圣经故事</h4>
-        <p>The Babylonian Marriage Market(1875) - Edwin Long</p>
+        <p>&quot;The Babylonian Marriage Market (1875)&quot;, Edwin Long</p>
       </div>">
       <img src="amphissa/The_Babylonian_Marriage_Market.jpg" />
     </a>
     <a href="amphissa/northern_signs_of_the_zodiac_and_constellations.jpg"
       data-slide-name="northern_signs_of_the_zodiac_and_constellations"
       data-sub-html="<div class='lightGallery-captions'>
-        <h4>北天星象 ⚫密特拉教由于几乎没有书面说明而需从考古证据重建 某位学者辩称这位波斯太阳神是主持岁差的人格化 被献祭的动物 对应着太阳(春分点)移出小犬座(Canis Minor),长蛇座(Hydra),乌鸦座(Corvus),天蝎宫(Scorpius),金牛宫(Taurus) ⚫赤道带星座猎户座适合在十二月至四月被观测</h4>
+        <h4>northern signs of the Zodiac and constellations ⚪北天星象与黄道宫 ⚫密特拉教由于几乎没有书面说明而需从考古证据重建 某位学者辩称这位波斯太阳神是主持岁差的人格化 被献祭的动物 对应着太阳(春分点)移出小犬座(Canis Minor),长蛇座(Hydra),乌鸦座(Corvus),天蝎宫(Scorpius),金牛宫(Taurus) ⚫赤道带星座猎户座适合在十二月至四月被观测</h4>
         <p>.img by <a href='https://www.flickr.com/photos/britishlibrary/' target='_blank' rel='noopener'>British Library</a> on <a href='https://www.flickr.com/photos/britishlibrary/11226153094/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'>pdm</a></p>
       </div>">
       <img src="amphissa/northern_signs_of_the_zodiac_and_constellations.jpg" />
@@ -221,7 +221,7 @@ weight: 12
       data-slide-name="Death_of_Orpheus"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>奥菲斯之死 ⚫在欧里庇得斯的戏剧<span class='und1'>巴克斯</span>(The Bacchae)里 色雷斯人,神话诗人奥菲斯死于一队对其感到厌烦的梅纳德 ⚫秘宗奥菲斯教所记述的神统 虽与编年史家赫西俄德的<span class='und1'>神谱</span>是相似的系谱学作品 但有着截然不同的释义和编排 该教教义中奉冥后普西芬妮(Persephone)和狄俄尼索斯为主神 并有着一尊仁慈与光明的太古初神二元一体的法涅斯(Phanes) 后者等同于新柏拉图式秘宗密特拉教的密特拉斯(Mithras) 它们在古典晚期与早期基督教 在传教上是彼此竞逐的关系 ⚫这些异教神祇身上那些薄若蝉翼的遮掩物也称做玻璃衣裳</h4>
-        <p>Death of Orpheus(1866) - Emile Levy</p>
+        <p>&quot;Death of Orpheus (1866)&quot;, Emile Levy</p>
       </div>">
       <img src="amphissa/Death_of_Orpheus.jpg" />
     </a>
@@ -245,7 +245,7 @@ weight: 12
       data-slide-name="The_Ionian_Dance"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>一种社交性质的地方舞蹈 ⚫舞蹈的名称通常来自所在地区,伴奏歌词,舞者位置,双手所持,使用的物品 各地区的编舞,风格均不同 圆形是最常见的队形 ⚫在宗教,战争,戏剧,宴会,婚礼,游行时 或者一年中的重要时刻 演排舞蹈 使人们聚集 ⚫除阿提卡的凯瑟拉(Kythera) 标志是维纳斯 有着腓尼基人社区 以外的六个主岛和许多小岛并称<span class='und2'>洛里安</span>(Ionian)群岛 ⚫其中 西海岸的最大的岛屿 山峦起伏的凯法罗尼亚(Cephalonia)盛产赞特岛(Zante)葡萄干和低酸度的橄榄油 ⚫在伯罗奔尼撒 科西拉(Kerkyra)是哥林多的子城 岛名源于由线形文字B音节拼写的 来自科西拉的人 是一个大陆性岛屿 动物群与对岸相似 岛上有火烈鸟,水獭,野猪</h4>
-        <p>The Ionian Dance(1895) - Edward John Poynter</p>
+        <p>&quot;The Ionian Dance (1895)&quot;, Edward John Poynter</p>
       </div>">
       <img src="amphissa/The_Ionian_Dance.jpg" />
     </a>
@@ -253,7 +253,7 @@ weight: 12
       data-slide-name="Ophelia"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>该描写来自剧本第4幕第5节 ⚫这里的奥菲莉亚在一场疯狂而奇怪的表演中 她在大厅背诵鲜花和草药 同时将它们放在王室夫妇脚下 ⚫在<span class='und1'>第十二夜</span>中 奥利维亚说她的肤色<span class='und1'>根深蒂固</span> <span class='und1'>风雨不浸</span></h4>
-        <p>Ophelia(1890) - Henrietta Rae</p>
+        <p>&quot;Ophelia (1890)&quot;, Henrietta Rae</p>
       </div>">
       <img src="amphissa/Ophelia.jpg" />
     </a>
@@ -261,7 +261,7 @@ weight: 12
       data-slide-name="Judgement_of_Paris"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>画中的乐者吹奏着奥罗斯管(aulos) ⚪Paris(帕里斯)的词源与法国城市巴黎无关 后者源于一个高卢人部落 ⚫在特洛伊战争的神话基础里 没有受到邀请的埃里斯(Eris)往宴会里扔了一个刻有<span class='und1'>献予最美丽者</span>的金苹果 宙斯不想得罪赫拉,雅典娜,阿芙罗狄蒂(Afrodite)中的任意二人 于是委任帕里斯 在春季的伊达(Ida)山上 沐浴后的女神们接近放牧的帕里斯 并试图贿赂他 他最终选择了阿芙罗狄蒂 也就选择了海伦</h4>
-        <p>Judgement of Paris(1892) - Henryk Hektor Siemiradzki</p>
+        <p>&quot;Judgement of Paris (1892)&quot;, Henryk Hektor Siemiradzki</p>
       </div>">
       <img src="amphissa/Judgement_of_Paris.jpg" />
     </a>
@@ -293,7 +293,7 @@ weight: 12
       data-slide-name="Bruce_Gholson_Two_Fossil_Fish_Walnut_Brown"
       data-sub-html="<div class='lightGallery-captions'>
         <h4>瓷釉画 ⚫标准人骨可分为颅骨,躯干骨,四肢骨三部分 其中手27块,脚26块,32颗牙齿,8块脑颅骨,14块面颅骨 ⚫理查德·欧文假设 <span class='und1'>脊椎动物的骨骼可以理解为一系列理想单元</span> <span class='und1'>后者在不同的脊椎动物中高度特化</span> <span class='und1'>根据这种观点</span> <span class='und1'>颅骨源于几个特化单元的融合</span> <span class='und1'>四肢则仅仅是改良后的单元拱形区</span></h4>
-        <p>Two Fossil Fish Walnut Brown Bruce Gholson - Bruce Gholson, .img by <a href='https://www.flickr.com/photos/bulldogpottery/' target='_blank' rel='noopener'>Samantha Henneke</a> on <a href='https://www.flickr.com/photos/bulldogpottery/6243824734' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_blank' rel='noopener'>cc by-nd 2.0</a></p>
+        <p>&quot;Two Fossil Fish Walnut Brown Bruce Gholson&quot;, Bruce Gholson; .img by <a href='https://www.flickr.com/photos/bulldogpottery/' target='_blank' rel='noopener'>Samantha Henneke</a> on <a href='https://www.flickr.com/photos/bulldogpottery/6243824734' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_blank' rel='noopener'>cc by-nd 2.0</a></p>
       </div>">
       <img src="amphissa/Bruce_Gholson_Two_Fossil_Fish_Walnut_Brown.jpg" />
     </a>
