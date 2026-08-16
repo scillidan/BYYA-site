@@ -617,7 +617,7 @@ weight: 14
 	<a href="jaffa/Rosa_canina.jpg"
 		data-slide-name="Rosa_canina"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Rosa canina ⚪狗蔷薇 ⚪源于希腊语kunorodon 意指治愈疯狗的咬伤 ⚫成熟果实朱红 椭圆形 约1.5~2厘米 常用于糖浆,茶,果酱,甜酒等 ⚫香味较其他蔷薇更具烈性 其干制草本至多保存6个月 过期后几乎失去效力 仅剩干草气味 ⚫微波炉可用于草本干制 小叶草本需要1分钟 大叶或富水叶需要3分钟 例如薄荷 后者在夏末开花后采摘 ⚫威廉·莎士比亚在<span class='und1'>仲夏夜之梦</span>中提及此花 <span class='und1'>佩戴着甜麝香玫瑰和野蔷薇</span></h4>
+		<h4>Rosa canina ⚪狗蔷薇 ⚪源于希腊语kunorodon 意指治愈疯狗的咬伤 ⚫成熟果实朱红 椭圆形 约1.5~2厘米 常用于糖浆,茶,果酱,甜酒等 可作清凉剂,缓和收敛剂,利尿剂 ⚫香味较其他蔷薇更具烈性 其干制草本至多保存6个月 过期后几乎失去效力 仅剩干草气味 ⚫微波炉可用于草本干制 小叶草本需要1分钟 大叶或富水叶需要3分钟 例如薄荷 后者在夏末开花后采摘 ⚫威廉·莎士比亚在<span class='und1'>仲夏夜之梦</span>中提及此花 <span class='und1'>佩戴着甜麝香玫瑰和野蔷薇</span></h4>
 		<p>.img by <a href='https://www.tela-botanica.org/wp-login.php?redirect_to=https://www.tela-botanica.org/membres/michel-pourchet/' target='_blank' rel='noopener'>Michel Pourchet</a> on <a href='https://commons.wikimedia.org/wiki/File:Rosa_canina_plant_(06).jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
 		</div>">
 		<img src="jaffa/Rosa_canina.jpg" />
