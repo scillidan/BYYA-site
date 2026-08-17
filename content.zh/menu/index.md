@@ -18,5 +18,4 @@ headless: true
 - [demo]({{< relref "/docs/demo" >}})
 <br />
 
-- [sheet]({{< relref "/docs/sheet" >}})
 - [camera]({{< relref "/docs/camera" >}})
