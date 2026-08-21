@@ -125,7 +125,7 @@ weight: 13
   <a href="laguna/fractional_currency.jpg"
     data-slide-name="fractional_currency"
     data-sub-html="<div class='lightGallery-captions'>
-      <h4>fractional currency ⚪小额货币 ⚪次级类贷款 ⚫借款人的还款能力出现明显问题 完全依靠其正常营业收入无法足额偿还贷款本息 即使执行担保 也可能会造成一定损失 ⚪信贷资产证券化 ⚫银行向借款人发放贷款 再将这部分贷款转化为资产支持证券出售给投资者 ⚪资产负债表 ⚫反映借款人在某一特定日期财务状况的财务报表 ⚪期货 ⚫提前约定货物,价格,交易时间的协议</h4>
+      <h4>fractional currency ⚪小额货币 ⚫迦太基向罗马支付的战争赔款 其大部分被存放在农神庙的地库 ⚪次级类贷款 ⚫借款人的还款能力出现明显问题 完全依靠其正常营业收入无法足额偿还贷款本息 即使执行担保 也可能会造成一定损失 ⚪信贷资产证券化 ⚫银行向借款人发放贷款 再将这部分贷款转化为资产支持证券出售给投资者 ⚪资产负债表 ⚫反映借款人在某一特定日期财务状况的财务报表 ⚪期货 ⚫提前约定货物,价格,交易时间的协议</h4>
 			<p>.img by <a href='https://www.flickr.com/photos/nationalmuseumofamericanhistory/' target='_blank' rel='noopener'>National Museum of American History Smithsonian Institution</a> on <a href='https://www.flickr.com/photos/nationalmuseumofamericanhistory/10480074673/' target='_blank' rel='noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank' rel='noopener'>cc by-nc 2.0</a></p>
     </div>">
     <img src="laguna/fractional_currency.jpg" />
