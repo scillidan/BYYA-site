@@ -10,6 +10,20 @@ weight: 14
 <link rel="stylesheet" href="../../style/lg-image.css">
 
 <div id="lg-image">
+	<a href="jaffa/Rosa_multiflora_Thunb.jpg"
+		data-sub-html="<div class='lightGallery-captions'>
+		<h4>Rosa multiflora Thunb. ⚪多花蔷薇</h4>
+		<p>.img by <a href='https://www.flickr.com/photos/dinesh_valke/'>Dinesh Valke</a> on <a href='https://www.flickr.com/photos/dinesh_valke/33226004165' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='nofollow noopener'>cc by-sa 2.0</a></p>
+		</div>">
+			<img src="jaffa/Rosa_multiflora_Thunb.jpg" />
+	</a>
+	<a href="jaffa/Rosa_gallica_versicolor.jpg"
+		data-sub-html="<div class='lightGallery-captions'>
+		<h4>jaffa/Rosa gallica ⚪药剂师玫瑰 ⚫园林灌木 夏季开平型重瓣花 结小圆红果 花瓣晒干碾碎后可制粉末 ⚫可作清凉剂,缓和收敛剂,利尿剂 治疗头,耳,眼,嘴,牙龈,肛门疾 ⚫花瓣经蒸馏后可制玫瑰挥发性精油 制香水常用大马士革玫瑰,白色百叶玫瑰 ⚫12世纪的某修道院院长写道 <span class='und1'>玫瑰虽冷</span> <span class='und1'>但这种冷有着很好的用途</span> <span class='und1'>在黎明时采几瓣玫瑰花瓣</span> <span class='und1'>放到眼睛上</span> <span class='und1'>它们会使你的双眼清澈</span> <span class='und1'>摆脱倦意</span></h4>
+		<p>.img by <a href='https://www.flickr.com/photos/scyrene/'>scyrene</a> on <a href='https://www.flickr.com/photos/scyrene/5815735000' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc-nd 2.0</a></p>
+		</div>">
+			<img src="jaffa/Rosa_gallica_versicolor.jpg" />
+	</a>
 	<a href="jaffa/Litsea_wighitana.jpg"
 		data-sub-html="<div class='lightGallery-captions'>
 		<h4>Litsea wighitana ⚪维特木姜 ⚪属名音译于汉语 ⚫熟时果实紫黑色小圆果 形态似李子 但属樟科</h4>
@@ -617,7 +631,7 @@ weight: 14
 	<a href="jaffa/Rosa_canina.jpg"
 		data-slide-name="Rosa_canina"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>Rosa canina ⚪狗蔷薇 ⚪源于希腊语kunorodon 意指治愈疯狗的咬伤 ⚫成熟果实朱红 椭圆形 约1.5~2厘米 常用于糖浆,茶,果酱,甜酒等 可作清凉剂,缓和收敛剂,利尿剂 ⚫香味较其他蔷薇更具烈性 其干制草本至多保存6个月 过期后几乎失去效力 仅剩干草气味 ⚫微波炉可用于草本干制 小叶草本需要1分钟 大叶或富水叶需要3分钟 例如薄荷 后者在夏末开花后采摘 ⚫威廉·莎士比亚在<span class='und1'>仲夏夜之梦</span>中提及此花 <span class='und1'>佩戴着甜麝香玫瑰和野蔷薇</span></h4>
+		<h4>Rosa canina ⚪狗蔷薇 ⚪源于希腊语kunorodon 意指治愈疯狗的咬伤 ⚫成熟果实朱红 椭圆形 约1.5~2厘米 常用于糖浆,茶,果酱,甜酒等 ⚫香味较其他蔷薇更具烈性 其干制草本至多保存6个月 过期后几乎失去效力 仅剩干草气味 ⚫微波炉可用于草本干制 小叶草本需要1分钟 大叶或富水叶需要3分钟 例如薄荷 后者在夏末开花后采摘 ⚫威廉·莎士比亚在<span class='und1'>仲夏夜之梦</span>中提及此花 <span class='und1'>佩戴着甜麝香玫瑰和野蔷薇</span></h4>
 		<p>.img by <a href='https://www.tela-botanica.org/wp-login.php?redirect_to=https://www.tela-botanica.org/membres/michel-pourchet/' target='_blank' rel='noopener'>Michel Pourchet</a> on <a href='https://commons.wikimedia.org/wiki/File:Rosa_canina_plant_(06).jpg' target='_blank' rel='noopener'>wikicommons</a> / <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank' rel='noopener'>cc by-sa 2.0</a></p>
 		</div>">
 		<img src="jaffa/Rosa_canina.jpg" />
