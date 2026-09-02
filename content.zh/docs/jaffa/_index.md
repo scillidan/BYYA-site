@@ -19,7 +19,7 @@ weight: 14
 	</a>
 	<a href="jaffa/Rosa_gallica_versicolor.jpg"
 		data-sub-html="<div class='lightGallery-captions'>
-		<h4>jaffa/Rosa gallica ⚪药剂师玫瑰 ⚫园林灌木 夏季开平型重瓣花 结小圆红果 花瓣晒干碾碎后可制粉末 ⚫可作清凉剂,缓和收敛剂,利尿剂 治疗头,耳,眼,嘴,牙龈,肛门疾 ⚫花瓣经蒸馏后可制玫瑰挥发性精油 制香水常用大马士革玫瑰,白色百叶玫瑰 ⚫12世纪的某修道院院长写道 <span class='und1'>玫瑰虽冷</span> <span class='und1'>但这种冷有着很好的用途</span> <span class='und1'>在黎明时采几瓣玫瑰花瓣</span> <span class='und1'>放到眼睛上</span> <span class='und1'>它们会使你的双眼清澈</span> <span class='und1'>摆脱倦意</span></h4>
+		<h4>Rosa gallica ⚪药剂师玫瑰 ⚫园林灌木 夏季开平型重瓣花 结小圆红果 花瓣晒干碾碎后可制粉末 ⚫可作清凉剂,缓和收敛剂,利尿剂 治疗头,耳,眼,嘴,牙龈,肛门疾 ⚫花瓣经蒸馏后可制玫瑰挥发性精油 制香水常用大马士革玫瑰,白色百叶玫瑰 ⚫12世纪的某修道院院长写道 <span class='und1'>玫瑰虽冷</span> <span class='und1'>但这种冷有着很好的用途</span> <span class='und1'>在黎明时采几瓣玫瑰花瓣</span> <span class='und1'>放到眼睛上</span> <span class='und1'>它们会使你的双眼清澈</span> <span class='und1'>摆脱倦意</span></h4>
 		<p>.img by <a href='https://www.flickr.com/photos/scyrene/'>scyrene</a> on <a href='https://www.flickr.com/photos/scyrene/5815735000' target='_blank' rel='nofollow noopener'>flickr</a> / <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank' rel='nofollow noopener'>cc by-nc-nd 2.0</a></p>
 		</div>">
 			<img src="jaffa/Rosa_gallica_versicolor.jpg" />
