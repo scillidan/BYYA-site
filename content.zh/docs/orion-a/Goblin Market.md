@@ -1,10 +1,13 @@
 ---
 weight: 12
-title: 哥布林市场
 ---
-# 哥布林市场:1
 
-克里斯蒂娜·罗塞蒂
+```
+Title: Goblin Market #1
+Authors: Christina Rossetti
+Illustrators:	Dante Gabriel Rossetti
+Published: 1862
+```
 
 morning and evening  
 maids heard the goblins cry:  

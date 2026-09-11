@@ -1,6 +1,6 @@
 ---
-title: lyra α
-weight: 32
+title: altair α
+weight: 33
 bookCollapseSection: true
 ---
 

@@ -14,7 +14,7 @@ headless: true
 
 - [**orion α**]({{< relref "/docs/orion-a" >}})
 - [lyra α]({{< relref "/docs/lyra-a" >}})
-- [lyra β]({{< relref "/docs/lyra-b" >}})
+- [altair β]({{< relref "/docs/altair-a" >}})
 - [demo]({{< relref "/docs/demo" >}})
 <br />
 
