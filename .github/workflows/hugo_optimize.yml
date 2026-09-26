@@ -82,7 +82,9 @@ jobs:
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
 
       - name: Install pkgs for hugo-picture-optimization
-        run: sudo apt install -y libimage-exiftool-perl jpegoptim optipng imagemagick && sudo apt-get install coreutils
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libimage-exiftool-perl jpegoptim optipng imagemagick coreutils
 
       - name: Make hugo_optimized.sh executeable
         run: sudo chmod +x ./hugo_optimized.sh
